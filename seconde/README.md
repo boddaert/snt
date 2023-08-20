@@ -6,11 +6,19 @@ Chapitre 0 : [Introduction]
 
 Chapitre 1 : [Web](./Web/)
 
-- Leçon 1 : [Repères historiques](./Web/reperes_historiques.md)
+- Leçon 1 : [Définitions](./Web/Definitions.md)
 
-- Leçon 2 : [Hypertexte](./Web/hypertexte.md)
+- Leçon 2 : [Repères historiques](./Web/Reperes_historiques.md)
 
-- Leçon 3 : [Moteurs de recherche](./Web/moteurs_de_recherche.md)
+- Leçon 3 : [Hypertexte](./Web/Hypertexte.md)
+
+- Leçon 4 : [Moteurs de recherche](./Web/Moteurs_de_recherche.md)
+
+- Leçon 5 : [Navigateurs](./Web/Navigateurs.md)
+
+- Leçon 6 : [URL](./Web/URL.md)
+
+- Leçon 7 : [Modèle Client Serveur](./Web/Modele_client_serveur.md)
 
 Chapitre 2 : [Réseaux sociaux]
 
