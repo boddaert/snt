@@ -57,11 +57,7 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
 
 ```mermaid
   graph LR;
-    A{Page web n°1}-->B{Page web n°2};
-    B-->A;
-    A-->C{Page web n°3};
-    C-->A;
-    C-->B;
+      A-->B
 ```
 
 ### Plateau 2
