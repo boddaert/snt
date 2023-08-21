@@ -53,8 +53,7 @@ Ci-dessous plusieurs plateaux représentant schématiquement le web.
 
 Les sommets représentent les pages web, et les liens entre les sommets représentent les références vers cette page.
 
-### Plateau 1 :
-
+### Plateau 1
 
 ```mermaid
   graph LR;
@@ -69,10 +68,6 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
 
 ```mermaid
   graph LR;
-      A{Page web n°1};
-      B{Page web n°2};
-      C{Page web n°3};
-      D{Page web n°4};
       A-->B;
       B-->B;
       A-->C;
@@ -85,10 +80,6 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
 
 ```mermaid
   graph LR;
-      A{Page web n°1};
-      B{Page web n°2};
-      C{Page web n°3};
-      D{Page web n°4};
       A-->B;
       B-->A;
       A-->C;
