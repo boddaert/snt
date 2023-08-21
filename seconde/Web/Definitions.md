@@ -21,3 +21,7 @@ Celui qui est utilisé pour le style est le CSS (*Cascading Style Sheets*).
 Le web et Internet ne sont donc pas les mêmes choses.
 
 Nous disons que le web est une application qui utilise Internet.
+
+___________
+
+Leçon 2 : [Repères historiques](./Reperes_historiques.md)

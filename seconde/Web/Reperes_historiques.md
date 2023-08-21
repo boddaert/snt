@@ -13,3 +13,7 @@ a) La vidéo suivante énnonce les grands repères historiques, trouver et noter
 b) Aller sur [https://kahoot.it/](https://kahoot.it/), entrer le code PIN de la partie et votre prénom comme pseudonyme.
 
 c) Répondre aux questions du quiz.
+
+______________
+
+Leçon 3 : [Hypertexte](./Hypertexte.md)

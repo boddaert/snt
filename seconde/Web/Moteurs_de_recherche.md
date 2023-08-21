@@ -130,3 +130,7 @@ f) Il n'est pas impossible qu'aucune page web fasse référence vers une autre p
 g) Proposer une légère modification à l'algorithme pour pallier à ce problème.
 
 h) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes et donner vos résultats.
+
+_______________
+
+Leçon 5 : [Navigateurs](./Navigateurs.md)

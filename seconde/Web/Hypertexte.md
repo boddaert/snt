@@ -11,3 +11,7 @@ L'idée est de se rapprocher de la page d'arrivée.
 a) Rejoindre le groupe de jeu en ligne en cliquant sur le lien suivant : [https://wikispeedruns.com/lobby/27091](https://wikispeedruns.com/lobby/27091)
 
 b) Entrer votre nom et le mot de passe : `966960`.
+
+___________
+
+Leçon 4 : [Moteurs de recherche](./Moteurs_de_recherche.md)
