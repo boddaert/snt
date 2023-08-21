@@ -4,7 +4,7 @@
 
 Les *moteurs de recherche* permettent de trouver des informations dans des pages web dont nous ne connaissons pas l'adresse, voire dont nous ignorons l'existance.
 
-Usuellement, nous tapons quelques mots clé dans la barre de recherche et plusieurs liens hypertextes sont affichés.
+Usuellement, nous tapons quelques mots-clés dans la barre de recherche et plusieurs liens hypertextes sont affichés.
 
 Voici ci-dessous un graphique présentant la part du marché des différents moteurs de recherche en France en 2020 :
 
@@ -57,14 +57,14 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
 
 ```mermaid
   graph LR;
-      A{Page web n°1};
-      B{Page web n°2};
-      C{Page web n°3};
-      A-->B;
-      B-->A;
-      A-->C;
-      C-->A;
-      c-->B;
+    A{Page web n°1};
+    B{Page web n°2};
+    C{Page web n°3};
+    A-->B;
+    B-->A;
+    A-->C;
+    C-->A;
+    C-->B;
 ```
 
 ### Plateau 2
