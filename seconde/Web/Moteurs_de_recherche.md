@@ -73,7 +73,7 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
       A-->C;
       C-->B;
       C-->A;
-      c-->D;
+      C-->D;
 ```
 
 ### Plateau 3
