@@ -10,7 +10,7 @@ Le *web* (ou *World Wide Web*) est un ensemble de documents reliés entre eux pa
 
 Les documents peuvent être de tout types : un texte, une image, une vidéo, un son, ...
 
-Un lien *hypertexte* est un lien cliquable menant vers un autre document. Il est souvent représenté en bleu souligné : [Exemple](./Introduction.md).
+Un lien *hypertexte* ou *hyperlien* est un lien cliquable menant vers un autre document sur le web. Il est souvent représenté en bleu souligné : [Exemple](./Introduction.md).
 
 Le langage informatique permettant d'écrire des documents hypertexte est le HTML (*HyperText Markup Language*).
 

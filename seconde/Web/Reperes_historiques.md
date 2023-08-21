@@ -10,4 +10,6 @@ a) La vidéo suivante énnonce les grands repères historiques, trouver et noter
 
 ![](./img/video_reperes_historiques_web.mp4)
 
-b) Répondre aux questions du quiz `kahoot`.
+b) Aller sur [https://kahoot.it/](https://kahoot.it/), entrer le code PIN de la partie et votre prénom comme pseudonyme.
+
+c) Répondre aux questions du quiz.

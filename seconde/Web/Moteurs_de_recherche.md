@@ -1,0 +1,132 @@
+# Moteurs de recherche
+
+## a) Définition
+
+Les *moteurs de recherche* permettent de trouver des informations dans des pages web dont nous ne connaissons pas l'adresse, voire dont nous ignorons l'existance.
+
+Usuellement, nous tapons quelques mots clé dans la barre de recherche et plusieurs liens hypertextes sont affichés.
+
+Voici ci-dessous un graphique présentant la part du marché des différents moteurs de recherche en France en 2020 :
+
+![Moteurs de recherche, France, 2020](./img/graphique_moteurs_de_recherche.png)
+
+## b) Activité 1
+
+a) Effectuer la recherche `Apollo 11` sur les trois moteurs de recherche proposés et compléter le tableau suivant avec vos résultats de recherche :
+
+| Moteur de recherche | Présence d'une annonce de publicité en tête des résultats| Position du lien vers Wikipédia | Position du premier lien vers un média culturel | Position du premier lien vers le film Apollo 11 |
+| --- | --- | --- | --- | --- |
+| Google | | | | |
+| Qwant | | | | |
+| Yahoo! | | | | |
+| DuckDuckGo | | | | |
+
+b) Essayer d'expliquer pourquoi le classement des résultats est différent selon les moteurs de recherche.
+
+c) Quel moteur de recherche conseillerez-vous ?
+
+d) Pourquoi est-il important pour une page web d'être en tête d'un classement de recherche ?
+
+## c) Des robots pour classer
+
+Pour classifier les pages, les moteurs de recherche envoient des robots informatiques (programmes) sur le web.
+
+Ces robots explorent en visitant les pages du web, trient et classifient les pages selon certaines informations.
+
+Ces algorithmes de classement ne sont pas connus exactement puisqu'ils sont considérés comme des secrets industriels.
+
+Il existe trois méthodes de tri :
+
+- Le *tri par pertinence*, qui évalue entre autres le nombre de fois que le mot-clé recherché apparaît dans une page web.
+
+- Le *tri par popularité*, comme le `PageRank` de Google, qui note la popularité d'une page web.
+
+- Le *tri par rapport à l'audiance*, qui évalue le temps resté par l'internaute sur une page web.
+ 
+## d) Activité 2
+
+Par groupe de deux ou trois.
+
+L'objectif de l'activité est de comprendre comment l'algorithme `PageRank` de Google parvient à trier les pages web selon leur popularité.
+
+Ci-dessous plusieurs plateaux représentant schématiquement le web.
+
+Les sommets représentent les pages web, et les liens entre les sommets représentent les références vers cette page.
+
+### Plateau 1 :
+
+```mermaid
+  graph LR;
+      A{Page web n°1};
+      B{Page web n°2};
+      C{Page web n°3};
+      A-->B;
+      B-->A;
+      A-->C;
+      C-->A;
+      c-->B;
+```
+
+### Plateau 2
+
+```mermaid
+  graph LR;
+      A{Page web n°1};
+      B{Page web n°2};
+      C{Page web n°3};
+      D{Page web n°4};
+      A-->B;
+      B-->B;
+      A-->C;
+      C-->B;
+      C-->A;
+      c-->D;
+```
+
+### Plateau 3
+
+```mermaid
+  graph LR;
+      A{Page web n°1};
+      B{Page web n°2};
+      C{Page web n°3};
+      D{Page web n°4};
+      A-->B;
+      B-->A;
+      A-->C;
+      C-->A;
+      c-->B;
+      D-->B;
+```
+
+### Algorithme PageRank
+
+L'algorithme de `PageRank` consiste :
+
+1. Premièrement à choisir une page aléatoirement entre toute les pages du web.
+
+2. Choisir aléatoirement la prochaine page en fonction des références.
+
+3. Visiter cette page.
+
+4. Augmenter le nombre de visite à cette page de 1, et le noter.
+
+5. Reprendre à partir de l'étape 2.
+
+### Questions
+
+a) Dessiner suffisamment grand les trois plateaux sur une feuille.
+
+b) Appliquer l'algorithme de `PageRank` sur le plateau 1 pendant cinq minutes et donner vos résultats.
+
+c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. De quel plateau s'agit-il ?
+
+d) Proposer une légère modification à l'algorithme pour pallier à ce problème.
+
+e) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes et donner vos résultats.
+
+f) Il n'est pas impossible qu'aucune page web fasse référence vers une autre page en particulier. De quel plateau s'agit-il ?
+
+g) Proposer une légère modification à l'algorithme pour pallier à ce problème.
+
+h) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes et donner vos résultats.
