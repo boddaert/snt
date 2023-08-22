@@ -24,8 +24,8 @@ Le modèle Client-Serveur repose sur le protocole de communication HTTP (*HyperT
 
 ```mermaid
     graph LR;
-        A[CLIENT]--{Requête HTTP}-->B[SERVEUR];
-        B--{Ressource}-->A;
+        CLIENT--{Requête HTTP}-->SERVEUR;
+        SERVEUR--{Ressource}-->CLIENT;
 ```
 
 

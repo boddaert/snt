@@ -15,10 +15,9 @@ Une URL est composée de plusieurs éléments :
 - Elle commence par le nom du protocole de communication utilisé : `http` ou `https` pour sa version sécurisée.
 
 - Puis de l'adresse du serveur web où est stocké le document : `www.wikipedia.org`. Cette même adresse est composée :
-
- + D'un nom de sous-domaine : `www`.
- + D'un nom de domaine : `wikipedia`.
- + Et du type de domaine : `org` (Il s'agit ici d'une organisation).
++ D'un nom de sous-domaine : `www`.
++ D'un nom de domaine : `wikipedia`.
++ Et du type de domaine : `org` (Il s'agit ici d'une organisation).
 
 - Du chemin de la ressource ou du document à afficher : `Informatique`.
 
