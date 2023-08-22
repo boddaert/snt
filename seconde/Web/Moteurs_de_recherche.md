@@ -2,13 +2,15 @@
 
 ## a) Définition
 
-Les *moteurs de recherche* permettent de trouver des informations dans des pages web dont nous ne connaissons pas l'adresse, voire dont nous ignorons l'existance.
+Un *moteur de recherche* est une application web.
+
+Les moteurs de recherche permettent de trouver des informations dans des pages web dont nous ne connaissons pas l'adresse, voire dont nous ignorons l'existance.
 
 Usuellement, nous tapons quelques mots-clés dans la barre de recherche et plusieurs liens hypertextes sont affichés.
 
 Voici ci-dessous un graphique présentant la part du marché des différents moteurs de recherche en France en 2020 :
 
-![Moteurs de recherche, France, 2020](./img/graphique_moteurs_de_recherche.png)
+![Moteurs de recherche les plus utilisés en France, en février 2020 - Statcounter.com](./img/graphique_moteurs_de_recherche.png)
 
 ## b) Activité 1
 
@@ -51,41 +53,41 @@ L'objectif de l'activité est de comprendre comment l'algorithme `PageRank` de G
 
 Ci-dessous plusieurs plateaux représentant schématiquement le web.
 
-Les sommets représentent les pages web, et les liens entre les sommets représentent les références vers cette page.
+Les sommets représentent les pages web, et les liens entre les sommets représentent les liens hypertexte vers cette page.
 
 ### Plateau 1
 
 ```mermaid
   graph LR;
-      A-->B;
-      B-->A;
-      A-->C;
-      C-->A;
-      C-->B;
+      1-->2;
+      2-->1;
+      1-->3;
+      3-->1;
+      3-->2;
 ```
 
 ### Plateau 2
 
 ```mermaid
   graph LR;
-      A-->B;
-      B-->B;
-      A-->C;
-      C-->B;
-      C-->A;
-      C-->D;
+      1-->2;
+      2-->2;
+      1-->3;
+      3-->2;
+      3-->1;
+      3-->4;
 ```
 
 ### Plateau 3
 
 ```mermaid
   graph LR;
-      A-->B;
-      B-->A;
-      A-->C;
-      C-->A;
-      c-->B;
-      D-->B;
+      1-->2;
+      2-->1;
+      1-->3;
+      3-->1;
+      3-->2;
+      4-->2;
 ```
 
 ### Algorithme PageRank
@@ -108,17 +110,17 @@ a) Dessiner suffisamment grand les trois plateaux sur une feuille.
 
 b) Appliquer l'algorithme de `PageRank` sur le plateau 1 pendant cinq minutes et donner vos résultats.
 
-c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. De quel plateau s'agit-il ?
+c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau 2 ?
 
 d) Proposer une légère modification à l'algorithme pour pallier à ce problème.
 
-e) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes et donner vos résultats.
+e) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau 2 et donner vos résultats.
 
-f) Il n'est pas impossible qu'aucune page web fasse référence vers une autre page en particulier. De quel plateau s'agit-il ?
+f) Il n'est pas impossible qu'aucune page web fasse référence vers une autre page en particulier. Quelle page est concernée sur plateau 3 ?
 
 g) Proposer une légère modification à l'algorithme pour pallier à ce problème.
 
-h) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes et donner vos résultats.
+h) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau 3 et donner vos résultats.
 
 _______________
 
