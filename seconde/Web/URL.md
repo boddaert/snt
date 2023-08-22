@@ -6,7 +6,7 @@ Une *URL* (*Uniform Resource Locator*) ou *adresse web* en Français est une adr
 
 Nous l'écrivons ou elle s'affiche dans la barre d'adresse du navigateur.
 
-Par exemple [https://www.wikipedia.org/wiki/Informatique](https://fr.wikipedia.org/wiki/Informatique) est une adresse web menant vers la page `informatique` du site Wikipédia.
+Par exemple [https://www.wikipedia.org/wiki/Computer_science](https://fr.wikipedia.org/wiki/Informatique) est une adresse web menant vers la page `informatique` du site Wikipédia.
 
 ## b) Décomposition
 
@@ -19,7 +19,7 @@ Une URL est composée de plusieurs éléments :
     + D'un nom de domaine : `wikipedia`.
     + Et du type de domaine : `org` (Il s'agit ici d'une organisation).
 
-- Du chemin de la ressource ou du document à afficher : `Informatique`.
+- Du chemin de la ressource ou du document à afficher : `wiki/Computer_science`.
 
 - Et d'éventuels paramètres.
 
@@ -29,7 +29,7 @@ Décomposer les URLs suivantes :
 
 - https://www.wikipedia.org/web
 
-- https://www.youtube.com/Scienceparticipative
+- https://www.google.com
 
 - https://www1.ac-lille.fr/
 

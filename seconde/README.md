@@ -20,7 +20,9 @@ Chapitre 1 : [Web](./Web/)
 
 - Leçon 7 : [Modèle Client Serveur](./Web/Modele_client_serveur.md)
 
-- Leçon 8 : [Langages HTML et CSS](./Web/HTML-CSS.md)
+- Leçon 8 : [Langage HTML](./Web/HTML.md)
+
+- Leçon 9 : [Langage CSS](./Web/CSS.md)
 
 Chapitre 2 : [Réseaux sociaux]
 
