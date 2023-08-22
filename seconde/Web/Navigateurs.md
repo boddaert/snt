@@ -6,7 +6,7 @@ Un *navigateur web* est un logiciel permettant de visiter à travers le web et d
 
 ## b) Activité 1
 
-Citer des navigateurs existants.
+Citer les noms de navigateurs existants.
 
 ## c) Sécurité
 
