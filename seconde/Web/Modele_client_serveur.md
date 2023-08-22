@@ -70,4 +70,4 @@ d) En parcourant la requête HTTP et la réponse, trouver les informations suiva
 
 __________
 
-Leçon 8 : [Langages HTML et CSS](./HTML-CSS.md)
+Leçon 8 : [Langage HTML](./HTML.md)
