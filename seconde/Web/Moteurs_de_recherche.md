@@ -63,9 +63,8 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
       2-->4;
       4-->1;
       3-->5;
-      5-->3;
+      5-->4;
       1-->3;
-      3-->1;
       2-->1;
       1-->6;
       6-->1;
