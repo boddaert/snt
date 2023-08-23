@@ -60,11 +60,41 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
 ```mermaid
   graph LR;
       1-->2;
-      2-->1;
+      2-->4;
+      4-->1;
+      3-->5;
+      5-->3;
       1-->3;
       3-->1;
+      2-->1;
+      1-->6;
+      6-->1;
       3-->2;
 ```
+
+
+
+### Algorithme PageRank
+
+L'algorithme de `PageRank` consiste :
+
+1. Premièrement à choisir une page aléatoirement entre toute les pages du web.
+
+2. Choisir aléatoirement la prochaine page en fonction des références.
+
+3. Visiter cette page.
+
+4. Augmenter le nombre de visite à cette page de 1, et le noter.
+
+5. Reprendre à partir de l'étape 2.
+
+### Questions
+
+a) Dessiner suffisamment grand les trois plateaux sur une feuille.
+
+b) Appliquer l'algorithme de `PageRank` sur le plateau 1 pendant cinq minutes et donner vos résultats.
+
+c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau 2 ?
 
 ### Plateau 2
 
@@ -89,28 +119,6 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
       3-->2;
       4-->2;
 ```
-
-### Algorithme PageRank
-
-L'algorithme de `PageRank` consiste :
-
-1. Premièrement à choisir une page aléatoirement entre toute les pages du web.
-
-2. Choisir aléatoirement la prochaine page en fonction des références.
-
-3. Visiter cette page.
-
-4. Augmenter le nombre de visite à cette page de 1, et le noter.
-
-5. Reprendre à partir de l'étape 2.
-
-### Questions
-
-a) Dessiner suffisamment grand les trois plateaux sur une feuille.
-
-b) Appliquer l'algorithme de `PageRank` sur le plateau 1 pendant cinq minutes et donner vos résultats.
-
-c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau 2 ?
 
 d) Proposer une légère modification à l'algorithme pour pallier à ce problème.
 
