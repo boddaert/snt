@@ -51,9 +51,7 @@ Par groupe de deux ou trois.
 
 L'objectif de l'activité est de comprendre comment l'algorithme `PageRank` de Google parvient à trier les pages web selon leur popularité.
 
-Ci-dessous plusieurs plateaux représentant schématiquement le web.
-
-Les sommets représentent les pages web, et les liens entre les sommets représentent les liens hypertexte vers cette page.
+Ci-dessous un plateau représentant schématiquement six pages web reliées les unes aux autres par des liens hypertextes.
 
 ### Plateau 1
 
@@ -71,29 +69,31 @@ Les sommets représentent les pages web, et les liens entre les sommets représe
       3-->2;
 ```
 
-
-
 ### Algorithme PageRank
+
+*Matériel : un plateau, un dé et un pion.*
 
 L'algorithme de `PageRank` consiste :
 
-1. Premièrement à choisir une page aléatoirement entre toute les pages du web.
+1. Choisir une page de départ aléatoirement entre toute les pages du web en lançant le dé.
 
-2. Choisir aléatoirement la prochaine page en fonction des références.
+2. Lancer le dé, si la page du numéro tiré est accessible :
 
-3. Visiter cette page.
+  + Visiter cette page.
 
-4. Augmenter le nombre de visite à cette page de 1, et le noter.
+  + Augmenter le nombre de visite à cette page de $1$, et le noter.
 
-5. Reprendre à partir de l'étape 2.
+3. Répéter l'étape $2$.
 
 ### Questions
 
-a) Dessiner suffisamment grand les trois plateaux sur une feuille.
+a) Dessiner suffisamment grand le plateau $1$ sur une feuille.
 
 b) Appliquer l'algorithme de `PageRank` sur le plateau 1 pendant cinq minutes et donner vos résultats.
 
-c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau 2 ?
+c) Donner l'ordre de popularité des pages.
+
+d) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau $2$ ci-dessous ?
 
 ### Plateau 2
 
@@ -104,30 +104,44 @@ c) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autr
       1-->3;
       3-->2;
       3-->1;
+      3-->6;
+      6-->1;
       3-->4;
+      4-->5;
+      5-->1;
 ```
+e) Dessiner suffisamment grand le plateau $2$ sur une feuille.
+
+f) Proposer une légère modification à l'algorithme pour pallier à ce problème.
+
+g) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau $2$ et donner vos résultats.
+
+h) Donner la popularité des pages.
+
+i) Il n'est pas impossible qu'aucune page web fasse référence vers une autre page en particulier. Quelle page est concernée sur plateau $3$ ?
+
 
 ### Plateau 3
 
 ```mermaid
   graph LR;
       1-->2;
+      1-->6;
+      6-->5;
+      5-->1.
       2-->1;
       1-->3;
       3-->1;
       3-->2;
       4-->2;
 ```
+j) Dessiner suffisamment grand le plateau $3$ sur une feuille.
 
-d) Proposer une légère modification à l'algorithme pour pallier à ce problème.
+k) Proposer une légère modification à l'algorithme pour pallier à ce problème.
 
-e) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau 2 et donner vos résultats.
+l) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau $3$ et donner vos résultats.
 
-f) Il n'est pas impossible qu'aucune page web fasse référence vers une autre page en particulier. Quelle page est concernée sur plateau 3 ?
-
-g) Proposer une légère modification à l'algorithme pour pallier à ce problème.
-
-h) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau 3 et donner vos résultats.
+m) Donner la popularité des pages.
 
 _______________
 
