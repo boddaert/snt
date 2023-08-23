@@ -2,7 +2,7 @@
 
 ## a) Définition
 
-Le langage HTML (*HyperText Markup Language*) que nous pouvons traduire par "langage de balisage hypertexte" est le langage utilisé pour structurer une page web et son contenu.
+Le langage HTML (*HyperText Markup Language*) que nous pouvons traduire en Français par "langage de balisage hypertexte" est le langage utilisé pour structurer une page web et son contenu.
 
 Nous pouvons par exemple organiser le contenu en un ensemble de paragraphes, une liste d'éléments, utiliser des images ou des tableaux.
 
@@ -32,7 +32,7 @@ Il faut cependant faire attention à imbriquer correctement les balises.
 
 ## d) Structure d'un document HTML
 
-Un document HTML est organisé d'un façon précise. 
+Un document HTML est organisé d'une façon précise. 
 
 Tous les éléments du document sont contenus dans une balise `html`.
 
@@ -59,15 +59,17 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 
 ## e) Activité 1
 
+Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
+
 a) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML.
 
-b) Enregistrer sous le fichier dans votre espace de travail sous la forme `votre_nom_memo_html` suivi de l'extension `.html`.
+b) Enregistrer sous le fichier dans votre espace de travail sous la forme `votre-nom_presentation` suivi de l'extension `.html`.
 
 c) Vérifier votre code dans le navigateur en cliquant sur l'onglet `Affichage` puis de `Afficher le fichier dans` et choisir `Firefox`.
 
-d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https://www.w3schools.com/tags/default.asp](https://www.w3schools.com/tags/default.asp)), compléter votre mémo pour qu'il contienne au moins :
+d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https://www.w3schools.com/tags/default.asp](https://www.w3schools.com/tags/default.asp)), compléter votre présentation pour qu'il contienne au moins :
 
-- Un titre de taille $5$, puis $4$, puis $3$, puis $2$, puis $1$.
+- Un titre de taille $1$, puis $2$, puis $3$.
 - Un paragraphe.
 - Un paragraphe souligné.
 - Un paragraphe gras.
@@ -76,6 +78,7 @@ d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https
 - Une image.
 - Une liste à puces numérotée.
 - Une liste à puces non numérotée.
+- Un texte mise dans un bloc `div`.
 - Un tableau à plusieurs colones et plusieurs lignes.
 
 ___________
