@@ -89,11 +89,11 @@ L'algorithme de `PageRank` consiste :
 
 a) Dessiner suffisamment grand le plateau $1$ sur une feuille.
 
-b) Appliquer l'algorithme de `PageRank` sur le plateau 1 pendant cinq minutes et donner vos résultats.
+b) Appliquer l'algorithme de `PageRank` sur le plateau $1$ pendant cinq minutes et donner vos résultats.
 
 c) Donner l'ordre de popularité des pages.
 
-d) Il n'est pas impossible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau $2$ ci-dessous ?
+d) Il est possible qu'une page web ne fasse référence vers aucune autre. Quelle page est concernée sur le plateau $2$ ci-dessous ?
 
 ### Plateau 2
 
@@ -128,7 +128,7 @@ i) Il n'est pas impossible qu'aucune page web fasse référence vers une autre p
       1-->2;
       1-->6;
       6-->5;
-      5-->1.
+      5-->1;
       2-->1;
       1-->3;
       3-->1;
