@@ -13,7 +13,6 @@ Voici ci-dessous un graphique présentant la part du marché des différents mot
 ![Moteurs de recherche les plus utilisés en France, en février 2020 - Statcounter.com](./img/graphique_moteurs_de_recherche.png)
 
 ```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title Key elements in Product X
     "Calcium" : 42.96
