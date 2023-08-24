@@ -73,7 +73,6 @@ Ci-dessous un plateau représentant schématiquement six pages web reliées les 
       3-->5;
       5-->4;
       1-->3;
-      2-->1;
       1-->6;
       6-->1;
       3-->2;
