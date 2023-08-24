@@ -8,12 +8,14 @@ Il est stocké sur un serveur et est donc accessible depuis n'importe quel appar
 
 Il se découpe selon le schéma suivant :
 
-- `seconde`
-    |
-    - `Nom du chapitre`
-        |
-        - `Leçon`
-        - Autres (`Images`, `Fichiers de travail`)
+- :file_folder: `snt`
+    - :file_folder: `seconde`
+        - :file_folder: `Chapitre 1`
+            - :page_facing_up: `Leçon 1`
+            - :page_facing_up: `Leçon 2`
+        - :file_folder: `Chapitre 2`
+            - :page_facing_up: `Leçon 1`
+            - :page_facing_up: `Leçon 2`
 
 En bas de page, se trouve le sommaire dans lequel s'y figure le lien des leçons dans l'ordre de progression.
 
