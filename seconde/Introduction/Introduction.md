@@ -4,9 +4,9 @@
 
 ```mermaid
     flowchart TB;
-        markdown["`This :file_folder:  ll`"]
+        A[[📁 snt]]
         
-        A-->B[[seconde]];
+        A-->B[[seconde]]
         B[[seconde]]-->C[[Chapitre 1]]
         B[[seconde]]-->F[[Chapitre 2]]
         C[[Chapitre 1]]-->D[/Leçon 1/]
