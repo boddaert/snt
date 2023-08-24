@@ -4,11 +4,13 @@
 
 ```mermaid
     flowchart TB;
-        A[[snt]]-->B[[seconde]];
+        A[["far fa-folder-open snt"]]-->B[[seconde]];
         B[[seconde]]-->C[[Chapitre 1]];
-        B[[seconde]]-->C[[Chapitre 2]];
+        B[[seconde]]-->F[[Chapitre 2]];
         C[[Chapitre 1]]-->D[/Leçon 1/];
         C[[Chapitre 1]]-->E[/Leçon 2/];
+        F[[Chapitre 2]]-->G[/Leçon 1/];
+        F[[Chapitre 2]]-->H[/Leçon 2/];
 ```
 
 
