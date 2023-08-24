@@ -16,12 +16,12 @@ Voici ci-dessous un graphique présentant la part du marché des différents mot
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 pie showData
     title Utilisation des moteurs de recherche en France en 2020
-    "Yahoo!" : 1.41
-    "Ecosia" :  1.15
-    "Qwant" : 0.84
     "DuckDuckGo" : 0.35
-    "Google" : 92.35
+    "Qwant" : 0.84
+    "Ecosia" :  1.15
+    "Yahoo!" : 1.41
     "Bing" : 3.66
+    "Google" : 92.35
 ```
 
 ## b) Activité 1
