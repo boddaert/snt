@@ -4,7 +4,7 @@
 
 ```mermaid
     flowchart TB;
-        markdown["`:file_folder:`"]
+        markdown["`This **is** _Markdown_`"]
         
         A-->B[[seconde]];
         B[[seconde]]-->C[[Chapitre 1]]
