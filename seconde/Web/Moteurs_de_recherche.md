@@ -13,6 +13,11 @@ Voici ci-dessous un graphique présentant la part du marché des différents mot
 ![Moteurs de recherche les plus utilisés en France, en février 2020 - Statcounter.com](./img/graphique_moteurs_de_recherche.png)
 
 ```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
+              'cScale0': '#ff0000', 'cScaleLabel0': '#ffffff',
+              'cScale1': '#00ff00',
+              'cScale2': '#0000ff', 'cScaleLabel2': '#ffffff'
+       } } }%%
 pie showData
     title Utilisation des moteurs de recherche en France en 2020
     "Google" : 92.35
