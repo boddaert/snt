@@ -12,7 +12,7 @@ Pour nous aider à écrire des programmes informatiques, les informaticiens util
 
 L'objectif de construire un algorithme est qu'il soit compris par tous et qu'on puisse le traduire dans n'importe quel langage de programmation.
 
-Une recette de cuisine est un algorithme.
+Un algorithme est comparable à une recette de cuisine.
 
 Par exemple :
 
