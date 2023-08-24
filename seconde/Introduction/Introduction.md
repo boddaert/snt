@@ -1,23 +1,6 @@
 # Introduction
 
-## I. Explorateur de fichiers
-
-```mermaid
-    flowchart TB;
-        test[[snt]]
-        
-        A-->B[[seconde]]
-        B[[seconde]]-->C[[Chapitre 1]]
-        B[[seconde]]-->F[[Chapitre 2]]
-        C[[Chapitre 1]]-->D[/Leçon 1/]
-        C[[Chapitre 1]]-->E[/Leçon 2/]
-        F[[Chapitre 2]]-->G[/Leçon 1/]
-        F[[Chapitre 2]]-->H[/Leçon 2/]
-```
-
-:file_folder:
-
-## II. L'informatique
+## I. L'informatique
 
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques.
 
@@ -30,3 +13,70 @@ Pour nous aider à écrire des programmes informatiques, les informaticiens util
 L'objectif de construire un algorithme est qu'il soit compris par tous et qu'on puisse le traduire dans n'importe quel langage de programmation.
 
 Une recette de cuisine est un algorithme.
+
+Par exemple :
+
+```
+Recette Mayonnaise
+- Mettre un jaune d'oeuf dans un bol
+- Y ajouter une cuillière de moutarde
+- Tant que la préparation est liquide :
+    - Ajouter une cuillière à soupe d'huile.
+    - Fouetter la préparation.
+```
+
+## II. L'explorateur de fichiers
+
+### a) Arborescence
+
+Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'une arborescence représentant une hierarchie de répertoires et de fichiers :
+
+- :file_folder: `C:`
+    - :file_folder: `perso`
+        - :page_rancing_up: `cv.odt`
+        - :file_folder: `photos`
+            - :page_rancing_up: `moi.png`
+    - :file_folder: `lycee`
+        - :file_folder: `cours`
+            - :file_folder: `snt`
+                - :page_rancing_up: `lecon1.odt`
+
+Un *dossier* ou *répertoire* peut contenir des fichiers ou d'autres répertoires.
+
+Un *fichier* est un contenant d'informations et possède en plus du répertoire une extension.
+
+L'extension indique de quel type de fichier il s'agit (par exemple : `.png` pour les images).
+
+Une arborescence est toujours constituée d'un dossier racine, sur le système Windows il s'agit de `C:`.
+
+### b) Chemins
+
+Pour représenter un fichier, nous indiquons généralement le chemin vers ce fichier.
+
+Il existe deux types de chemins :
+
+- Celui depuis la racine, appelé *chemin absolu*.
+- Celui depuis l'endroit où nous sommes, appelé *chemin relatif*.
+
+Le chemin se construit en donnant tous les répertoires à traverser pour arriver jusqu'à destination.
+
+Les noms de répertoires sont séparés par des `/`.
+
+`..` représente le répertoire parent.
+
+Par exemple :
+
+- Chemin absolu du fichier `moi.png` : `C:/perso/photos/moi.png`.
+- Chemin relatif du fichier `moi.png` depuis le répertoire `cours` : `../perso/photos/moi.png`
+
+## c) Activité 1
+
+Donner le chemin absolu du fichier :
+
+- `cv.odt`.
+- `lecon1.odt`.
+
+Donner le chemin relatif depuis le répertoire `photos` du fichier :
+
+- `cv.odt`.
+- `lecon1.odt`.
