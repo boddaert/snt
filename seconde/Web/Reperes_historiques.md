@@ -15,12 +15,8 @@ b) Aller sur [https://kahoot.it/](https://kahoot.it/), entrer le code PIN de la 
 c) Répondre aux questions du quiz.
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
-              'cScale0': '#ff0000', 'cScaleLabel0': '#ffffff',
-              'cScale1': '#00ff00',
-              'cScale2': '#0000ff', 'cScaleLabel2': '#ffffff'
-       } } }%%
-       timeline
+%%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
+    timeline
         title History of Social Media Platform
           2002 : LinkedIn
           2004 : Facebook : Google
