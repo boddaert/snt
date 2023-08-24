@@ -4,7 +4,7 @@
 
 ```mermaid
     flowchart TB;
-        A["fa:fa-tree"]
+        markdown["`:file_folder:`"]
         
         A-->B[[seconde]];
         B[[seconde]]-->C[[Chapitre 1]]
@@ -15,7 +15,7 @@
         F[[Chapitre 2]]-->H[/Leçon 2/]
 ```
 
-
+:file_folder:
 
 ## II. L'informatique
 
