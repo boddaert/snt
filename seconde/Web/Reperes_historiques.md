@@ -6,25 +6,22 @@ Anecdote : Nous estimons à 1,4 milliard le nombre de sites web créés dans le 
 
 ## a) Activité 1
 
-a) La vidéo suivante énnonce les grands repères historiques, trouver et noter ces informations sur une feuille de papier :
-
 ![](./img/video_reperes_historiques_web.mp4)
 
-b) Aller sur [https://kahoot.it/](https://kahoot.it/), entrer le code PIN de la partie et votre prénom comme pseudonyme.
-
-c) Répondre aux questions du quiz.
+a) Compléter les informations de la frise suivante à l'aide de la vidéo :
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
     timeline
         title History of Social Media Platform
-          2002 : LinkedIn
-          2004 : Facebook : Google
-          2005 : Youtube
-          2006 : Twitter
-          2007 : Tumblr
-          2008 : Instagram
-          2010 : Pinterest
+          1965 : ...
+          ... : Tim Berners Lee donne naissance au World Wide Web, un ensemble de document accessible sur Internet entre lesquels nous pouvons naviguer via des liens hypertextes.
+          1991 : ...
+          1993 : ...
+          ... : Les langages PHP et JavaScript rendent les pages dynamiques, ce qui démocratise le web.
+          1994 : ...
+          ... : Les pages web sont standardisées par le W3C en utilisant dans leur structure l'arbre DOM (pour Document Object Model).
+          2017 : ...
 ```
 ______________
 
