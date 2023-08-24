@@ -15,13 +15,20 @@ b) Aller sur [https://kahoot.it/](https://kahoot.it/), entrer le code PIN de la 
 c) Répondre aux questions du quiz.
 
 ```mermaid
-timeline
-    title History of Social Media Platform
-    2002 : LinkedIn
-    2004 : Facebook
-         : Google
-    2005 : Youtube
-    2006 : Twitter
+%%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
+              'cScale0': '#ff0000', 'cScaleLabel0': '#ffffff',
+              'cScale1': '#00ff00',
+              'cScale2': '#0000ff', 'cScaleLabel2': '#ffffff'
+       } } }%%
+       timeline
+        title History of Social Media Platform
+          2002 : LinkedIn
+          2004 : Facebook : Google
+          2005 : Youtube
+          2006 : Twitter
+          2007 : Tumblr
+          2008 : Instagram
+          2010 : Pinterest
 ```
 ______________
 
