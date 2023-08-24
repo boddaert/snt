@@ -1,8 +1,8 @@
 # Seconde SNT
 
-Chapitre -1 : [Prise de contact]
+Chapitre -1 : [Prise de contact](./Prise%20de%20contact/Prise_de_contact.md)
 
-Chapitre 0 : [Introduction]
+Chapitre 0 : [Introduction](./Introduction/Introduction.md)
 
 Chapitre 1 : [Web](./Web/)
 
