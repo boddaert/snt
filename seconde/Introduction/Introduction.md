@@ -4,7 +4,7 @@
 
 ```mermaid
     flowchart TB;
-        test[[📁 snt]]
+        test[[snt]]
         
         A-->B[[seconde]]
         B[[seconde]]-->C[[Chapitre 1]]
