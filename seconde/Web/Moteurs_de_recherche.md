@@ -14,9 +14,9 @@ Voici ci-dessous un graphique présentant la part du marché des différents mot
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
-              'cScale0': '#ff0000', 'cScaleLabel0': '#ffffff',
-              'cScale1': '#00ff00',
-              'cScale2': '#0000ff', 'cScaleLabel2': '#ffffff'
+              'cScale0': '#ff00ff', 'cScaleLabel0': '#ffffff',
+              'cScale1': '#00ffff',
+              'cScale2': '#ffff00', 'cScaleLabel2': '#ffffff'
        } } }%%
 pie showData
     title Utilisation des moteurs de recherche en France en 2020
