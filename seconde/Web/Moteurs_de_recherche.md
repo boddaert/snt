@@ -8,14 +8,12 @@ Les moteurs de recherche permettent de trouver des informations dans des pages w
 
 Usuellement, nous tapons quelques mots-clés dans la barre de recherche et plusieurs liens hypertextes sont affichés.
 
-Voici ci-dessous un graphique présentant la part du marché des différents moteurs de recherche en France en 2020 :
-
-![Moteurs de recherche les plus utilisés en France, en février 2020 - Statcounter.com](./img/graphique_moteurs_de_recherche.png)
+Voici ci-dessous un graphique représentant le pourcentage d'utilisation des moteurs de recherche par les français en 2020 :
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 pie showData
-    title Utilisation des moteurs de recherche en France en 2020
+    title Utilisation des moteurs de recherche en France en 2020 (statcounter.com)
     "DuckDuckGo" : 0.35
     "Qwant" : 0.84
     "Ecosia" :  1.15
