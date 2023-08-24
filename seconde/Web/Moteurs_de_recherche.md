@@ -14,11 +14,13 @@ Voici ci-dessous un graphique présentant la part du marché des différents mot
 
 ```mermaid
 pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+    title Utilisation des moteurs de recherche en France en 2020
+    "Google" : 92.35
+    "Bing" : 3.66
+    "Yahoo!" : 1.41
+    "Ecosia" :  1.15
+    "Qwant" : 0.84
+    "DuckDuckGo" : 0.35
 ```
 
 ## b) Activité 1
