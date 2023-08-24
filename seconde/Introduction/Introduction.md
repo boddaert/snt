@@ -4,7 +4,7 @@
 
 ```mermaid
     flowchart TB;
-        A[["fa:fa-folder"]]-->B[[seconde]];
+        A[["fa:fa-tree"]]-->B[[seconde]];
         B[[seconde]]-->C[[Chapitre 1]];
         B[[seconde]]-->F[[Chapitre 2]];
         C[[Chapitre 1]]-->D[/Leçon 1/];
