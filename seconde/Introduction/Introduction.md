@@ -4,13 +4,15 @@
 
 ```mermaid
     flowchart TB;
-        A[["fa:fa-tree"]]-->B[[seconde]];
-        B[[seconde]]-->C[[Chapitre 1]];
-        B[[seconde]]-->F[[Chapitre 2]];
-        C[[Chapitre 1]]-->D[/Leçon 1/];
-        C[[Chapitre 1]]-->E[/Leçon 2/];
-        F[[Chapitre 2]]-->G[/Leçon 1/];
-        F[[Chapitre 2]]-->H[/Leçon 2/];
+        A["fa:fa-tree"]
+        
+        A-->B[[seconde]];
+        B[[seconde]]-->C[[Chapitre 1]]
+        B[[seconde]]-->F[[Chapitre 2]]
+        C[[Chapitre 1]]-->D[/Leçon 1/]
+        C[[Chapitre 1]]-->E[/Leçon 2/]
+        F[[Chapitre 2]]-->G[/Leçon 1/]
+        F[[Chapitre 2]]-->H[/Leçon 2/]
 ```
 
 
