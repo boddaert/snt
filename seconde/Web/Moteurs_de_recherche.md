@@ -13,15 +13,15 @@ Voici ci-dessous un graphique présentant la part du marché des différents mot
 ![Moteurs de recherche les plus utilisés en France, en février 2020 - Statcounter.com](./img/graphique_moteurs_de_recherche.png)
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 pie showData
     title Utilisation des moteurs de recherche en France en 2020
-    "Google" : 92.35
-    "Bing" : 3.66
     "Yahoo!" : 1.41
     "Ecosia" :  1.15
     "Qwant" : 0.84
     "DuckDuckGo" : 0.35
+    "Google" : 92.35
+    "Bing" : 3.66
 ```
 
 ## b) Activité 1
