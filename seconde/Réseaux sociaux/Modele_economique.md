@@ -11,7 +11,7 @@ Le modèle économique repose essentiellement sur :
 - La publicité.
 - La revente de données personnelles.
 
-## b) Activité
+## b) Activité 1
 
 a) Après avoir lu le document ci-dessous, expliquer en un paragraphe de cinq lignes comment Instagram génère des revenus.
 
@@ -74,6 +74,9 @@ Les influenceurs attirent les marques sur la plateforme. Un nombre plus importan
 Source : https://digic.wp.imt.fr/2018/02/09/instagram-business-model-dune-plateforme-de-partage-de-photo/
 ```
 
+## c) Activité 2
+
+Retrouver dans la politique de confidentialité de BeReal [https://bereal.com/fr/privacy-policy/](https://bereal.com/fr/privacy-policy/) tous les types de données personnelles récoltées puis exploitées.
 ____________
 
 Leçon 3 : [Identité numérique](./Identite_numerique.md)
