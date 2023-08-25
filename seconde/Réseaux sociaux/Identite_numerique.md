@@ -5,7 +5,7 @@
 L'*identité numérique* est l'ensemble des traces que nous laissons sur le web et les médias sociaux.
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base'}}%%
+%%{init: { 'logLevel': 'debug', 'theme': 'forest'}}%%
 mindmap
   root((mindmap))
     Origins
