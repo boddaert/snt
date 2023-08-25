@@ -41,10 +41,7 @@ Répondez aux questions suivantes à l'aide de la vidéo :
 
 1. Donner le classement des médias sociaux les plus utilisés en 2020.
 2. Ajouter sur le classement, le nombre d'utilisateur de chaque média.
-3. En 2020, quelle est la différence en nombre d'utilisateur entre le premier et le quinzième média social ?
-4. Quelle est la différence en nombre d'utilisateur entre MySpace 2005 et Facebook 2020 ?
-5. Combien de médias sociaux avez-vous aperçu ?
-6. Sur les quinze premiers médias sociaux de 2020, sur combien de médias êtes-vous inscris ? utilisez-vous au moins une fois par mois ?
+3. Sur les quinze premiers médias sociaux de 2020, sur combien de médias êtes-vous inscris ? utilisez-vous au moins une fois par mois ?
 
 ___________
 
