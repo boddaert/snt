@@ -41,6 +41,8 @@ Nous appelons une *communauté* un ensemble de personnes très reliées entre el
 
 d) Donner les communautés du graphe.
 
+e) Donner un exemple de hub et de communauté sur un média social.
+
 _____________
 
 Leçon 5 : [Graphes](./Graphes.md)
