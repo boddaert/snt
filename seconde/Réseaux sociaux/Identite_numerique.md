@@ -13,7 +13,7 @@ mindmap
       ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Expression
+    Research
       On effectiveness<br/>and features
       On Automatic creation
         Uses
