@@ -28,8 +28,4 @@ e)
 quadrantChart
   x-axis Urgent --> Not Urgent
   y-axis Not Important --> "Important ❤"
-  quadrant-1 Plan
-  quadrant-2 Do
-  quadrant-3 Delegate
-  quadrant-4 Delete
 ```
