@@ -8,12 +8,12 @@ L'*identité numérique* est l'ensemble des traces que nous laissons sur le web 
 %%{init: { 'logLevel': 'debug', 'theme': 'forest'}}%%
 mindmap
   root((Identité numérique))
-    Origins
+    E-réputation
       Long history
       ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Research
+    Expression
       On effectiveness<br/>and features
       On Automatic creation
         Uses
