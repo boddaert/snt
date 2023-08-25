@@ -28,12 +28,12 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
 
 ```mermaid
     flowchart LR
-        Luke ---> Yoda
+        Luke --> Yoda
         Luke <--> Han
         Luke <--> Leia
-        Luke ---> Obi-Wan
-        Leia ---> Obi-Wan
+        Luke --> Obi-Wan
+        Leia --> Obi-Wan
         Leia <--> Han
-        Han ---> Chewbacca
-        Obi-Wan ---> Yoda
+        Han --> Chewbacca
+        Obi-Wan --> Yoda
 ```
