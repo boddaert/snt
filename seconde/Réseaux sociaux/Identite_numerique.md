@@ -8,7 +8,7 @@ L'*identité numérique* est l'ensemble des traces que nous laissons sur le web 
 %%{init: { 'logLevel': 'debug', 'theme': 'forest'}}%%
 mindmap
   root((Identité numérique))
-    E-réputation
+    Eputation
       Long history
       ::icon(fa fa-book)
       Popularisation
