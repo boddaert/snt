@@ -26,6 +26,11 @@ e)
 
 ```mermaid
 quadrantChart
-  x-axis Urgent --> Not Urgent
-  y-axis Not Important --> "Important ❤"
+title Vier-Felder-Matrix
+x-axis Low Involvement --> High Involvement
+y-axis Low Influence --> High Influence
+quadrant-1 Engmaschig bearbeiten
+quadrant-2 Zufrieden halten
+quadrant-3 Beobachten
+quadrant-4 Informiert halten
 ```
