@@ -5,22 +5,21 @@
 L'*identité numérique* est l'ensemble des traces que nous laissons sur le web et les médias sociaux.
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base'}}%%
 mindmap
   root((mindmap))
-    E-réputation
+    Origins
       Long history
       ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Expression
+    Research
       On effectiveness<br/>and features
       On Automatic creation
         Uses
             Creative techniques
             Strategic planning
             Argument mapping
-    Réseau
+    Tools
       Pen and paper
       Mermaid
 ```
