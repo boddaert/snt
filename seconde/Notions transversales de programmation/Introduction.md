@@ -24,8 +24,23 @@ Recette Mayonnaise
     - Ajouter une cuillière à soupe d'huile.
     - Fouetter la préparation.
 ```
+## II. Langage de programmation
 
-## II. L'explorateur de fichiers
+Un *langage de programmation* est un langage dans lequel nous allons écrire notre programme.
+
+Comme nos langues naturelles, un langage de programmation est composé d'un alphabet et de règles.
+
+On distingue une multitude de langages comme le Java, le C++, le HTML, le CSS, le SQL, etc ...
+
+![](./img/langages.png)
+
+## III. Le Python
+
+En SNT, nous travaillerons avec le langage Python principalement. Il a été inventé en 1989 par le néerlandais Guido Van Rossum et est aujourd'hui l'un des lagages les plus utilisés au monde.
+
+![](./img/python_logo.png)
+
+## IV. L'explorateur de fichiers
 
 ### a) Arborescence
 
@@ -69,7 +84,7 @@ Par exemple :
 - Chemin absolu du fichier `moi.png` : `C:/perso/photos/moi.png`.
 - Chemin relatif du fichier `moi.png` depuis le répertoire `cours` : `../perso/photos/moi.png`
 
-## c) Activité 1
+##### Application 1
 
 Donner le chemin absolu du fichier :
 
@@ -80,3 +95,7 @@ Donner le chemin relatif depuis le répertoire `photos` du fichier :
 
 - `cv.odt`.
 - `lecon1.odt`.
+
+________
+
+[Sommaire](./../../seconde/)
