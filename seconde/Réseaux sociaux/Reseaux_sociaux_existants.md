@@ -25,7 +25,6 @@ d) Ajouter également sur la frise et pour chaque médias sociaux le principal u
 e)
 
 ```mermaid
-%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}, "themeVariables": {"quadrant1TextFill": "#ff0000"} }}%%
 quadrantChart
   x-axis Urgent --> Not Urgent
   y-axis Not Important --> "Important ❤"
