@@ -4,10 +4,12 @@
 
 L'*identité numérique* est l'ensemble des traces que nous laissons sur le web et les médias sociaux.
 
+L'identité numérique est constituée de neuf sous-catégories :
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'forest'}}%%
 mindmap
-  root((Identité numérique))
+  root{{Identité numérique}}
     E réputation
     Expression
     Réseau
@@ -19,7 +21,14 @@ mindmap
     Publication
 ```
 
+L'*e-réputation* est l'image que les autres utilisateurs nous donne. Elle peut être positive comme négative.
 
-L'*e-réputation* est l'image associée à une identité numérique. Elle peut renvoyer une image positive ou négative selon l'identité numérique que nous avons.
+Il est important de contrôler son identité numérique afin de protéger son e-réputation.
 
-Il est important de protéger son identité numérique afin de contrôler son e-réputation.
+## b) Activité 1
+
+Construire votre propre identité numérique en associant un exemple de phrase ou de situation pour chacune des neuf sous-catégories.
+
+_____________
+
+Leçon 4 : [Petit Monde](./Petit_monde.md)
