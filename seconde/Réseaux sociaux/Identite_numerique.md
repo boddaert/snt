@@ -8,23 +8,7 @@ L'*identité numérique* est l'ensemble des traces que nous laissons sur le web 
 %%{init: { 'logLevel': 'debug', 'theme': 'forest'}}%%
 mindmap
   root((Identité numérique))
-    Eputation
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
-    E-réputation
+    E réputation
     Expression
     Réseau
     Centres d'intérêt
@@ -33,6 +17,8 @@ mindmap
     Consommation
     Profession
     Publication
+```
+
 
 L'*e-réputation* est l'image associée à une identité numérique. Elle peut renvoyer une image positive ou négative selon l'identité numérique que nous avons.
 
