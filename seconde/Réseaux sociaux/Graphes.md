@@ -10,14 +10,30 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
 
 ## b) Activité 1
 
+1. Média social n°1 :
+
 ```mermaid
     flowchart LR
         Luke --- Yoda
         Luke --- Han
         Luke --- Leia
-        Han --- Leia
-        Han --- Chewbacca
         Luke --- Obi-Wan
         Leia --- Obi-Wan
+        Han --- Leia
+        Han --- Chewbacca
         Obi-Wan --- Yoda
+```
+
+2. Média social n°2 :
+
+```mermaid
+    flowchart LR
+        Luke ---> Yoda
+        Luke <---> Han
+        Luke <---> Leia
+        Luke ---> Obi-Wan
+        Leia ---> Obi-Wan
+        Han <---> Leia
+        Han <---> Chewbacca
+        Obi-Wan ---> Yoda
 ```
