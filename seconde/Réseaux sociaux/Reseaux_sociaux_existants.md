@@ -24,7 +24,7 @@ c) Ajouter sur la frise et pour chaque médias sociaux le groupe industriel auqu
 
 d) Ajouter également sur la frise et pour chaque médias sociaux le principal usage du média.
 
-e) Placer sur le plan ci-dessous en fonction de leurs caractéristiques :
+e) Placer sur le plan ci-dessous les dix médias sociaux en fonction de leurs caractéristiques :
 
 ![Repère orthonormé médias sociaux](./img/repere_medias_sociaux.drawio.png)
 
