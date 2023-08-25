@@ -7,7 +7,7 @@ L'*identité numérique* est l'ensemble des traces que nous laissons sur le web 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'forest'}}%%
 mindmap
-  root((mindmap))
+  root((Identité numérique))
     Origins
       Long history
       ::icon(fa fa-book)
