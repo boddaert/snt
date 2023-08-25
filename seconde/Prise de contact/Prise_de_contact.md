@@ -4,6 +4,8 @@
 
 Tout le cours de Seconde SNT est disponible à l'adresse : `https://gitlab.com/theoboddaert/snt`.
 
+Veillez à le noter pour pouvoir le consulter à tout moment.
+
 Il est stocké sur un serveur et est donc accessible depuis n'importe quel appareil muni d'une connexion Internet.
 
 Il se découpe selon l'arborescence suivante :
@@ -42,21 +44,15 @@ Vous serez amenés à travailler sur **papier** et sur **ordinateur** :
 
 Sur une leçon, pensez à prendre des notes sur papier.
 
-Quand il est indiqué en exercice, donnez les réponses sur papier et conservez-les dans un cahier ou un trieur.
+Quand il est indiqué en exercice, donnez les réponses sur papier.
+
+Conservez-les dans un cahier ou un trieur.
 
 ### c) Sur ordinateur
 
 Créez un répertoire `snt` dans votre espace commun de travail.
 
 Classez vos fichiers de travail par chapitre dans des répertoires nommés `votre-nom_numero-de-chapitre`.
-
-Veillez à également mettre vos noms dans les noms de vos fichiers.
-
-- `snt`
-    |
-    - `votre-nom_numéro_de_chapitre`
-        |
-        - Fichiers de travail
 
 ### d) A la maison
 

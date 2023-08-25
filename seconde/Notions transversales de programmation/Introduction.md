@@ -18,8 +18,8 @@ Par exemple :
 
 ```
 Recette Mayonnaise
-- Mettre un jaune d'oeuf dans un bol
-- Y ajouter une cuillière de moutarde
+- Mettre un jaune d'oeuf dans un bol.
+- Y ajouter une cuillière de moutarde.
 - Tant que la préparation est liquide :
     - Ajouter une cuillière à soupe d'huile.
     - Fouetter la préparation.
@@ -48,13 +48,13 @@ Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'
 
 - :file_folder: `C:`
     - :file_folder: `perso`
-        - :page_rancing_up: `cv.odt`
+        - :page_facing_up: `cv.odt`
         - :file_folder: `photos`
-            - :page_rancing_up: `moi.png`
+            - :page_facing_up: `moi.png`
     - :file_folder: `lycee`
         - :file_folder: `cours`
             - :file_folder: `snt`
-                - :page_rancing_up: `lecon1.odt`
+                - :page_facing_up: `lecon1.odt`
 
 Un *dossier* ou *répertoire* peut contenir des fichiers ou d'autres répertoires.
 

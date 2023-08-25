@@ -54,7 +54,7 @@ ______________
 
 Leçon 1 : [Introduction](./Notions%20transversales%20de%20programmation/Introduction.md)
 
-Leçon 2 : [Scratch]
+Leçon 2 : [Scratch](./Notions%20transversales%20de%20programmation/Scratch.md)
 
 Leçon 3 : [Thonny](./Notions%20transversales%20de%20programmation/Thonny.md)
 
