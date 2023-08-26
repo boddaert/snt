@@ -47,21 +47,27 @@ Le *cyberharcèlement* est une cyberviolence répétée sur une longue durée pa
 Répondre aux questions suivantes à l'aide de la vidéo :
 
 a) Résumer en un petit paragraphe la situation.
+
 b) Quelle forme de cyberviolence a subi Kamel ?
+
 c) Suite à la vidéo postée par Romain, Kamel a t-il subi du harcèlement à l'école ou sur les médias sociaux ?
+
 d) Qu'est-ce que l'anonymat sur Internet ? Peut-on réussir à lever cet anonymat ?
+
 e) Quelles peuvent être les démarches à suivre si je rencontre du contenu cyberviolent sur un média social ?
+
 f) Les personnes qui ont commenté, "liké" ou partagé la vidéo sont-ils considérés comme harceleurs ?
+
 g) Comment se protéger du cyberharcèlement ?
 
 ## IV. Pour s'informer et être accompagné
 
-- Non au harcèlement
+- Non au harcèlement - Gouvernement
     + Numéro : 3020
-    + Site web : [www.nonauharcelement.education.gouv.fr](www.nonauharcelement.education.gouv.fr)
-- Net écoute
-    + Numéro : 0800 200 000
-    + Site web : [netecoute.fr](netecoute.fr)
+    + Site web : [https://www.education.gouv.fr/non-au-harcelement](https://www.education.gouv.fr/non-au-harcelement)
+- E-enfance - Association
+    + Numéro : 3018
+    + Site web : [https://e-enfance.org/](https://e-enfance.org/)
 
 ## V. Puni par la loi
 
