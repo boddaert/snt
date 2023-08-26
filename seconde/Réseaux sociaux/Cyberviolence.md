@@ -38,6 +38,38 @@ Le *sexting* renvoie au fait d’envoyer des textos, des photographies ou encore
 
 ## II. Cyberharcèlement
 
-Le *harcèlement* se définit comme une violence répétée qui peut être verbale, physique ou psychologique.
+Le *cyberharcèlement* est une cyberviolence répétée sur une longue durée par une personne ou un groupe de personnes.
 
-Cette violence existe aussi bien au sein de l'école que sur les médias sociaux, nous l'appelons alors le *cyberharcèlement*.
+## III. Activité 1
+
+![Cyberharcèlement : la violence n'a rien de virtuel - Les clés du numérique](./img/cyberharcelement.mp4)
+
+Répondre aux questions suivantes à l'aide de la vidéo :
+
+a) Résumer en un petit paragraphe la situation.
+b) Quelle forme de cyberviolence a subi Kamel ?
+c) Suite à la vidéo postée par Romain, Kamel a t-il subi du harcèlement à l'école ou sur les médias sociaux ?
+d) Qu'est-ce que l'anonymat sur Internet ? Peut-on réussir à lever cet anonymat ?
+e) Quelles peuvent être les démarches à suivre si je rencontre du contenu cyberviolent sur un média social ?
+f) Les personnes qui ont commenté, "liké" ou partagé la vidéo sont-ils considérés comme harceleurs ?
+g) Comment se protéger du cyberharcèlement ?
+
+## IV. Pour s'informer et être accompagné
+
+- Non au harcèlement
+    + Numéro : 3020
+    + Site web : [www.nonauharcelement.education.gouv.fr](www.nonauharcelement.education.gouv.fr)
+- Net écoute
+    + Numéro : 0800 200 000
+    + Site web : [netecoute.fr](netecoute.fr)
+
+## V. Puni par la loi
+
+```
+Le fait de harceler une personne par des propos ou comportements répétés ou de participer à un 
+harcèlement en groupe est puni d'un an à trois ans d'emprisonnement et de 15 000 € à 45 000 € d'amende.
+[Article 222-33-2-2]
+```
+__________
+
+[sommaire](./../../seconde/)
