@@ -10,7 +10,7 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
 
 ## b) Activité 1
 
-1. Représentation du graphe n°1 (non orienté) :
+1. Représentation du graphe n°1 :
 
 ```mermaid
     flowchart LR
@@ -24,7 +24,7 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
         Obi-Wan --- Yoda
 ```
 
-2. Représentation du graphe n°2 (orienté) :
+2. Représentation du graphe n°2 :
 
 ```mermaid
     flowchart LR
@@ -34,34 +34,53 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
         Padme --> Anakin
         Qui-gon --> Obi-Wan
         Qui-gon --> Yoda
+        Yoda --> Qui-Gon
         Obi-Wan --> Yoda
-        Anakin --> Chancelier
-        Chancelier --> A["Dark Maul"]
+        Anakin --> Palpatine
+        Palpatine --> A["Dark Maul"]
+        A["Dark Maul"] --> Palpatine
 ```
+a) Quel est le type de graphe du graphe n°1 ?
 
-a) A quel type de graphe le média social Facebook correspond t-il le mieux ? Pourquoi ?
+b) Quel est le type de graphe du graphe n°2 ?
 
-b) A quel type de graphe le média social Twitter correspond t-il le mieux ? Pourquoi ?
+c) Donner la liste des sommmets du graphe n°1.
+
+d) Donner la liste des sommets du graphe n°2.
+
+e) A quel type de graphe le média social Facebook correspond t-il le mieux ? Pourquoi ?
+
+f) A quel type de graphe le média social Twitter correspond t-il le mieux ? Pourquoi ?
+
+## c) Autres définitions
 
 Deux sommets d'un graphe sont *adjacents* (ou *voisins*) s'il existe une arête entre ces deux sommets.
 
 Dans un graphe orienté, le sommet `b` est adjacent du sommet `a` s'il existe un arc allant de `a` vers `b`.
 
-c) Pour les deux graphes, quels sont les sommets adjacents de Luke ?
-
 Un *chemin* reliant un sommet `a` à un sommet `b` est une suite de sommets adjacents consécutifs commençant par `a` et finissant par `b`.
-
-d) Pour les deux graphes, donner plusieurs chemins possibles reliant Luke à Chewbacca.
 
 La *longueur d'un chemin* est le nombre de sommet traversés.
 
-e) Donner les longueurs des chemins trouvés à la question précédente.
-
 La *distance* entre un sommet `a` et `b` est le minimum des longueurs de chemins reliant `a` à `b`.
 
-f) Donner la distance entre Luke et Chewbacca pour les deux graphes.
+## d) Activité 2
 
-## c) Représentations des graphes en machine
+a) Donner les sommets adjacents de `Luke` dans le graphe n°1.
+
+b) Donner les sommets adjacents de `Anakin` dans le graphe n°2.
+
+c) Donner plusieurs chemins possibles reliant `Luke` à `Chewbacca` dans le graphe n°1.
+
+d) Donner plusieurs chemins possibles reliant `Anakin` à `Dark Maul`.
+
+e) Donner les longueurs des chemins trouvés aux deux questions précédentes.
+
+f) En déduire la distance entre `Luke` et `Chewbacca`.
+
+g) En déduire la distance entre `Anakin` et `Dark Maul`.
+
+## e) Représentations des graphes en machine
 
 Les graphes en machine peuvent être représentés de deux façons différentes :
 
@@ -87,9 +106,9 @@ Une *liste d'adjacence* est une liste de sommets et pour chacun de ces sommets i
 
 Par exemple, le graphe n°2 peut être représenté par la liste d'adjacence suivante :
 
-Luke : Leia, Han, Yoda, Obi-Wan.
-Leia : Obi-Wan, Han, Luke.
-Han : Chewbacca.
-Yoda : Obi-Wan.
-Chewbacca : Han.
-Obi-Wan : Yoda.
+Qui-Gon : Yoda, Obi-Wan.
+Anakin : Padme, Obi-Wan, Palpatine.
+Palpatine : Dark Maul.
+Obi-Wan : Yoda, Anakin.
+Padme : Anakin.
+Yoda : Qui-gon.
