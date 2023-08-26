@@ -30,13 +30,13 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
     flowchart LR
         Anakin --> Obi-Wan
         Obi-Wan --> Anakin
-        Anakin --> Padmé
-        Padmé --> Anakin
+        Anakin --> Padme
+        Padme --> Anakin
         Qui-gon --> Obi-Wan
         Qui-gon --> Yoda
         Obi-Wan --> Yoda
         Anakin --> Chancelier
-        Chancelier --> Dark Maul
+        Chancelier --> A["Dark Maul"]
 ```
 
 a) A quel type de graphe le média social Facebook correspond t-il le mieux ? Pourquoi ?
