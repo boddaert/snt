@@ -1,6 +1,6 @@
 # Graphes
 
-## a) Définitions
+## I. Définitions
 
 Un *graphe* est un ensemble de noeuds appelés *sommets* reliés entre eux par des *arêtes*.
 
@@ -8,7 +8,7 @@ Un *graphe* est orienté si les arêtes ont un sens (nous parlons alors d'*arcs*
 
 Nous représentons un média social sous forme de graphe avec comme sommets les utilisateurs et comme arêtes les liens d'amitié.
 
-## b) Activité 1
+## II. Activité 1
 
 1. Représentation du graphe n°1 :
 
@@ -52,7 +52,7 @@ e) A quel type de graphe le média social Facebook correspond t-il le mieux ? Po
 
 f) A quel type de graphe le média social Twitter correspond t-il le mieux ? Pourquoi ?
 
-## c) Autres définitions
+## III. Autres définitions
 
 Deux sommets d'un graphe sont *adjacents* (ou *voisins*) s'il existe une arête entre ces deux sommets.
 
@@ -64,7 +64,7 @@ La *longueur d'un chemin* est le nombre de sommet traversés.
 
 La *distance* entre un sommet `a` et `b` est le minimum des longueurs de chemins reliant `a` à `b`.
 
-## d) Activité 2
+## IV. Activité 2
 
 a) Donner les sommets adjacents de `Luke` dans le graphe n°1.
 
@@ -80,7 +80,7 @@ f) En déduire la distance entre `Luke` et `Chewbacca`.
 
 g) En déduire la distance entre `Anakin` et `Dark Maul`.
 
-## e) Représentations des graphes en machine
+## V. Représentations des graphes en machine
 
 Les graphes en machine peuvent être représentés de deux façons différentes :
 
@@ -116,13 +116,13 @@ Yoda : Qui-Gon.
 Dark Maul : Palpatine.
 ```
 
-## f) Activité 3
+## VI. Activité 3
 
 a) Donner la matrice d'adjacence du graphe n°2.
 
 b) Donner la liste d'adjacence du graphe n°1.
 
-## g) Encore des définitions
+## VII. Encore des définitions
 
 L'*excentricité* d'un sommet est la plus grande distance entre ce sommet et tous les autres sommets du graphe.
 
@@ -132,7 +132,7 @@ Le *centre* d'un graphe est le sommet dont l'exentricité est la plus petite.
 
 Le *rayon* d'un graphe est l'excentricité du centre du graphe.
 
-## h) Activité 4
+## VIII. Activité 4
 
 a) Compléter le tableau des distances du graphe n°2 suivant :
 
@@ -154,4 +154,20 @@ d) Donner le centre du graphe n°2.
 
 e) Donner le rayon du graphe n°2.
 
+## IX. Activité 5
 
+a) Représenter le graphe sur feuille en fonction de la matrice d'adjacence suivante :
+
+| | Rey | Kylo Ren | Poe | Finn | Snoke |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Rey | X | X |  | X | | 
+| Kylo Ren | | X | | | X |
+| Poe | | | X | X | |
+| Finn | X | | X | X |
+| Snoke | X | | | | |
+
+b) Dessiner ce même graphe en utilisant l'outil en ligne [https://viz-js.com/](https://viz-js.com/)
+
+_____________
+
+Leçon 6 : [Cyberviolence](./Cyberviolence.md)

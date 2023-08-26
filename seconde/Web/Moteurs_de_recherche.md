@@ -116,6 +116,7 @@ d) Il est possible qu'une page web ne fasse référence vers aucune autre. Quell
       3-->1;
       3-->6;
       6-->1;
+      1-->6;
       3-->4;
       4-->5;
       5-->1;
@@ -128,7 +129,7 @@ g) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes
 
 h) Donner la popularité des pages.
 
-i) Il n'est pas impossible qu'aucune page web fasse référence vers une autre page en particulier. Quelle page est concernée sur plateau $3$ ?
+i) Il est possible qu'une page web ne soit pas référencée par aucune autre. Quelle page est concernée sur plateau $3$ ?
 
 
 ### Plateau 3
