@@ -1,6 +1,6 @@
 # Réseaux sociaux existants
 
-## a) Définition
+## I. Définition
 
 Un *réseau social* désigne un agencement de liens entre des individus ou des organisations, constituant un groupement qui a un sens : la famille, les collègues, un groupe d'amis, une communauté, etc. 
 
@@ -8,11 +8,11 @@ L’expression "réseau social" dans l'usage habituel renvoie généralement à 
 
 Nous classons les médias sociaux en fonction de leur utilisation et de leur nombre d'utilisateurs mensuels.
 
-## b) Activité 1
+## II. Activité 1
 
 Citez le nom de média social que vous utilisez/connaissez.
 
-## c) Activité 2
+## III. Activité 2
 
 a) Parmi la liste des médias sociaux trouvés dans l'activité précédente, en choisir dix.
 
@@ -33,7 +33,7 @@ L'axe horizontal représente le type de lien qu'ont les utilisateurs entre eux.
 L'axe vertical représente le type de ce qui est mis en avant par les utilisateurs.
 ```
 
-## d) Activité 3
+## IV. Activité 3
 
 ![Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](./img/nombre_utilisateurs_medias_sociaux_evolution.mp4)
 

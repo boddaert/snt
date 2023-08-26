@@ -1,10 +1,10 @@
 # Moteurs de recherche
 
-## a) Définition
+## I. Définition
 
 Un *moteur de recherche* est une application web.
 
-Les moteurs de recherche permettent de trouver des informations dans des pages web dont nous ne connaissons pas l'adresse, voire dont nous ignorons l'existance.
+Les moteurs de recherche permettent de trouver des informations dans des pages web dont nous ne connaissons pas l'adresse, voire dont nous ignorons l'existence.
 
 Usuellement, nous tapons quelques mots-clés dans la barre de recherche et plusieurs liens hypertextes sont affichés.
 
@@ -22,7 +22,7 @@ pie showData
     "Google" : 92.35
 ```
 
-## b) Activité 1
+## II. Activité 1
 
 a) Effectuer la recherche `Apollo 11` sur les trois moteurs de recherche proposés et compléter le tableau suivant avec vos résultats de recherche :
 
@@ -39,7 +39,7 @@ c) Quel moteur de recherche conseillerez-vous ?
 
 d) Pourquoi est-il important pour une page web d'être en tête d'un classement de recherche ?
 
-## c) Des robots pour classer
+## III. Des robots pour classer
 
 Pour classifier les pages, les moteurs de recherche envoient des robots informatiques (programmes) sur le web.
 
@@ -55,7 +55,7 @@ Il existe trois méthodes de tri :
 
 - Le *tri par rapport à l'audiance*, qui évalue le temps resté par l'internaute sur une page web.
  
-## d) Activité 2
+## IV. Activité 2
 
 Par groupe de deux ou trois.
 
@@ -84,11 +84,11 @@ Ci-dessous un plateau représentant schématiquement six pages web reliées les 
 
 L'algorithme de `PageRank` consiste :
 
-1. Choisir une page de départ aléatoirement entre toute les pages du web en lançant le dé.
+1. Choisir une page de départ aléatoirement entre toute les pages du web en lançant le dé et placer le pion sur la page correspondante.
 
-2. Lancer le dé, si la page du numéro tiré est accessible :
+2. Lancer le dé. Si le numéro tiré correspond à une page directement accessible (en ne traversant qu'une seule flèche) :
 
-  + Visiter cette page.
+  + Visiter cette page en déplaçant le pion dessus.
 
   + Augmenter le nombre de visite à cette page de $1$, et le noter.
 

@@ -4,7 +4,7 @@
 Anecdote : Nous estimons à 1,4 milliard le nombre de sites web créés dans le monde depuis le début du web.
 ```
 
-## a) Activité 1
+## I. Activité 1
 
 ![](./img/video_reperes_historiques_web.mp4)
 

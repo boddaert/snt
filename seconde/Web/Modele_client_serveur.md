@@ -1,6 +1,6 @@
 # Modèle Client-Serveur
 
-## a) Introduction
+## I. Introduction
 
 Lorsque nous cliquons sur un lien hypertexte ou que nous entrons une adresse web sur la barre d'adresse, une page web s'affiche à l'écran.
 
@@ -14,7 +14,7 @@ Il y a en fait un modèle de communication, des règles auquelles les deux entit
 
 Nous appelons ce modèle : le modèle Client-Serveur.
 
-## b) Principe
+## II. Principe
 
 Le *client* (le navigateur) et le serveur sont deux entités qui communiquent.
 
@@ -28,13 +28,13 @@ Le modèle Client-Serveur repose sur le protocole de communication HTTP (*HyperT
         SERVEUR--Ressource-->CLIENT;
 ```
 
-## c) Requête HTTP
+## III. Requête HTTP
 
 Le client envoie une requête HTTP au serveur contenant la ressource souhaitée.
 
 Une requête HTTP s'écrit avec le mot-clé `GET` suivi du nom de l'adresse.
 
-## d) Réponse 
+## IV. Réponse 
 
 Le serveur, s'il possède la ressource, l'envoie comme réponse à la requête à celui qui l'a demandé.
 
@@ -48,7 +48,7 @@ Le code réponse indique l'état de la réponse :
 
 La réponse contient bien sûr le code HTML CSS permettant d'afficher la ressource sur le navigateur.
 
-## e) Activité 1
+## V. Activité 1
 
 a) Sur Mozilla Firefox, taper sur la touche `f12`. Il s'agit du panneau d'outils de développement.
 

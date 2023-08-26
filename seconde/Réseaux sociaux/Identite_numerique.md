@@ -1,6 +1,6 @@
 # Identité numérique
 
-## a) Définition
+## I. Définition
 
 L'*identité numérique* est l'ensemble des traces que nous laissons sur le web et les médias sociaux.
 
@@ -41,7 +41,7 @@ Les *publications* est l'ensemble du contenu que j'ai partagé (photos, vidéos)
 
 Il est important de contrôler ces neuf sous-catégories afin de protéger son identité numérique.
 
-## b) Activité 1
+## II. Activité 1
 
 Construire votre propre identité numérique en associant un exemple de situation ou de contenu pour chacune des neuf sous-catégories.
 

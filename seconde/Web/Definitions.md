@@ -1,10 +1,10 @@
 # Définitions
 
-## a) BrainStorming
+## I. BrainStorming
 
 Que vous évoque le mot `web` ?
 
-## b) Définitions 
+## II. Définitions 
 
 Le *web* (ou *World Wide Web*) est un ensemble de documents reliés entre eux par des liens hypertextes.
 

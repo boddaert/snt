@@ -1,12 +1,12 @@
 # Langage CSS
 
-## a) Définition
+## I. Définition
 
 Le langage CSS (*Cascading Style Sheets*) que nous pouvons traduire en Français par "feuille de style en cascade" est le langage utilisé pour mettre en forme du contenu HTML.
 
 Il permet d'appliquer des styles sur différents éléments sélectionnés dans un document HTML.
 
-## b) Syntaxe d'un règle CSS
+## II. Syntaxe d'un règle CSS
 
 Une règle CSS est une règle de style appliqué à un sélecteur encadré par des accolades.
 
@@ -22,7 +22,7 @@ p {
 
 `p` est alors le sélecteur et `color : red;` est la règle.
 
-## c) Intégration d'une feuille CSS à un document HTML
+## III. Intégration d'une feuille CSS à un document HTML
 
 Pour faire le lien entre le document HTML et la feuille de style CSS qui sont deux fichiers différents, il faut ajouter dans la balise `head` du document HTML le lien vers le fichier CSS.
 
@@ -32,7 +32,7 @@ Par exemple, si ma feuille de style se nomme `style.css` :
 <link href="style.css" rel="stylesheet" type="text/css" />
 ```
 
-## d) Sélecteurs de classes et d'ID
+## IV. Sélecteurs de classes et d'ID
 
 Il est possible d'appliquer un style uniquement à certains éléments HTML en particulier en utilisant les sélecteurs spéciaux.
 
@@ -42,7 +42,7 @@ Il est possible d'appliquer un style uniquement à certains éléments HTML en p
 | Syntaxe dans le document HTML |  `<p class="menu">...</p>` | `<p id="2">...</p>` |
 | Syntaxe dans la feuille de style CSS | `.menu { ... }` | `#2 { ... }` | 
 
-## e) Activité 1
+## V. Activité 1
 
 a) Dans le logiciel `notepad++`, créer un nouveau fichier situé dans le même répertoire que votre document HTML et que vous nommerez `votre-nom_presentation` suivi de l'extension `.css`.
 

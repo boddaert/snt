@@ -1,6 +1,6 @@
 # URL
 
-## a) Définition
+## I. Définition
 
 Une *URL* (*Uniform Resource Locator*) ou *adresse web* en Français est une adresse vers un document du web (texte, image, vidéo).
 
@@ -8,7 +8,7 @@ Nous l'écrivons ou elle s'affiche dans la barre d'adresse du navigateur.
 
 Par exemple [https://www.wikipedia.org/wiki/Computer_science](https://fr.wikipedia.org/wiki/Informatique) est une adresse web menant vers la page `informatique` du site Wikipédia.
 
-## b) Décomposition
+## II. Décomposition
 
 Une URL est composée de plusieurs éléments :
 
@@ -23,7 +23,7 @@ Une URL est composée de plusieurs éléments :
 
 - Et d'éventuels paramètres.
 
-## c) Activité 1
+## III. Activité 1
 
 Décomposer les URLs suivantes :
 

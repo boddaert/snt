@@ -1,6 +1,6 @@
 # Modèle économique des réseaux sociaux
 
-## a) Revenus
+## I. Revenus
 
 Les médias sociaux comme toute autre entreprise doit obtenir suffisamment de revenus pour être une entreprise perenne.
 
@@ -11,11 +11,11 @@ Le modèle économique repose essentiellement sur :
 - La publicité.
 - La revente de données personnelles.
 
-## b) Activité 1
+## II. Activité 1
 
 Après avoir lu le document [Instagram - Etude de marché](./img/instagram_business_model.md), expliquer en un paragraphe de cinq lignes comment Instagram génère des revenus.
 
-## c) Activité 2
+## III. Activité 2
 
 Retrouver dans la politique de confidentialité de BeReal [https://bereal.com/fr/privacy-policy/](https://bereal.com/fr/privacy-policy/) tous les types de données personnelles récoltées par le média social.
 ____________

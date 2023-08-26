@@ -89,7 +89,7 @@ Les graphes en machine peuvent être représentés de deux façons différentes 
 
 Une *matrice d'adjacence* est un tableau à deux dimensions de taille $N*N$ cases pour un graphe comprenant $N$ sommets.
 
-Et pour chaque case, nous indiquons si le sommet de la colonne est adjacent du sommet de la ligne.
+Et pour chaque case du tableau, nous indiquons d'une croix si le sommet de la colonne est adjacent du sommet de la ligne.
 
 Par exemple, le graphe n°1 est représenté en machine par la matrice d'adjacence suivante :
 
@@ -106,9 +106,52 @@ Une *liste d'adjacence* est une liste de sommets et pour chacun de ces sommets i
 
 Par exemple, le graphe n°2 peut être représenté par la liste d'adjacence suivante :
 
+```
 Qui-Gon : Yoda, Obi-Wan.
 Anakin : Padme, Obi-Wan, Palpatine.
 Palpatine : Dark Maul.
 Obi-Wan : Yoda, Anakin.
 Padme : Anakin.
-Yoda : Qui-gon.
+Yoda : Qui-Gon.
+Dark Maul : Palpatine.
+```
+
+## f) Activité 3
+
+a) Donner la matrice d'adjacence du graphe n°2.
+
+b) Donner la liste d'adjacence du graphe n°1.
+
+## g) Encore des définitions
+
+L'*excentricité* d'un sommet est la plus grande distance entre ce sommet et tous les autres sommets du graphe.
+
+Le *diamètre* d'un graphe est la plus grande exentricité.
+
+Le *centre* d'un graphe est le sommet dont l'exentricité est la plus petite.
+
+Le *rayon* d'un graphe est l'excentricité du centre du graphe.
+
+## h) Activité 4
+
+a) Compléter le tableau des distances du graphe n°2 suivant :
+
+| | Anakin | Qui-Gon | Padme | Obi-Wan | Yoda | Palpatine | Dark Maul |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|Anakin| | | | | | | |
+|Qui-Gon| | | | | | | |
+|Padme| | | | | | | |
+|Obi-Wan| 1 | 2 | 2 | 0 | 1 | 2 | 3 |
+|Yoda| | | | | | | |
+|Palpatine| | | | | | | |
+|Dark Maul| | | | | | | |
+
+b) Donner l'exentricité de chaque sommet.
+
+c) En déduire le diamètre du graphe n°2.
+
+d) Donner le centre du graphe n°2.
+
+e) Donner le rayon du graphe n°2.
+
+

@@ -1,12 +1,12 @@
 # Langage HTML
 
-## a) Définition
+## I. Définition
 
 Le langage HTML (*HyperText Markup Language*) que nous pouvons traduire en Français par "langage de balisage hypertexte" est le langage utilisé pour structurer une page web et son contenu.
 
 Nous pouvons par exemple organiser le contenu en un ensemble de paragraphes, une liste d'éléments, utiliser des images ou des tableaux.
 
-## b) Syntaxe de balise
+## II. Syntaxe de balise
 
 Les contenus sont encadrés de *balises* indiquant de quel type de contenu il s'agit et cela constitue un *élément HTML*.
 
@@ -18,7 +18,7 @@ Par exemple, l'élément suivant représente un paragraphe :
 
 Nous distingons les balises ouvrantes et fermantes.
 
-## c) Imbrication de balise
+## III. Imbrication de balise
 
 Nous pouvons imbriquer les balises pour ajouter un type à un contenu.
 
@@ -30,7 +30,7 @@ Par exemple, l'élément suivant présente du contenu de type paragraphe et gras
 
 Il faut cependant faire attention à imbriquer correctement les balises.
 
-## d) Structure d'un document HTML
+## IV. Structure d'un document HTML
 
 Un document HTML est organisé d'une façon précise. 
 
@@ -57,7 +57,7 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 </html>
 ```
 
-## e) Activité 1
+## V. Activité 1
 
 Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
 

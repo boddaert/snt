@@ -1,6 +1,6 @@
 # Hypertexte
 
-## a) Activité 1
+## I. Activité 1
 
 L'objectif du jeu est de parvenir à une page wikipédia d'arrivée en partant d'une page wikipedia de départ. 
 
