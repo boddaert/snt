@@ -32,8 +32,8 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
         Obi-Wan --> Anakin
         Anakin --> Padme
         Padme --> Anakin
-        Qui-gon --> Obi-Wan
-        Qui-gon --> Yoda
+        Qui-Gon --> Obi-Wan
+        Qui-Gon --> Yoda
         Yoda --> Qui-Gon
         Obi-Wan --> Yoda
         Anakin --> Palpatine
