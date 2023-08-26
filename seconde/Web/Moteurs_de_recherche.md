@@ -94,6 +94,8 @@ L'algorithme de `PageRank` consiste :
 
 3. Répéter l'étape $2$.
 
+Si un seul choix est possible, ne lancez pas le dé et allez directement sur la page. 
+
 ### Questions
 
 a) Dessiner suffisamment grand le plateau $1$ sur une feuille.
@@ -109,7 +111,6 @@ d) Il est possible qu'une page web ne fasse référence vers aucune autre. Quell
 ```mermaid
   graph LR;
       1-->2;
-      2-->2;
       1-->3;
       3-->2;
       3-->1;
@@ -121,7 +122,7 @@ d) Il est possible qu'une page web ne fasse référence vers aucune autre. Quell
 ```
 e) Dessiner suffisamment grand le plateau $2$ sur une feuille.
 
-f) Proposer une légère modification à l'algorithme pour pallier à ce problème.
+f) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question d).
 
 g) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau $2$ et donner vos résultats.
 
@@ -146,7 +147,7 @@ i) Il n'est pas impossible qu'aucune page web fasse référence vers une autre p
 ```
 j) Dessiner suffisamment grand le plateau $3$ sur une feuille.
 
-k) Proposer une légère modification à l'algorithme pour pallier à ce problème.
+k) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question i).
 
 l) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau $3$ et donner vos résultats.
 
