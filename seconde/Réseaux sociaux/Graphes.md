@@ -159,12 +159,12 @@ e) Donner le rayon du graphe n°2.
 a) Représenter le graphe sur feuille en fonction de la matrice d'adjacence suivante :
 
 | | Rey | Kylo Ren | Poe | Finn | Snoke |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Rey | X | X |  | X | | 
 | Kylo Ren | | X | | | X |
 | Poe | | | X | X | |
-| Finn | X | | X | X |
-| Snoke | X | | | | |
+| Finn | X | | X | X | |
+| Snoke | X | | | | | X |
 
 b) Dessiner ce même graphe en utilisant l'outil en ligne [https://viz-js.com/](https://viz-js.com/)
 
