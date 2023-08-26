@@ -32,10 +32,13 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
         Luke ---> Han
         Luke ---> Leia
         Luke ---> Obi-Wan
-        Leia --> Obi-Wan
+        Leia ---> Obi-Wan
+        Leia --> Luke
         Leia ---> Han
         Han ---> Chewbacca
+        Chewbacca --> Han
         Obi-Wan ---> Yoda
+        Yoda ---> Obi-Wan
 ```
 
 a) A quel graphe le média social Facebook correspond t-il le mieux ? Pourquoi ?
@@ -67,7 +70,7 @@ Les graphes en machine peuvent être représentés de deux façons différentes 
 - Par matrice d'adjacence.
 - Par listes d'adjacence.
 
-Une *matrice d'adjacence* est un tableau à deux dimensions de taille $NxN$ cases pour un graphe comprenant $N$ sommets.
+Une *matrice d'adjacence* est un tableau à deux dimensions de taille $N*N$ cases pour un graphe comprenant $N$ sommets.
 
 Et pour chaque case, nous indiquons si le sommet de la colonne est adjacent du sommet de la ligne.
 
@@ -81,3 +84,14 @@ Par exemple, le graphe n°1 est représenté en machine par la matrice d'adjacen
 | Yoda | x | | | x | | x |
 | Chewbacca | | | x | | x | |
 | Obi-Wan | x | x | | x | | x |
+
+Une *liste d'adjacence* est une liste de sommets et pour chacun de ces sommets indique ses voisins.
+
+Par exemple, le graphe n°2 peut être représenté par la liste d'adjacence suivante :
+
+Luke : Leia, Han, Yoda, Obi-Wan.
+Leia : Obi-Wan, Han, Luke.
+Han : Chewbacca.
+Yoda : Obi-Wan.
+Chewbacca : Han.
+Obi-Wan : Yoda.
