@@ -10,7 +10,7 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
 
 ## b) Activité 1
 
-1. Graphe n°1 :
+1. Représentation du graphe n°1 (non orienté) :
 
 ```mermaid
     flowchart LR
@@ -24,26 +24,24 @@ Nous représentons un média social sous forme de graphe avec comme sommets les 
         Obi-Wan --- Yoda
 ```
 
-2. Graphe n°2 :
+2. Représentation du graphe n°2 (orienté) :
 
 ```mermaid
     flowchart LR
-        Luke ---> Yoda
-        Luke ---> Han
-        Luke ---> Leia
-        Luke ---> Obi-Wan
-        Leia ---> Obi-Wan
-        Leia --> Luke
-        Leia ---> Han
-        Han ---> Chewbacca
-        Chewbacca --> Han
-        Obi-Wan ---> Yoda
-        Yoda ---> Obi-Wan
+        Anakin --> Obi-Wan
+        Obi-Wan --> Anakin
+        Anakin --> Padmé
+        Padmé --> Anakin
+        Qui-gon --> Obi-Wan
+        Qui-gon --> Yoda
+        Obi-Wan --> Yoda
+        Anakin --> Chancelier
+        Chancelier --> Dark Maul
 ```
 
-a) A quel graphe le média social Facebook correspond t-il le mieux ? Pourquoi ?
+a) A quel type de graphe le média social Facebook correspond t-il le mieux ? Pourquoi ?
 
-b) A quel graphe le média social Twitter correspond t-il le mieux ? Pourquoi ?
+b) A quel type de graphe le média social Twitter correspond t-il le mieux ? Pourquoi ?
 
 Deux sommets d'un graphe sont *adjacents* (ou *voisins*) s'il existe une arête entre ces deux sommets.
 
