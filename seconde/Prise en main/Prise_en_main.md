@@ -41,6 +41,7 @@ Par exemple, s'il s'agit d'un texte simple, le fichier aura comme extension `.tx
 Ouvrir le navigateur web et faire des recherches pour compléter le tableau suivant sur une feuille, en indiquant pour chaque fichier de quel type de contenu il s'agit et quel logiciel permet de le lire :
 
 | Nom de fichier | Type de fichier | Logiciel permettant d'ouvrir ce fichier |
+| --- | --- | --- |
 | `exemple1.txt` | Type document texte | Bloc-notes |
 | `exemple2.odt` | | |
 | `exemple3.mp3` | | |
