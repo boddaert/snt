@@ -32,9 +32,9 @@ e) Double-cliquer dessus pour aller dedans et créer un fihier `Document texte` 
 
 ## b) Extensions
 
-Une *extension* à un fichier indique le type du contenu. 
+Une *extension* à un fichier indique le type du contenu du fichier. 
 
-Par exemple, s'il s'agit d'un texte simple, le fichier aura comme extension `.txt`.
+Par exemple, s'il s'agit d'un document texte simple, le fichier aura comme extension `.txt`.
 
 ##### Application 3
 
@@ -65,9 +65,9 @@ Chaque utilisateur du lycée se voit affecter des lecteurs réseau lors de l'ouv
 
 Il y a le lecteur :
 
-- `H:`, il s'agit du lecteur personnel de l'utilisateur, c'est ici que vous allez enregistrer vos fichiers. Tous les professeurs y ont accès.
+- `H:`, il s'agit du lecteur personnel de l'utilisateur, c'est ici que vous allez pouvoir enregistrer vos fichiers. Tous les professeurs y ont accès.
 
-- `M:`, il s'agit du lecteur public, c'est ici que vos professeurs peuvent mettre des documents à votre disposition.
+- `M:`, il s'agit du lecteur public, c'est ici que vos professeurs peuvent mettre des documents à votre disposition que vous pourrez récupérer en copiant-collant dans vos espaces de travail.
 
 ### d) Arborescence
 
@@ -77,28 +77,40 @@ Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'
     - :file_folder: `Documents`
         - :file_folder: `snt`
             - :file_folder: `Chapitre 1`
-                - :page_facing_up: `leçon1.txt`
+                - :page_facing_up: `lecon1.txt`
             - :file_folder: `Chapitre 2`
                 - :page_facing_up: `lecon2.txt`
 
-Dans cette arborescence, le répertoire `H:` est le *répertoire racine*.
+Comme dans un arbre généalogique, nous parlons de réperoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
+
+Par exemple, le répertoire `Chapitre 1` est le parent du fichier `lecon1.txt` et enfant du répertoire `snt`.
+
+Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est parent de tous les autres répertoires et fichiers.
 
 ##### Application 5
+
+1. Le répertoire `Chapitre 2` est-il enfant du réperoire `snt` ?
+
+2. Le répertoire `snt` est-il enfant du répertoire `Documents` ?
+
+3. Le répertoire `Documents` est-il parent du fichier `lecon1.txt` ?
+
+##### Application 6
 
 Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence précédente.
 
 ### e) Chemins
 
-Pour représenter un fichier, nous indiquons généralement le chemin vers ce fichier.
+Il se peut que nous ayons besoin de créer le fichier `lecon2.txt` dans le répertoire du chapitre un.
+
+Pour différencier `lecon2.txt` du chapitre un et `lecon2.txt` du chapitre deux, nous indiquons en plus le chemin vers ce fichier.
 
 Il existe deux types de chemins :
 
 - Celui depuis la racine, appelé *chemin absolu*.
 - Celui depuis l'endroit où nous sommes, appelé *chemin relatif*.
 
-Le chemin se construit en donnant tous les répertoires à traverser pour arriver jusqu'à destination.
-
-Les noms de répertoires sont séparés par des `/`.
+Le chemin se construit en donnant tous les répertoires à traverser séparés par des `/`.
 
 `..` représente le répertoire parent.
 
@@ -107,12 +119,73 @@ Par exemple :
 - Le chemin absolu du fichier `lecon1.txt` est `H:/Documents/snt/Chapitre 1/lecon1.txt`.
 - Le chemin relatif du fichier `lecon2.txt` depuis le répertoire `Chapitre1` est `../Chapitre 2/lecon2.txt`
 
-##### Application 6
+##### Application 7
 
 a) Donner le chemin absolu du fichier `lecon2.txt`.
 
 b) Vérifier votre résultat en cliquant gauche sur le fichier `lecon2.txt` puis dans `Propriétés` et enfin dans l'onglet `Détails`.
 
+c) Donner le chemin relatif du fichier `lecon1.txt` depuis 
+
 ## III. Le clavier
 
+Le *clavier* est un périphérique d'entrée utilisé pour écrire en pressant les touches.
+
+En France, les claviers sont généralement de type **azerty**.
+
+### a) Les touches indispensables
+
+- `Maj` : Une fois préssée, le mode majuscule des lettres est activée.
+- `Shift` : Active le mode majuscule des lettres si la touche `Shift` est préssée.
+- `Ctrl` : La touche de contrôle, en combinaison avec d'autres touches, permet d'accèder à d'autres fonctionnalités.
+- `Windows` : Permet d'ouvrir le menu `Démarrer` de Windows.
+- `Tab` : La touche de tabulation marque un fort espace de caractère.
+- `Alt` : Permettant, en combinaison avec d'autres touches, d'accèder à d'autres fonctionnalités.
+- `Alt Gr` : En etant préssée, cette touche permet d'accèder à d'autres caractères.
+
+De manière générale, les caractères figurant : 
+
+- En bas à droite d'une touche s'obtienne avec la combinaison `Alt Gr`.
+- En haut d'une touche s'obtienne avec la combinaison `Shift`.
+
+##### Application 8
+
+Reproduire, dans le bloc-notes, tous les caractères présents dans la première colonne du tableau suivant :
+
+| Caractère | Touches utilisées |
+| --- | --- |
+| `/` | `Shift` + `:` |
+| `>` | `Shift` + `<` |
+| `#` | `Alt Gr` + `"` |
+| `@` | `Alt Gr` + `à` |
+| `ê` | `^` puis `e` |
+| `ë` | `Shift` + `^` puis `e` |
+| `€` | `Alt Gr` + `e` |
+| `æ` | `Alt Gr` + `g` |
+
+##### Application 9
+
+Recopier, dans le bloc-notes et uniquement en utilisant les touches du clavier, le texte suivant :
+
+`€ Un   pê# ;/! §|_ [~,] {%*µ} ?<> à^@ \°&  ¨£` 
+
 ## IV. L'Environnement Numérique de Travail (ENT)
+
+L'ENT est un endroit regroupant plusieurs outils pratiques comme :
+
+- Néo, une messagerie interne au lycée.
+- Pronote, permettant de visualiser les notes aux évaluations, l'emploi du temps et les devoirs.
+- D'autres outils pédagogiques.
+
+Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les identifiants sont fournis en début d'année.
+
+##### Application 10
+
+a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.fr/) pour vous connecter à l'ENT.
+
+b) Cliquer sur `Menu` puis mettre en favoris les applications Educonnect, Néo, Pronote en les glissant avec la souris.
+
+c) 
+_________
+
+[Sommaire](./../../seconde/)
