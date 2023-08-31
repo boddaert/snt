@@ -40,62 +40,6 @@ En SNT, nous travaillerons avec le langage Python principalement. Il a été inv
 
 ![](./img/python_logo.png)
 
-## IV. L'explorateur de fichiers
-
-### a) Arborescence
-
-Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'une arborescence représentant une hierarchie de répertoires et de fichiers :
-
-- :file_folder: `C:`
-    - :file_folder: `perso`
-        - :page_facing_up: `cv.odt`
-        - :file_folder: `photos`
-            - :page_facing_up: `moi.png`
-    - :file_folder: `lycee`
-        - :file_folder: `cours`
-            - :file_folder: `snt`
-                - :page_facing_up: `lecon1.odt`
-
-Un *dossier* ou *répertoire* peut contenir des fichiers ou d'autres répertoires.
-
-Un *fichier* est un contenant d'informations et possède en plus du répertoire une extension.
-
-L'extension indique de quel type de fichier il s'agit (par exemple : `.png` pour les images).
-
-Une arborescence est toujours constituée d'un dossier racine, sur le système Windows il s'agit de `C:`.
-
-### b) Chemins
-
-Pour représenter un fichier, nous indiquons généralement le chemin vers ce fichier.
-
-Il existe deux types de chemins :
-
-- Celui depuis la racine, appelé *chemin absolu*.
-- Celui depuis l'endroit où nous sommes, appelé *chemin relatif*.
-
-Le chemin se construit en donnant tous les répertoires à traverser pour arriver jusqu'à destination.
-
-Les noms de répertoires sont séparés par des `/`.
-
-`..` représente le répertoire parent.
-
-Par exemple :
-
-- Chemin absolu du fichier `moi.png` : `C:/perso/photos/moi.png`.
-- Chemin relatif du fichier `moi.png` depuis le répertoire `cours` : `../perso/photos/moi.png`
-
-##### Application 1
-
-Donner le chemin absolu du fichier :
-
-- `cv.odt`.
-- `lecon1.odt`.
-
-Donner le chemin relatif depuis le répertoire `photos` du fichier :
-
-- `cv.odt`.
-- `lecon1.odt`.
-
 ________
 
 [Sommaire](./../../seconde/)

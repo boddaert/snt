@@ -50,7 +50,7 @@ a) Résumer en un petit paragraphe la situation.
 
 b) Quelle forme de cyberviolence a subi Kamel ?
 
-c) Suite à la vidéo postée par Romain, Kamel a t-il subi du harcèlement à l'école ou sur les médias sociaux ?
+c) Suite à la vidéo postée par Romain, Kamel a t-il subi du harcèlement en plus à l'école et sur les médias sociaux ?
 
 d) Qu'est-ce que l'anonymat sur Internet ? Peut-on réussir à lever cet anonymat ?
 

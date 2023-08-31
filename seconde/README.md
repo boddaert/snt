@@ -2,7 +2,9 @@
 
 ## Thématiques du programme
 
-Chapitre 0 : [Prise de contact](./Prise%20de%20contact/Prise_de_contact.md)
+Chapitre -1 : [Prise de contact](./Prise%20de%20contact/Prise_de_contact.md)
+
+Chapitre 0 : [Prise en main](./Prise%20en%20main/Prise_en_main.md)
 
 Chapitre 1 : [Web](./Web/)
 
