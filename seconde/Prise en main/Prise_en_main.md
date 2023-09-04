@@ -4,7 +4,7 @@
 
 Afin de pouvoir se connecter à une session sur l'ordinateur, munissez-vous de votre *identifiant* et de votre *mot de passe*.
 
-Si vous ne vous êtes pas encore connecté, l'identifiant est `prenom.nom` et le mot de passe est `jjmmaa`.
+Si vous ne vous êtes pas encore connecté, l'identifiant est `prenom.nom` et le mot de passe est la date de naissance sous la forme `jjmmaa`.
 
 ##### Application 1
 
