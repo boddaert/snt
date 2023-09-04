@@ -27,11 +27,11 @@ En bas de page, se trouve le sommaire dans lequel s'y figure le lien des leçons
 
 En Sciences Numériques et Technologiques, nous verrons sept thèmes (Internet, le Web, les réseaux sociaux, les données structurées et leur traitement, la localisation, l'informatique embarquée et objets connectés, la photographie numérique).
 
-En Seconde, le volume horraire est de une heure et demie par semaine.
+En Seconde, le volume horraire est d'une heure et demie par semaine.
 
 [Programme de Seconde](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
 
-## II. Méthode de travail
+## II. Méthodes de travail
 
 ### a) En classe
 
@@ -56,7 +56,7 @@ Classez vos fichiers de travail par chapitre dans des répertoires nommés `votr
 
 ### d) A la maison
 
-Le travail à la maison sera donné à chaque fin de séance.
+Le travail à la maison sera donné à chaque fin de séance et est disponible sur Pronote.
 
 Il vous sera généralement demandé de finir les exercices du jour.
 

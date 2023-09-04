@@ -171,7 +171,7 @@ Recopier, dans le bloc-notes et uniquement en utilisant les touches du clavier, 
 
 ## IV. L'Environnement Numérique de Travail (ENT)
 
-L'ENT est un endroit regroupant plusieurs outils pratiques comme :
+L'ENT est un endroit comportant plusieurs outils pratiques comme :
 
 - Néo, une messagerie interne au lycée.
 - Pronote, permettant de visualiser les notes aux évaluations, l'emploi du temps et les devoirs.
@@ -183,9 +183,8 @@ Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les 
 
 a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.fr/) pour vous connecter à l'ENT.
 
-b) Cliquer sur `Menu` puis mettre en favoris les applications Educonnect, Néo, Pronote en les glissant avec la souris.
+b) Cliquer sur l'icône de messagerie et envoyer un mail à M.Boddaert (moi).
 
-c) 
 _________
 
 [Sommaire](./../../seconde/)
