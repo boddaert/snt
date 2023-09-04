@@ -4,20 +4,9 @@
 
 Tout le cours de Seconde SNT est disponible à l'adresse : `https://gitlab.com/theoboddaert/snt`.
 
-Veillez à le noter pour pouvoir le consulter à tout moment.
+Veillez à le noter dans votre cahier ou votre agenda pour pouvoir le consulter à tout moment.
 
 Il est stocké sur un serveur et est donc accessible depuis n'importe quel appareil muni d'une connexion Internet.
-
-Il se découpe selon l'arborescence suivante :
-
-- :file_folder: `snt`
-    - :file_folder: `seconde`
-        - :file_folder: `Chapitre 1`
-            - :page_facing_up: `Leçon 1`
-            - :page_facing_up: `Leçon 2`
-        - :file_folder: `Chapitre 2`
-            - :page_facing_up: `Leçon 1`
-            - :page_facing_up: `Leçon 2`
 
 En bas de page, se trouve le sommaire dans lequel s'y figure le lien des leçons dans l'ordre de progression.
 
@@ -31,47 +20,40 @@ En Seconde, le volume horraire est d'une heure et demie par semaine.
 
 [Programme de Seconde](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
 
+La discipline SNT est un préambule de la discipline NSI.
+
 ## II. Méthodes de travail
 
 ### a) En classe
 
-Vous serez amenés à travailler sur **papier** et sur **ordinateur** :
-
-- La majeure partie du temps en autonomie.
-- En groupe en projet ou en activité.
+Vous serez amenés à travailler sur **papier**, sur **ordinateur** ou sur **téléphone**.
 
 ### b) Sur papier
 
-Sur une leçon, pensez à prendre des notes sur papier.
+Feuilles doivent êtres collées dans un cahier ou rangées dans un trieur.
 
-Quand il est indiqué en exercice, donnez les réponses sur papier.
+Prenez des notes.
 
-Conservez-les dans un cahier ou un trieur.
+En exercice, donnez les réponses sur papier.
 
 ### c) Sur ordinateur
 
-Créez un répertoire `snt` dans votre espace commun de travail.
+Répertoires et fichiers doivent être rangés dans votre espace de travail.
 
-Classez vos fichiers de travail par chapitre dans des répertoires nommés `votre-nom_numero-de-chapitre`.
+Dans un répertoire nommé `snt`, il y aura pour chaque chapitre un répertoire.
+
+Répertoires et fichiers doivent être nommés explicitement avec votre nom et prénom.
+
+Par exemple : `albert_eistein_chapitre_1_web`.
+
+### d) Sur téléphone
+
+Pas de téléphone en classe sauf si autorisé pour activité.
 
 ### d) A la maison
 
 Le travail à la maison sera donné à chaque fin de séance et est disponible sur Pronote.
 
-Il vous sera généralement demandé de finir les exercices du jour.
-
-## III. Evaluations
-
-Les évaluations sont divisées en plusieurs types. Il y a :
-
-- Les évaluations de fin de chapitre, sur papier ou sur ordinateur, permettant de rendre compte des savoirs acquis.
-
-- Les devoirs surveillés écrits sur une note sur vingt à coefficent plus élevé, permettant de valider les acquis.
-
-- Les évaluations de projet, spécifique au projet.
-
-Des malus de points peuvent être distribués si le travail est bâclé, n'est pas fait ou si les espaces de travail sont mal rangés. 
-
-## IV. Matériel conseillé
+## III. Matériel conseillé
 
 Non obligatoire mais il est conseillé de posséder une clé USB dans laquelle vous pourrez mettre tous vos dossiers et fichiers de travail.
