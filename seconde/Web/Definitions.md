@@ -1,8 +1,8 @@
 # Définitions
 
-## I. BrainStorming
+## I. Activité 1
 
-Que vous évoque le mot `web` ?
+Sur une feuille blanche, dessiner à quoi pourrait ressembler le web.
 
 ## II. Définitions 
 
