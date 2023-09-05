@@ -4,7 +4,7 @@
 
 ### a) Définitions
 
-[C'est quoi le code informatique ?](./img/Cest_quoi_le_code_informatique%20.mp4)
+![C'est quoi le code informatique ?](./img/Cest_quoi_le_code_informatique%20.mp4)
 
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques.
 
