@@ -20,7 +20,7 @@ En Seconde, le volume horraire est d'une heure et demie par semaine.
 
 [Programme de Seconde](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf)
 
-La discipline SNT est un préambule de la discipline NSI.
+La discipline SNT est un préambule de la discipline NSI (Numérique et Sciences Informatiques).
 
 ## II. Méthodes de travail
 
@@ -38,9 +38,9 @@ En exercice, donnez les réponses sur papier.
 
 ### c) Sur ordinateur
 
-Répertoires et fichiers doivent être rangés dans votre espace de travail.
+Répertoires et fichiers doivent être rangés correctement dans votre espace de travail.
 
-Dans un répertoire nommé `snt`, il y aura pour chaque chapitre un répertoire.
+Dans un répertoire nommé `snt` que vous aurez créé, il y aura pour chaque chapitre un répertoire.
 
 Répertoires et fichiers doivent être nommés explicitement avec votre nom et prénom.
 
@@ -57,3 +57,20 @@ Le travail à la maison sera donné à chaque fin de séance et est disponible s
 ## III. Matériel conseillé
 
 Non obligatoire mais il est conseillé de posséder une clé USB dans laquelle vous pourrez mettre tous vos dossiers et fichiers de travail.
+
+## IV. Bonne conduite en classe
+
+| Faute | Punition |
+| --- | --- |
+| Au bout d'une remarque | Simple rappel à l'ordre |
+| Au bout de deux remarques | Changement de place |
+| Au bout de trois remarques | Travail supplémentaire ou retenue |
+| Téléphone non autorisé | Confiscation du téléphone |
+| Retard de moins de quinze minutes | Billet de retard à la Vie Scolaire |
+| Retard de plus de quinze minutes | Pas d'autorisation à entrer en classe |
+| Manquement à la sécurité des personnes ou des biens | Exclusion de classe |
+
+
+________________
+
+[Sommaire](./../../seconde/)
