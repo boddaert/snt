@@ -78,56 +78,47 @@ Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'
 - :file_folder: `H:`
     - :file_folder: `Documents`
         - :file_folder: `snt`
-            - :file_folder: `Chapitre 1`
-                - :page_facing_up: `lecon1.txt`
-            - :file_folder: `Chapitre 2`
-                - :page_facing_up: `lecon2.txt`
+            - :file_folder: `nom_prenom_Chapitre_0_prise_en_main`
+                - :page_facing_up: `nom_prenom_dictee.txt`
+    - :file_folder: `Images`
+        - :page_facing_up: `moi.png`
+    - :file_folder: `Téléchargements`
 
-Comme dans un arbre généalogique, nous parlons de réperoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
+Comme dans un arbre généalogique, nous parlons de répertoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
 
-Par exemple, le répertoire `Chapitre 1` est le parent du fichier `lecon1.txt` et enfant du répertoire `snt`.
+Par exemple, le répertoire `nom_prenom_Chapitre_0_prise_en_main` est le parent du fichier `nom_prenom_dictee.txt`.
 
 Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est parent de tous les autres répertoires et fichiers.
 
 ##### Application 5
 
-1. Le répertoire `Chapitre 2` est-il enfant du réperoire `snt` ?
+1. Le répertoire `Images` est-il enfant du réperoire `H:` ?
 
 2. Le répertoire `snt` est-il enfant du répertoire `Documents` ?
 
-3. Le répertoire `Documents` est-il parent du fichier `lecon1.txt` ?
+3. Le répertoire `Documents` est-il parent du répertoire `snt` ?
 
 ##### Application 6
 
-Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence précédente.
+Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence ci-dessus.
 
 ### e) Chemins
 
-Il se peut que nous ayons besoin de créer le fichier `lecon2.txt` dans le répertoire du chapitre un.
+Pour représenter un fichier, nous donnons généralement le chemin vers ce fichier.
 
-Pour différencier `lecon2.txt` du chapitre un et `lecon2.txt` du chapitre deux, nous indiquons en plus le chemin vers ce fichier.
+Un *chemin* démarre depuis la racine et traverse tous les répertoires jusqu'au fichier.
 
-Il existe deux types de chemins :
-
-- Celui depuis la racine, appelé *chemin absolu*.
-- Celui depuis l'endroit où nous sommes, appelé *chemin relatif*.
-
-Le chemin se construit en donnant tous les répertoires à traverser séparés par des `/`.
-
-`..` représente le répertoire parent.
+Dans un chemin, les répertoires sont séparés par des `/`.
 
 Par exemple :
 
-- Le chemin absolu du fichier `lecon1.txt` est `H:/Documents/snt/Chapitre 1/lecon1.txt`.
-- Le chemin relatif du fichier `lecon2.txt` depuis le répertoire `Chapitre1` est `../Chapitre 2/lecon2.txt`
+- Le chemin du fichier `moi.png` est `H:/Images/moi.png`.
 
 ##### Application 7
 
-a) Donner le chemin absolu du fichier `lecon2.txt`.
+a) Donner le chemin du fichier `nom_prenom_dictee.txt`.
 
-b) Vérifier votre résultat en cliquant gauche sur le fichier `lecon2.txt` puis dans `Propriétés` et enfin dans l'onglet `Détails`.
-
-c) Donner le chemin relatif du fichier `lecon1.txt` depuis 
+b) Vérifier votre résultat en cliquant gauche sur le fichier puis dans `Propriétés` et enfin dans l'onglet `Détails`.
 
 ## III. Le clavier
 
@@ -167,7 +158,9 @@ Reproduire, dans le bloc-notes, tous les caractères présents dans la première
 
 ##### Application 9
 
-Recopier, dans le bloc-notes et uniquement en utilisant les touches du clavier, le texte suivant :
+a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant droit puis `ouvrir avec` et `Bloc-notes`.
+
+b) Recopier, dans le fichier `nom_prenom_dictee.txt` et en utilisant uniquement les touches du clavier le texte suivant :
 
 `€ Un   pê# ;/! §|_ [~,] {%*µ} ?<> à^@ \°&  ¨£` 
 

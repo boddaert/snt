@@ -32,19 +32,13 @@ Vous serez amenés à travailler sur **papier**, sur **ordinateur** ou sur **té
 
 Feuilles doivent êtres collées dans un cahier ou rangées dans un trieur.
 
-Prenez des notes.
-
 En exercice, donnez les réponses sur papier.
 
 ### c) Sur ordinateur
 
 Répertoires et fichiers doivent être rangés correctement dans votre espace de travail.
 
-Dans un répertoire nommé `snt` que vous aurez créé, il y aura pour chaque chapitre un répertoire.
-
 Répertoires et fichiers doivent être nommés explicitement avec votre nom et prénom.
-
-Par exemple : `albert_eistein_chapitre_1_web`.
 
 ### d) Sur téléphone
 
@@ -62,14 +56,13 @@ Non obligatoire mais il est conseillé de posséder une clé USB dans laquelle v
 
 | Faute | Punition |
 | --- | --- |
-| Au bout d'une remarque | Simple rappel à l'ordre |
 | Au bout de deux remarques | Changement de place |
-| Au bout de trois remarques | Travail supplémentaire ou retenue |
-| Téléphone non autorisé | Confiscation du téléphone |
+| Au bout de trois remarques | Travail supplémentaire et/ou retenue |
 | Retard de moins de quinze minutes | Billet de retard à la Vie Scolaire |
 | Retard de plus de quinze minutes | Pas d'autorisation à entrer en classe |
 | Manquement à la sécurité des personnes ou des biens | Exclusion de classe |
 
+Le téléphone est rangé dans le sac.
 
 ________________
 

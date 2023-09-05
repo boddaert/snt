@@ -2,6 +2,10 @@
 
 ## I. L'informatique
 
+### a) Définitions
+
+[C'est quoi le code informatique ?](./img/Cest_quoi_le_code_informatique%20.mp4)
+
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques.
 
 Un *programme informatique* est un texte composé d'instructions et d'opérations écrit dans un certain langage de programmation et destiné à être exécuté par un ordinateur.
@@ -24,6 +28,7 @@ Recette Mayonnaise
     - Ajouter une cuillière à soupe d'huile.
     - Fouetter la préparation.
 ```
+
 ## II. Langage de programmation
 
 Un *langage de programmation* est un langage dans lequel nous allons écrire notre programme.
