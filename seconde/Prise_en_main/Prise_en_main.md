@@ -24,9 +24,9 @@ Un *fichier* est un contenant d'informations et possède une extension, il est r
 
 a) Ouvrir le gestionnaire de fichier, il se trouve généralement dans la barre d'outils en bas de l'écran.
 
-b) Aller dans le lecteur `H:` puis dans le répertoire `Documents` en double-cliquant droit.
+b) Aller dans le lecteur `H:` puis dans le répertoire `Travail` en double-cliquant gauche.
 
-c) Créer un répertoire en cliquant gauche sur la surface blanche puis en allant dans `Nouveau` et `Dossier`.
+c) Créer un répertoire en cliquant droit sur la surface blanche puis en allant dans `Nouveau` et `Dossier`.
 
 d) Renommer le répertoire nouvellement créé en `snt`.
 
@@ -76,7 +76,7 @@ Il y a le lecteur :
 Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'une arborescence représentant une hierarchie de répertoires et de fichiers :
 
 - :file_folder: `H:`
-    - :file_folder: `Documents`
+    - :file_folder: `Travail`
         - :file_folder: `snt`
             - :file_folder: `nom_prenom_Chapitre_0_prise_en_main`
                 - :page_facing_up: `nom_prenom_dictee.txt`
@@ -94,9 +94,9 @@ Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est
 
 1. Le répertoire `Images` est-il enfant du réperoire `H:` ?
 
-2. Le répertoire `snt` est-il enfant du répertoire `Documents` ?
+2. Le répertoire `snt` est-il enfant du répertoire `Travail` ?
 
-3. Le répertoire `Documents` est-il parent du répertoire `snt` ?
+3. Le répertoire `Travail` est-il parent du répertoire `snt` ?
 
 ##### Application 6
 
@@ -136,10 +136,10 @@ En France, les claviers sont généralement de type **azerty**.
 - `Alt` : Permettant, en combinaison avec d'autres touches, d'accèder à d'autres fonctionnalités.
 - `Alt Gr` : En etant préssée, cette touche permet d'accèder à d'autres caractères.
 
-De manière générale, les caractères figurant : 
+De manière générale, le caractère figurant : 
 
-- En bas à droite d'une touche s'obtienne avec la combinaison `Alt Gr`.
-- En haut d'une touche s'obtienne avec la combinaison `Shift`.
+- En bas à droite d'une touche s'obtient avec la combinaison `Alt Gr`.
+- En haut d'une touche s'obtient avec la combinaison `Shift`.
 
 ##### Application 8
 
@@ -180,7 +180,11 @@ a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.f
 
 b) Cliquer sur l'icône de messagerie et envoyer un mail à M.Boddaert (moi).
 
-Le mail envoyé doit contenir un objet concret, une formule de politesse pour dire bonjour, votre requête ainsi que votre nom et prénom en guise de signature.
+Le mail envoyé doit contenir un objet concret, les formules de politesse, votre requête ainsi que votre nom et prénom en guise de signature.
+
+## V. QR Code
+
+Le QR Code est un type de code-barres à deux dimensions constitué de modules-carrés noirs disposés dans un carré à fond blanc. Ces points définissent l'information que contient le code. Ce dessin, lisible par machine, peut être visualisé sur l'écran d'un appareil mobile ou imprimé sur papier. 
 
 ##### Application 11
 
