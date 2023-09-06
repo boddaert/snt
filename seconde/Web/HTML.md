@@ -71,9 +71,9 @@ d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https
 
 - Un titre de taille $1$, puis $2$, puis $3$.
 - Un paragraphe.
-- Un paragraphe souligné.
-- Un paragraphe gras.
-- Un paragraphe en italique.
+- Un mot souligné.
+- Un mot en gras.
+- Un mot en italique.
 - Un lien hypertexte.
 - Une image.
 - Une liste à puces numérotée.

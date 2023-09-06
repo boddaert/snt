@@ -180,6 +180,8 @@ a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.f
 
 b) Cliquer sur l'icône de messagerie et envoyer un mail à M.Boddaert (moi).
 
+Le mail envoyé doit contenir un objet concret, une formule de politesse pour dire bonjour, votre requête ainsi que votre nom et prénom en guise de signature.
+
 _________
 
 [Sommaire](./../../seconde/)
