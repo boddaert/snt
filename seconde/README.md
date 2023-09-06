@@ -26,6 +26,8 @@ Chapitre 1 : [Web](./Web/)
 
 - Leçon 9 : [Langage CSS](./Web/CSS.md)
 
+- Leçon 10 : [Projet](./Web/Projet.md)
+
 Chapitre 2 : [Réseaux sociaux](./Réseaux_sociaux/)
 
 - Leçon 1 : [Réseaux sociaux existants](./Réseaux_sociaux/Reseaux_sociaux_existants.md)
