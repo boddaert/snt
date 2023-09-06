@@ -182,6 +182,14 @@ b) Cliquer sur l'icône de messagerie et envoyer un mail à M.Boddaert (moi).
 
 Le mail envoyé doit contenir un objet concret, une formule de politesse pour dire bonjour, votre requête ainsi que votre nom et prénom en guise de signature.
 
+##### Application 11
+
+a) Installer sur votre téléphone un scanner QR Code.
+
+b) A l'aide de votre téléphone, scanner le QR Code suivant :
+
+![QR Code Seconde](./img/qrcode_seconde.png)
+
 _________
 
 [Sommaire](./../../seconde/)
