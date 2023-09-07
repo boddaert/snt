@@ -118,7 +118,7 @@ Par exemple :
 
 a) Donner le chemin du fichier `nom_prenom_dictee.txt`.
 
-b) Vérifier votre résultat en cliquant gauche sur le fichier puis dans `Propriétés` et enfin dans l'onglet `Détails`.
+b) Vérifier votre résultat en cliquant droit sur le fichier puis dans `Propriétés` et enfin dans l'onglet `Détails`.
 
 ## III. Le clavier
 
@@ -162,7 +162,7 @@ a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant droit puis `ouvrir avec
 
 b) Recopier, dans le fichier `nom_prenom_dictee.txt` et en utilisant uniquement les touches du clavier le texte suivant :
 
-`€ Un   pê# ;/! §|_ [~,] {%*µ} ?<> à^@ \°&  ¨£` 
+![Dictee](./img/dictee.png)
 
 ## IV. L'Environnement Numérique de Travail (ENT)
 
