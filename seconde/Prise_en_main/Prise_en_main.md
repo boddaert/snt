@@ -8,7 +8,11 @@ Si vous ne vous êtes pas encore connecté, l'identifiant est `prenom.nom` et le
 
 ##### Application 1
 
-Connectez-vous à votre session.
+a) Connectez-vous à votre session.
+
+b) Ouvrir le navigateur web et entrer dans la barre d'adresse le lien suivant : `https://gitlab.com/theoboddaert/snt` puis, dans le sommaire, cliquer sur `Prise en main`.
+
+c) Lire le document et faire les applications.
 
 ## II. Gestionnaire de fichiers
 
@@ -32,6 +36,10 @@ d) Renommer le répertoire nouvellement créé en `snt`.
 
 e) Double-cliquer dessus pour aller dedans et créer un fihier `Document texte` et nommer le `Ceci est un fichier`.
 
+f) Cliquer droit sur le fichier et sur `ouvrir avec` et choisir le logiciel `Bloc-notes`.
+
+g) Ecrire, dans le fichier, votre prénom et votre nom puis aller dans `Fichier` puis `Enregistrer` pour sauvegarder l'état actuel du fichier.
+
 ## b) Extensions
 
 Une *extension* à un fichier indique le type du contenu du fichier. 
@@ -40,26 +48,28 @@ Par exemple, s'il s'agit d'un document texte simple, le fichier aura comme exten
 
 ##### Application 3
 
-Ouvrir le navigateur web et faire des recherches pour compléter le tableau suivant sur une feuille, en indiquant pour chaque fichier de quel type de contenu il s'agit et quel logiciel permet de le lire :
-
-| Nom de fichier | Type de fichier | Logiciel permettant d'ouvrir ce fichier |
-| --- | --- | --- |
-| `exemple1.txt` | Type document texte | Bloc-notes |
-| `exemple2.odt` | | |
-| `exemple3.mp3` | | |
-| `exemple4.png` | | |
-| `exemple5.pdf` | | |
-| `exemple6.gif` | | |
-| `exemple7.py` | | |
-| `exemple8.csv` | | |
-
-##### Application 4
-
 a) Dans le gestionnaire de fichier, aller dans l'onglet `Affichage` puis cocher la case `Extensions de noms de fichier`.
 
 b) Vérifier que votre fichier document texte crée à l'application 2 porte bien l'extension `.txt`.
 
 c) Cliquer gauche sur le fichier et supprimer le fichier. Le fichier supprimé se retrouve dans la corbeille.
+
+##### Application 4
+
+| Extension de fichier | Type de contenu | Logiciel/Application permettant d'ouvrir ce type de fichier |
+| --- | --- | --- |
+| `.txt` | Texte | Bloc-notes |
+| `.odt` | | |
+| `.mp3` | | |
+| `.png` | | |
+| `.pdf` | | |
+| `.gif` | | |
+| `.py` | | |
+| `.csv` | | |
+
+a) Recopier le tableau ci-dessus sur une feuille.
+
+b) Trouver, sur le web, les informations permettant de compléter le tableau précédent.
 
 ### c) Lecteurs
 
@@ -91,6 +101,8 @@ Par exemple, le répertoire `nom_prenom_Chapitre_0_prise_en_main` est le parent 
 Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est parent de tous les autres répertoires et fichiers.
 
 ##### Application 5
+
+Répondre aux questions suivantes sur feuille :
 
 1. Le répertoire `Images` est-il enfant du réperoire `H:` ?
 
