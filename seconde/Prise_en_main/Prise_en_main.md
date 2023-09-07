@@ -178,17 +178,37 @@ Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les 
 
 a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.fr/) pour vous connecter à l'ENT.
 
-b) Cliquer sur l'icône de messagerie et envoyer un mail à M.Boddaert (moi).
+b) Cliquer sur l'icône de messagerie.
 
-Le mail envoyé doit contenir un objet concret, les formules de politesse, votre requête ainsi que votre nom et prénom en guise de signature.
+c) Envoyer un mail à M.Boddaert (moi).
+
+Le mail envoyé doit contenir :
+
+- Un _objet_ expliquant brièvement le sujet du mail.
+
+- Le nom du destinataire.
+
+- Les formules de politesse habituelles tel que _Cordialement,_.
+
+- Le texte.
+
+- Votre nom et prénom en guise de signature.
+
+- Votre fichier `nom_prenom_dictee.txt` en pièce jointe.
+
+Pour ajouter un fichier dans un mail : il faut cliquer sur _ajouter une pièce jointe_ sur l'icône :paperclip: et sélectionner le fichier que vous voulez transmettre.
 
 ## V. QR Code
 
-Le QR Code est un type de code-barres à deux dimensions constitué de modules-carrés noirs disposés dans un carré à fond blanc. Ces points définissent l'information que contient le code. Ce dessin, lisible par machine, peut être visualisé sur l'écran d'un appareil mobile ou imprimé sur papier. 
+Il se peut que dans vos manuels scolaire y figure des QR Code.
+
+Le QR Code est un type de code-barres à deux dimensions constitué de modules-carrés noirs disposés dans un carré à fond blanc.
+
+Ces points définissent l'information que contient le code, il s'agit le plus souvent de lien vers un site web.
 
 ##### Application 11
 
-a) Installer sur votre téléphone un scanner QR Code.
+a) Installer sur votre téléphone le scanner QR Code de votre choix.
 
 b) A l'aide de votre téléphone, scanner le QR Code suivant :
 
