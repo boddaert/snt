@@ -35,7 +35,7 @@ L'axe vertical représente le type de ce qui est mis en avant par les utilisateu
 
 ## IV. Activité 3
 
-![Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](https://youtu.be/RaHTS9nxXUs)
+![Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](https://www.youtube.com/watch?v=RaHTS9nxXUs)
 
 Répondez aux questions suivantes à l'aide de la vidéo :
 

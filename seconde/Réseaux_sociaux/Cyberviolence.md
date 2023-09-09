@@ -42,7 +42,7 @@ Le *cyberharcèlement* est une cyberviolence répétée sur une longue durée pa
 
 ## III. Activité 1
 
-![Cyberharcèlement : la violence n'a rien de virtuel - Les clés du numérique](https://youtu.be/O_ys1Up6Y_8)
+![Cyberharcèlement : la violence n'a rien de virtuel - Les clés du numérique](https://www.youtube.com/watch?v=O_ys1Up6Y_8)
 
 Répondre aux questions suivantes à l'aide de la vidéo :
 
