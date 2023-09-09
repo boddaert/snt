@@ -6,9 +6,8 @@
 
 ![C'est quoi le code informatique ?](https://youtu.be/2UqIJlVQE7o)
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![C'est quoi le code informatique ? - Un jour, Une question](https://youtu.be/2UqIJlVQE7o)](https://youtu.be/2UqIJlVQE7o)
 
-<iframe width="782" height="440" src="https://www.youtube.com/embed/2UqIJlVQE7o" title="C&#39;est quoi le code informatique ? - 1 jour, 1 question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques.
 
