@@ -4,8 +4,6 @@
 
 ### a) Définitions
 
-![C'est quoi le code informatique ?](https://youtu.be/2UqIJlVQE7o)
-
 [![C'est quoi le code informatique ? - Un jour, Une question](https://markdown-videos-api.jorgenkh.no/youtube/2UqIJlVQE7o)](https://youtu.be/2UqIJlVQE7o)
 
 
