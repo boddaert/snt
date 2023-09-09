@@ -62,6 +62,6 @@ d) A l'aide de la documentation officielle du langage CSS (trouvable sur [https:
 - Une taille et une couleur des bordures d'un tableau différente.
 - Une taille et une couleur des bordures d'une `div`.
 
-_____________
+________________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../README.md)

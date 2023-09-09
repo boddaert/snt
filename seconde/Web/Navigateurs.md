@@ -16,7 +16,7 @@ Quand nous navigons sur le web, nous laissons des traces (informations personnel
 
 Les informations sont contenus dans des cookies.
 
-![Qu'est-ce qu'un cookie ? - CNIL](./img/video_cookie.mp4)
+[![Qu'est-ce qu'un cookie ? - CNIL](https://youtu.be/a9kiQPV_SPg)
 
 Pour éviter de laisser des traces et ainsi, protéger sa vie privée. Nous pouvons régler les paramètres de son navigateur (cookies, historique, sécurité, confidentialité).
 
@@ -107,6 +107,6 @@ Quentin doit faire un exposé. Il fait un grand nombre de copier-coller et a ins
 
 3. Quelles solutions s'offrent à lui pour réaliser son exposé ?
 
-____________
+________________
 
-Leçon 6 : [URL](./URL.md)
+[Sommaire](./../README.md)

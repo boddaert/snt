@@ -47,4 +47,4 @@ Construire votre propre identité numérique en associant un exemple de situatio
 
 _____________
 
-Leçon 4 : [Petit Monde](./Petit_monde.md)
+[Sommaire](./../README.md)

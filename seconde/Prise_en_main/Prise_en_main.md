@@ -8,11 +8,15 @@ Si vous ne vous êtes pas encore connecté, l'identifiant est `prenom.nom` et le
 
 ##### Application 1
 
-a) Connectez-vous à votre session.
+a) Se connecter à sa session.
 
-b) Ouvrir le navigateur web et entrer dans la barre d'adresse le lien suivant : `https://gitlab.com/theoboddaert/snt` puis, dans le sommaire, cliquer sur `Prise en main`.
+b) Ouvrir le navigateur web et entrer dans la barre d'adresse le lien suivant : `https://github.comboddaert/snt`
 
-c) Lire le document et faire les applications.
+c) Mettre en favori le lien du cours.
+
+d) Puis, dans le sommaire, cliquer sur `Prise en main`.
+
+e) Lire le document et faire les applications.
 
 ## II. Gestionnaire de fichiers
 
@@ -86,13 +90,12 @@ Il y a le lecteur :
 Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'une arborescence représentant une hierarchie de répertoires et de fichiers :
 
 - :file_folder: `H:`
+    - :file_folder: `Corbeille`
     - :file_folder: `Travail`
         - :file_folder: `snt`
             - :file_folder: `nom_prenom_Chapitre_0_prise_en_main`
                 - :page_facing_up: `nom_prenom_dictee.txt`
     - :file_folder: `Images`
-        - :page_facing_up: `moi.png`
-    - :file_folder: `Téléchargements`
 
 Comme dans un arbre généalogique, nous parlons de répertoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
 
@@ -114,6 +117,14 @@ Répondre aux questions suivantes sur feuille :
 
 Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence ci-dessus.
 
+##### Application 7
+
+a) Aller sur le web et écrire dans la barre de recherche le nom de votre animal favori.
+
+b) Cliquer sur l'onglet `Images` et choisir une image.
+
+c) Enregistrer l'image dans votre répertoire `Images` en cliquant droit sur l'image choisie puis `Enregistrer sous`. Nommer l'image `mon_animal_favori`.
+
 ### e) Chemins
 
 Pour représenter un fichier, nous donnons généralement le chemin vers ce fichier.
@@ -124,9 +135,9 @@ Dans un chemin, les répertoires sont séparés par des `/`.
 
 Par exemple :
 
-- Le chemin du fichier `moi.png` est `H:/Images/moi.png`.
+- Le chemin du fichier `mon_animal_favori.png` est `H:/Images/mon_animal_favori.png`.
 
-##### Application 7
+##### Application 8
 
 a) Donner le chemin du fichier `nom_prenom_dictee.txt`.
 
@@ -153,7 +164,7 @@ De manière générale, le caractère figurant :
 - En bas à droite d'une touche s'obtient avec la combinaison `Alt Gr`.
 - En haut d'une touche s'obtient avec la combinaison `Shift`.
 
-##### Application 8
+##### Application 9
 
 Reproduire, dans le bloc-notes, tous les caractères présents dans la première colonne du tableau suivant :
 
@@ -168,7 +179,7 @@ Reproduire, dans le bloc-notes, tous les caractères présents dans la première
 | `€` | `Alt Gr` + `e` |
 | `æ` | `Alt Gr` + `g` |
 
-##### Application 9
+##### Application 10
 
 a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant droit puis `ouvrir avec` et `Bloc-notes`.
 
@@ -186,13 +197,15 @@ L'ENT est un endroit comportant plusieurs outils pratiques comme :
 
 Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les identifiants sont fournis en début d'année.
 
-##### Application 10
+##### Application 11
 
 a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.fr/) pour vous connecter à l'ENT.
 
-b) Cliquer sur l'icône de messagerie.
+b) Mettre en favori le site de l'ENT.
 
-c) Envoyer un mail à M.Boddaert (moi).
+c) Cliquer sur l'icône de messagerie.
+
+d) Envoyer un mail à M.Boddaert (moi).
 
 Le mail envoyé doit contenir :
 
@@ -210,7 +223,19 @@ Le mail envoyé doit contenir :
 
 Pour ajouter un fichier dans un mail : il faut cliquer sur _ajouter une pièce jointe_ sur l'icône :paperclip: et sélectionner le fichier que vous voulez transmettre.
 
-## V. QR Code
+## V. Google Classroom
+
+En tant qu'élève du Lycée de l'Escaut, vous avez également accès à l'outil Google Classroom.
+
+##### Application 12
+
+a) Aller sur [google.com/classroom](https://edu.google.com/intl/fr_fr/workspace-for-education/classroom/) puis sélectionner `Connexion` puis `Google classroom`.
+
+b) Pour vous connecter, écrire votre adresse gmail du lycée sous la forme `prenom.nom@lycee-escaut.fr`.
+
+c) Le mot de passe est la date de naissance sous le format `jjmmaa`.
+
+## VI. QR Code
 
 Il se peut que dans vos manuels scolaire y figure des QR Code.
 
@@ -218,7 +243,7 @@ Le QR Code est un type de code-barres à deux dimensions constitué de modules-c
 
 Ces points définissent l'information que contient le code, il s'agit le plus souvent de lien vers un site web.
 
-##### Application 11
+##### Application 13
 
 a) Installer sur votre téléphone le scanner QR Code de votre choix.
 
@@ -226,6 +251,6 @@ b) A l'aide de votre téléphone, scanner le QR Code suivant :
 
 ![QR Code Seconde](./img/qrcode_seconde.png)
 
-_________
+________________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../README.md)

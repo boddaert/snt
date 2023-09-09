@@ -12,6 +12,6 @@ a) Rejoindre le groupe de jeu en ligne en cliquant sur le lien suivant : [https:
 
 b) Entrer votre nom et le mot de passe : `966960`.
 
-___________
+________________
 
-Leçon 4 : [Moteurs de recherche](./Moteurs_de_recherche.md)
+[Sommaire](./../README.md)

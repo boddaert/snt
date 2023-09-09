@@ -6,7 +6,7 @@ Anecdote : Nous estimons à 1,4 milliard le nombre de sites web créés dans le 
 
 ## I. Activité 1
 
-![](./img/video_reperes_historiques_web.mp4)
+![Repères historiques - SNT](https://youtu.be/YVn7jrDYjUQ)
 
 a) Compléter les informations de la frise suivante à l'aide de la vidéo :
 
@@ -22,6 +22,6 @@ a) Compléter les informations de la frise suivante à l'aide de la vidéo :
           1994 : ...
           ... : Les pages web sont standardisées par le W3C en utilisant dans leur structure l'arbre DOM (pour Document Object Model).
 ```
-______________
+________________
 
-Leçon 3 : [Hypertexte](./Hypertexte.md)
+[Sommaire](./../README.md)

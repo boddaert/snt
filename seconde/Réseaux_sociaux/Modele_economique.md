@@ -20,4 +20,4 @@ Après avoir lu le document [Instagram - Etude de marché](./img/instagram_busin
 Retrouver dans la politique de confidentialité de BeReal [https://bereal.com/fr/privacy-policy/](https://bereal.com/fr/privacy-policy/) tous les types de données personnelles récoltées par le média social.
 ____________
 
-Leçon 3 : [Identité numérique](./Identite_numerique.md)
+[Sommaire](./../README.md)

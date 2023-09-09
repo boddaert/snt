@@ -22,6 +22,6 @@ Le web et Internet ne sont donc pas les mêmes choses.
 
 Nous disons que le web est une application qui utilise Internet.
 
-___________
+________________
 
-Leçon 2 : [Repères historiques](./Reperes_historiques.md)
+[Sommaire](./../README.md)

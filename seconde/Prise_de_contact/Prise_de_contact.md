@@ -66,4 +66,4 @@ Le téléphone est rangé dans le sac.
 
 ________________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../README.md)

@@ -35,14 +35,16 @@ L'axe vertical représente le type de ce qui est mis en avant par les utilisateu
 
 ## IV. Activité 3
 
-![Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](./img/nombre_utilisateurs_medias_sociaux_evolution.mp4)
+![Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](https://youtu.be/RaHTS9nxXUs)
 
 Répondez aux questions suivantes à l'aide de la vidéo :
 
 1. Donner le classement des médias sociaux les plus utilisés en 2020.
+
 2. Ajouter sur le classement, le nombre d'utilisateur de chaque média.
+
 3. Sur les quinze premiers médias sociaux de 2020, sur combien de médias êtes-vous inscris ? utilisez-vous au moins une fois par mois ?
 
 ___________
 
-Leçon 2 : [Modèle économique des réseaux](./Modele_economique.md)
+[Sommaire](./../README.md)

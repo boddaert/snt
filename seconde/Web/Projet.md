@@ -24,6 +24,6 @@ Il faudra donc, à l'issue de chaque séance, expliciter sur ce journal l'avance
 
 Vous serez évalués par groupe sur la qualité des comptes rendus ainsi que sur l'expression orale lors d'un exposé de cinq minutes présentant votre page web et ses fonctionnalités.
 
-_____________
+________________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../README.md)

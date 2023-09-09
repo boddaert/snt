@@ -30,9 +30,9 @@ Le modèle Client-Serveur repose sur le protocole de communication HTTP (*HyperT
 
 ## III. Requête HTTP
 
-Le client envoie une requête HTTP au serveur contenant la ressource souhaitée.
+Le client envoie une requête HTTP au serveur contenant l'adresse vers la ressource souhaitée.
 
-Une requête HTTP s'écrit avec le mot-clé `GET` suivi du nom de l'adresse.
+Une requête HTTP s'écrit avec le mot-clé `GET` suivi de l'adresse de la ressource.
 
 ## IV. Réponse 
 
@@ -68,6 +68,6 @@ d) En parcourant la requête HTTP et la réponse, trouver les informations suiva
 
 5. La date de la requête.
 
-__________
+________________
 
-Leçon 8 : [Langage HTML](./HTML.md)
+[Sommaire](./../README.md)

@@ -170,4 +170,4 @@ b) Dessiner ce même graphe en utilisant l'outil en ligne [https://viz-js.com/](
 
 _____________
 
-Leçon 6 : [Cyberviolence](./Cyberviolence.md)
+[Sommaire](./../README.md)

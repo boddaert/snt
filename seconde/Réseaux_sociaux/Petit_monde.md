@@ -15,7 +15,7 @@ Le concept des *six degrés de séparation*, formulé par le Hongrois Frigyes Ka
 
 ## II. Activité 1
 
-![Théorie du petit monde - Presque sûrement](./img/milgram_petit_monde.mp4)
+![Théorie du petit monde - Presque sûrement](https://youtu.be/gOiIQ0qGiCc)
 
 a) Répondez aux questions suivantes à l'aide de la vidéo :
 
@@ -45,4 +45,4 @@ e) Donner un exemple de hub et de communauté sur un média social.
 
 _____________
 
-Leçon 5 : [Graphes](./Graphes.md)
+[Sommaire](./../README.md)

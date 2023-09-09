@@ -35,6 +35,6 @@ Décomposer les URLs suivantes :
 
 - https://www1.ac-lille.fr/les-examens-121506
 
-_____________
+________________
 
-Leçon 7 : [Modèle client-serveur](./Modele_client_serveur.md)
+[Sommaire](./../README.md)

@@ -154,6 +154,6 @@ l) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes
 
 m) Donner la popularité des pages.
 
-_______________
+________________
 
-Leçon 5 : [Navigateurs](./Navigateurs.md)
+[Sommaire](./../README.md)

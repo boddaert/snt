@@ -81,6 +81,6 @@ d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https
 - Un texte mise dans un bloc `div`.
 - Un tableau à plusieurs colones et plusieurs lignes.
 
-___________
+________________
 
-Leçon 9 : [Langage CSS](./CSS.md)
+[Sommaire](./../README.md)
