@@ -6,10 +6,6 @@
 
 [![C'est quoi le code informatique ? - Un jour, Une question](https://markdown-videos-api.jorgenkh.no/youtube/2UqIJlVQE7o)](https://youtu.be/2UqIJlVQE7o)
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/2UqIJlVQE7o" type="video/mp4">
-</video>
-
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques.
 
 Un *programme informatique* est un texte composé d'instructions et d'opérations écrit dans un certain langage de programmation et destiné à être exécuté par un ordinateur.

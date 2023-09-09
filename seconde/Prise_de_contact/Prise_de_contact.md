@@ -2,7 +2,7 @@
 
 ## I. Le cours
 
-Tout le cours de Seconde SNT est disponible à l'adresse : `https://gitlab.com/theoboddaert/snt`.
+Tout le cours de Seconde SNT est disponible à l'adresse : `https://github.com/boddaert/snt`.
 
 Veillez à le noter dans votre cahier ou votre agenda pour pouvoir le consulter à tout moment.
 
