@@ -4,15 +4,21 @@
 
 ### a) Définitions
 
-[![C'est quoi le code informatique ? - Un jour, Une question](https://markdown-videos-api.jorgenkh.no/youtube/2UqIJlVQE7o)](https://youtu.be/2UqIJlVQE7o)
+[Qu'est-ce qu'un algorithme ? - Educode](https://www.youtube.com/watch?v=tbmKIErjnns)
 
-En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques.
+En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques sur ordinateur.
+
+Un *ordinateur* est une machine informatique capable d'exécuter des programmes.
 
 Un *programme informatique* est un texte composé d'instructions et d'opérations écrit dans un certain langage de programmation et destiné à être exécuté par un ordinateur.
 
-L'*informatique* est la science des **données**, les programmes informatiques que nous écrivons nous permettent de manipuler ces données et d'effectuer des calculs sur celles-ci.
+L'*informatique* est la science des **données**, c'est l'association du mot *information* et *automatique*.
 
-Pour nous aider à écrire des programmes informatiques, les informaticiens utilisent des algorithmes. Un algorithme est une suite d'ordres écrit en Français. Il sert à **résoudre un problème**.
+Les programmes informatiques que nous écrivons nous permettent de manipuler ces données et d'effectuer des calculs sur celles-ci.
+
+Pour nous aider à écrire des programmes informatiques, les informaticiens utilisent des algorithmes.
+
+Un *algorithme* est une suite d'ordres ou d'*instructions* écrit en Français. Il sert à **résoudre un problème**.
 
 L'objectif de construire un algorithme est qu'il soit compris par tous et qu'on puisse le traduire dans n'importe quel langage de programmation.
 
@@ -31,7 +37,9 @@ Recette Mayonnaise
 
 ## II. Langage de programmation
 
-Un *langage de programmation* est un langage dans lequel nous allons écrire notre programme.
+Un *langage de programmation* est un langage compréhensible par l'ordinateur.
+
+C'est ce type de langage dans lequel nous allons écrire notre programme.
 
 Comme nos langues naturelles, un langage de programmation est composé d'un alphabet et de règles.
 

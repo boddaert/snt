@@ -10,7 +10,7 @@ Il est stocké sur un serveur et est donc accessible depuis n'importe quel appar
 
 En bas de page, se trouve le sommaire dans lequel s'y figure le lien des leçons dans l'ordre de progression.
 
-[Sommaire des Secondes](./../../seconde/)
+[Sommaire des Secondes](./../README.md)
 
 ## II. Les programmes
 
@@ -30,15 +30,15 @@ Vous serez amenés à travailler sur **papier**, sur **ordinateur** ou sur **té
 
 ### b) Sur papier
 
-Feuilles doivent êtres collées dans un cahier ou rangées dans un trieur.
+Les feuilles doivent êtres collées dans un cahier ou rangées dans un trieur.
 
 En exercice, donnez les réponses sur papier.
 
 ### c) Sur ordinateur
 
-Répertoires et fichiers doivent être rangés correctement dans votre espace de travail.
+Les répertoires et les fichiers doivent être rangés correctement dans votre espace de travail.
 
-Répertoires et fichiers doivent être nommés explicitement avec votre nom et prénom.
+Les répertoires et les fichiers doivent être nommés explicitement avec votre nom et prénom.
 
 ### d) Sur téléphone
 
