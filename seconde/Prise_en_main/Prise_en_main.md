@@ -10,7 +10,7 @@ Si vous ne vous êtes pas encore connecté, l'identifiant est `prenom.nom` et le
 
 a) Se connecter à sa session.
 
-b) Ouvrir le navigateur web et entrer dans la barre d'adresse le lien suivant : `https://github.comboddaert/snt`
+b) Ouvrir le navigateur web et entrer dans la barre d'adresse le lien suivant : `https://github.com/boddaert/snt`
 
 c) Mettre en favori le lien du cours.
 
@@ -38,7 +38,7 @@ c) Créer un répertoire en cliquant droit sur la surface blanche puis en allant
 
 d) Renommer le répertoire nouvellement créé en `snt`.
 
-e) Double-cliquer dessus pour aller dedans et créer un fihier `Document texte` et nommer le `Ceci est un fichier`.
+e) Double-cliquer droit dessus pour aller dedans et créer un fichier `Document texte` et nommer le `Ceci est un fichier`.
 
 f) Cliquer droit sur le fichier et sur `ouvrir avec` et choisir le logiciel `Bloc-notes`.
 
@@ -46,7 +46,7 @@ g) Ecrire, dans le fichier, votre prénom et votre nom puis aller dans `Fichier`
 
 ## b) Extensions
 
-Une *extension* à un fichier indique le type du contenu du fichier. 
+L'*extension* d'un fichier indique le type de contenu du fichier. 
 
 Par exemple, s'il s'agit d'un document texte simple, le fichier aura comme extension `.txt`.
 
@@ -54,7 +54,7 @@ Par exemple, s'il s'agit d'un document texte simple, le fichier aura comme exten
 
 a) Dans le gestionnaire de fichier, aller dans l'onglet `Affichage` puis cocher la case `Extensions de noms de fichier`.
 
-b) Vérifier que votre fichier document texte crée à l'application 2 porte bien l'extension `.txt`.
+b) Vérifier que votre fichier document texte crée à l'application deux porte bien l'extension `.txt`.
 
 c) Cliquer gauche sur le fichier et supprimer le fichier. Le fichier supprimé se retrouve dans la corbeille.
 
@@ -87,7 +87,34 @@ Il y a le lecteur :
 
 ### d) Arborescence
 
-Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'une arborescence représentant une hierarchie de répertoires et de fichiers :
+Nous représentons schématiquement l'ensemble des répertoires et des fichiers sous la forme d'une arborescence.
+
+Voici ci-dessous l'arborescence actuelle de votre répertoire `H:` :
+
+- :file_folder: `H:`
+    - :file_folder: `Corbeille`
+    - :file_folder: `Travail`
+        - :file_folder: `snt`
+
+Comme dans un arbre généalogique, nous parlons de répertoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
+
+Par exemple, le répertoire `snt` se trouve dans le répertoire `Travail`, le répertoire `Travail` est donc le parent de `snt` et le répertoire `snt` est enfant du répertoire `Travail`.
+
+Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est parent de tous les autres répertoires et fichiers.
+
+##### Application 5
+
+Répondre aux questions suivantes sur feuille :
+
+1. Le répertoire `Corbeille` est-il enfant du réperoire `H:` ?
+
+2. Le répertoire `H:` est-il parent du répertoire `Travail` ?
+
+3. Le répertoire `Travail` est-il parent du répertoire `snt` ?
+
+##### Application 6
+
+Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence suivante :
 
 - :file_folder: `H:`
     - :file_folder: `Corbeille`
@@ -97,37 +124,17 @@ Dans la mémoire d'un ordinateur, les données sont organisées sous la forme d'
                 - :page_facing_up: `nom_prenom_dictee.txt`
     - :file_folder: `Images`
 
-Comme dans un arbre généalogique, nous parlons de répertoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
-
-Par exemple, le répertoire `nom_prenom_Chapitre_0_prise_en_main` est le parent du fichier `nom_prenom_dictee.txt`.
-
-Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est parent de tous les autres répertoires et fichiers.
-
-##### Application 5
-
-Répondre aux questions suivantes sur feuille :
-
-1. Le répertoire `Images` est-il enfant du réperoire `H:` ?
-
-2. Le répertoire `snt` est-il enfant du répertoire `Travail` ?
-
-3. Le répertoire `Travail` est-il parent du répertoire `snt` ?
-
-##### Application 6
-
-Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence ci-dessus.
-
 ##### Application 7
 
 a) Aller sur le web et écrire dans la barre de recherche le nom de votre animal favori.
 
 b) Cliquer sur l'onglet `Images` et choisir une image.
 
-c) Enregistrer l'image dans votre répertoire `Images` en cliquant droit sur l'image choisie puis `Enregistrer sous`. Nommer l'image `mon_animal_favori`.
+c) Enregistrer l'image dans votre répertoire `Images` de votre espace de travail en cliquant droit sur l'image choisie puis `Enregistrer sous`. Nommer l'image `mon_animal_favori`.
 
 ### e) Chemins
 
-Pour représenter un fichier, nous donnons généralement le chemin vers ce fichier.
+Pour donner le nom d'un fichier, nous donnons généralement en plus le chemin vers ce fichier.
 
 Un *chemin* démarre depuis la racine et traverse tous les répertoires jusqu'au fichier.
 
@@ -141,7 +148,7 @@ Par exemple :
 
 a) Donner le chemin du fichier `nom_prenom_dictee.txt`.
 
-b) Vérifier votre résultat en cliquant droit sur le fichier puis dans `Propriétés` et enfin dans l'onglet `Détails`.
+b) Vérifier votre résultat en cliquant gauche sur le fichier puis dans `Propriétés` et enfin dans l'onglet `Détails`.
 
 ## III. Le clavier
 
@@ -181,7 +188,7 @@ Reproduire, dans le bloc-notes, tous les caractères présents dans la première
 
 ##### Application 10
 
-a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant droit puis `ouvrir avec` et `Bloc-notes`.
+a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant gauche puis `ouvrir avec` et `Bloc-notes`.
 
 b) Recopier, dans le fichier `nom_prenom_dictee.txt` et en utilisant uniquement les touches du clavier le texte suivant :
 
