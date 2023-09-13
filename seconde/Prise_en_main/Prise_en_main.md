@@ -38,11 +38,13 @@ c) Créer un répertoire en cliquant droit sur la surface blanche puis en allant
 
 d) Renommer le répertoire nouvellement créé en `snt`.
 
-e) Double-cliquer droit dessus pour aller dedans et créer un fichier `Document texte` et nommer le `Ceci est un fichier`.
+e) Double-cliquer gauche dessus pour aller dedans.
 
-f) Cliquer droit sur le fichier et sur `ouvrir avec` et choisir le logiciel `Bloc-notes`.
+f) Créer un fichier texte en cliquant droit sur la surface blanche puis sélectionner `Nouveau` et `Document texte` et nommer le `Ceci est un fichier`.
 
-g) Ecrire, dans le fichier, votre prénom et votre nom puis aller dans `Fichier` puis `Enregistrer` pour sauvegarder l'état actuel du fichier.
+g) Cliquer droit sur le fichier et sur `ouvrir avec` et choisir le logiciel `Bloc-notes`.
+
+h) Ecrire, dans le fichier, votre prénom et votre nom puis aller dans `Fichier` puis `Enregistrer` pour sauvegarder l'état actuel du fichier.
 
 ## b) Extensions
 
@@ -54,7 +56,7 @@ Par exemple, s'il s'agit d'un document texte simple, le fichier aura comme exten
 
 a) Dans le gestionnaire de fichier, aller dans l'onglet `Affichage` puis cocher la case `Extensions de noms de fichier`.
 
-b) Vérifier que votre fichier document texte crée à l'application deux porte bien l'extension `.txt`.
+b) Vérifier que votre fichier document texte crée à l'application n°2 porte bien l'extension `.txt`.
 
 c) Cliquer gauche sur le fichier et supprimer le fichier. Le fichier supprimé se retrouve dans la corbeille.
 
@@ -117,12 +119,14 @@ Répondre aux questions suivantes sur feuille :
 Créer les répertoires et les fichiers nécessaires pour que votre espace de travail corresponde à l'arborescence suivante :
 
 - :file_folder: `H:`
+    - :file_folder: `Images`
     - :file_folder: `Corbeille`
     - :file_folder: `Travail`
         - :file_folder: `snt`
+            - :page_facing_up: `Ceci est un fichier.txt`
             - :file_folder: `nom_prenom_Chapitre_0_prise_en_main`
                 - :page_facing_up: `nom_prenom_dictee.txt`
-    - :file_folder: `Images`
+
 
 ##### Application 7
 
@@ -130,7 +134,7 @@ a) Aller sur le web et écrire dans la barre de recherche le nom de votre animal
 
 b) Cliquer sur l'onglet `Images` et choisir une image.
 
-c) Enregistrer l'image dans votre répertoire `Images` de votre espace de travail en cliquant droit sur l'image choisie puis `Enregistrer sous`. Nommer l'image `mon_animal_favori`.
+c) Enregistrer l'image dans votre répertoire `Images` de votre lecteur `H:` en cliquant droit sur l'image choisie puis `Enregistrer sous`. Nommer l'image `mon_animal_favori`.
 
 ### e) Chemins
 
@@ -142,13 +146,13 @@ Dans un chemin, les répertoires sont séparés par des `/`.
 
 Par exemple :
 
-- Le chemin du fichier `mon_animal_favori.png` est `H:/Images/mon_animal_favori.png`.
+- Le chemin du fichier `Ceci est un fichier.txt` est `H:/Travail/snt/Ceci est un fichier.txt`.
 
 ##### Application 8
 
 a) Donner le chemin du fichier `nom_prenom_dictee.txt`.
 
-b) Vérifier votre résultat en cliquant gauche sur le fichier puis dans `Propriétés` et enfin dans l'onglet `Détails`.
+b) Vérifier votre résultat en cliquant gauche sur le fichier `nom_prenom_dictee.txt` puis sélectionner `Propriétés` puis `Détails`.
 
 ## III. Le clavier
 
@@ -171,10 +175,6 @@ De manière générale, le caractère figurant :
 - En bas à droite d'une touche s'obtient avec la combinaison `Alt Gr`.
 - En haut d'une touche s'obtient avec la combinaison `Shift`.
 
-##### Application 9
-
-Reproduire, dans le bloc-notes, tous les caractères présents dans la première colonne du tableau suivant :
-
 | Caractère | Touches utilisées |
 | --- | --- |
 | `/` | `Shift` + `:` |
@@ -186,7 +186,7 @@ Reproduire, dans le bloc-notes, tous les caractères présents dans la première
 | `€` | `Alt Gr` + `e` |
 | `æ` | `Alt Gr` + `g` |
 
-##### Application 10
+##### Application 9
 
 a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant gauche puis `ouvrir avec` et `Bloc-notes`.
 
@@ -204,7 +204,7 @@ L'ENT est un endroit comportant plusieurs outils pratiques comme :
 
 Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les identifiants sont fournis en début d'année.
 
-##### Application 11
+##### Application 10
 
 a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.fr/) pour vous connecter à l'ENT.
 
@@ -218,11 +218,11 @@ Le mail envoyé doit contenir :
 
 - Un _objet_ expliquant brièvement le sujet du mail.
 
-- Le nom du destinataire.
-
-- Les formules de politesse habituelles tel que _Cordialement,_.
+- Le nom du destinataire avec une formule de politesse tel que *Monsieur, Madame*.
 
 - Le texte.
+
+- Les formules de politesse habituelles pour conclure le texte du mail tel que _Cordialement,_.
 
 - Votre nom et prénom en guise de signature.
 
@@ -234,7 +234,7 @@ Pour ajouter un fichier dans un mail : il faut cliquer sur _ajouter une pièce j
 
 En tant qu'élève du Lycée de l'Escaut, vous avez également accès à l'outil Google Classroom.
 
-##### Application 12
+##### Application 11
 
 a) Aller sur [google.com/classroom](https://edu.google.com/intl/fr_fr/workspace-for-education/classroom/) puis sélectionner `Connexion` puis `Google classroom`.
 
@@ -250,7 +250,7 @@ Le QR Code est un type de code-barres à deux dimensions constitué de modules-c
 
 Ces points définissent l'information que contient le code, il s'agit le plus souvent de lien vers un site web.
 
-##### Application 13
+##### Application 12
 
 a) Installer sur votre téléphone le scanner QR Code de votre choix.
 
