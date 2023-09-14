@@ -58,24 +58,22 @@ ______________
 
 Leçon 1 : [Introduction](./Notions_transversales_de_programmation/Introduction.md)
 
-Leçon 2 : [Scratch](./Notions_transversales_de_programmation/Scratch.md)
+Leçon 2 : [Thonny](./Notions_transversales_de_programmation/Thonny.md)
 
-Leçon 3 : [Thonny](./Notions_transversales_de_programmation/Thonny.md)
+Leçon 3 : [Types](./Notions_transversales_de_programmation/Types.md)
 
-Leçon 4 : [Types](./Notions_transversales_de_programmation/Types.md)
+Leçon 4 : [Opérateurs](./Notions_transversales_de_programmation/Opérateurs.md)
 
-Leçon 5 : [Opérateurs](./Notions_transversales_de_programmation/Opérateurs.md)
+Leçon 5 : [Variables](./Notions_transversales_de_programmation/Variables.md)
 
-Leçon 6 : [Variables](./Notions_transversales_de_programmation/Variables.md)
+Leçon 6 : [Séquences d'instructions](./Notions_transversales_de_programmation/Séquences.md)
 
-Leçon 7 : [Séquences d'instructions](./Notions_transversales_de_programmation/Séquences.md)
+Leçon 7 : [Fonctions](./Notions_transversales_de_programmation/Fonctions.md)
 
-Leçon 8 : [Fonctions](./Notions_transversales_de_programmation/Fonctions.md)
+Leçon 8 : [Modules](./Notions_transversales_de_programmation/Modules.md)
 
-Leçon 9 : [Modules](./Notions_transversales_de_programmation/Modules.md)
+Leçon 9 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
 
-Leçon 10 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
+Leçon 10 : [Boucles non bornées](./Notions_transversales_de_programmation/Boucles_non_bornées.md)
 
-Leçon 11 : [Boucles non bornées](./Notions_transversales_de_programmation/Boucles_non_bornées.md)
-
-Leçon 12 : [Boucles bornées](./Notions_transversales_de_programmation/Boucles_bornées.md)
+Leçon 11 : [Boucles bornées](./Notions_transversales_de_programmation/Boucles_bornées.md)

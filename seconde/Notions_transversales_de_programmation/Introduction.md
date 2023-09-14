@@ -41,7 +41,7 @@ Recette Mayonnaise
 
 Un *langage de programmation* est un langage compréhensible par l'ordinateur.
 
-C'est ce type de langage dans lequel nous allons écrire notre programme.
+C'est ce type de langage dans lequel nous allons écrire nos programmes.
 
 Comme nos langues naturelles, un langage de programmation est composé d'un alphabet et de règles.
 

@@ -6,7 +6,9 @@ En Python, les valeurs ont des types.
 
 On appelle *valeur* toute donnée manipulable. Par exemple, $`42`$ et $`ù`$ sont des valeurs que l'on peut manipuler dans nos programmes.
 
-Chaque valeur a un *type* qui la **caractérise**. On peut distinguer, parallèlement aux mathématiques, les nombres entiers et les réels par exemple, qui sont deux types distincts en Python : les entiers et les flottants.
+Chaque valeur a un *type* qui la **caractérise**.
+
+Nous pouvons distinguer, parallèlement aux mathématiques, les nombres entiers et les réels par exemple, qui sont deux types distincts en Python : les entiers et les flottants.
 
 Par exemple, $`42`$ est un entier et $`ù`$ un caractère.
 
@@ -101,7 +103,7 @@ Une seule valeur possède ce type, c'est $`None`$ et comme son nom l'indique, c'
 
 | En Français | En Python |
 |----|----|
-|Entier naturel | `int` |
+| Entier naturel | `int` |
 | Flottant | `float` |
 | Chaîne de caractères | `str` |
 | Booléen | `bool` |

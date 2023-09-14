@@ -97,6 +97,7 @@ Voici ci-dessous l'arborescence actuelle de votre répertoire `H:` :
     - :file_folder: `Corbeille`
     - :file_folder: `Travail`
         - :file_folder: `snt`
+            - :page_facing_up: `Ceci est un fichier.txt`
 
 Comme dans un arbre généalogique, nous parlons de répertoires ou de fichiers *parents* et de répertoires ou de fichiers *enfants*.
 
@@ -152,11 +153,11 @@ Par exemple :
 
 a) Donner le chemin du fichier `nom_prenom_dictee.txt`.
 
-b) Vérifier votre résultat en cliquant gauche sur le fichier `nom_prenom_dictee.txt` puis sélectionner `Propriétés` puis `Détails`.
+b) Vérifier votre résultat en cliquant droit sur le fichier `nom_prenom_dictee.txt` puis sélectionner `Propriétés` puis `Détails`.
 
 ## III. Le clavier
 
-Le *clavier* est un périphérique d'entrée utilisé pour écrire en pressant les touches.
+Le *clavier* est un périphérique d'entrée utilisé pour écrire sur l'écran en pressant les touches.
 
 En France, les claviers sont généralement de type **azerty**.
 
@@ -188,7 +189,7 @@ De manière générale, le caractère figurant :
 
 ##### Application 9
 
-a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant gauche puis `ouvrir avec` et `Bloc-notes`.
+a) Ouvrir le fichier `nom_prenom_dictee.txt` en cliquant droit puis `ouvrir avec` et `Bloc-notes`.
 
 b) Recopier, dans le fichier `nom_prenom_dictee.txt` et en utilisant uniquement les touches du clavier le texte suivant :
 
