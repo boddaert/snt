@@ -8,9 +8,17 @@ Pour y arriver, parcourir les pages les unes après les autres en cliquant sur l
 
 L'idée est de se rapprocher de la page d'arrivée.
 
-a) Rejoindre le groupe de jeu en ligne en cliquant sur le lien suivant : [https://wikispeedruns.com/lobby/27091](https://wikispeedruns.com/lobby/27091)
+Attention ! Le retour en arrière n'est pas autorisé.
 
-b) Entrer votre nom et le mot de passe : `966960`.
+a) Rejoindre le groupe de jeu en ligne en correspondant à votre classe en cliquant sur le lien suivant : 
+
+- [Seconde 11](https://wikispeedruns.com/lobby/28086)
+
+- [Seconde 12](https://wikispeedruns.com/lobby/28087)
+
+- [Seconde 13](https://wikispeedruns.com/lobby/28088)
+
+b) Entrer votre prénom et le mot de passe qui sera donné au tableau.
 
 ________________
 
