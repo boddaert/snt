@@ -4,13 +4,35 @@
 
 Par groupe de deux, vous devrez écrire le code HTML et CSS permettant d'afficher une page web.
 
-La page web sera la vitrine fictive du thème de votre choix lié à l'informatique (un/une informaticien/ne célèbre, une invention technologique, une entreprise informatique, etc...).
+La page web devra présenter un/e informaticien/ne connu/e parmi la liste ci-dessous en donnant par exemple une description de sa vie, une description de ses principales inventions...
 
-Vous chercherez les informations liés à votre thème sur Wikipédia.
+Liste des informaticien/nes :
+
+- John VON NEUMANN
+
+- George BOOL
+
+- Ada LOVELACE
+
+- Grace HOPPER
+
+- Alan TURING
+
+Vous chercherez les informations liés à votre informaticien/ne sur Wikipédia.
 
 ## II. Cahier des charges
 
-1. La page web devra contenir plusieurs fonctionnalités vues dans les deux leçons précédentes (une image, un tableau, un lien hypertexte, un logo, une liste, etc...).
+1. La page web devra contenir plusieurs fonctionnalités vues dans les deux leçons précédentes :
+
+- Une image
+
+- Un tableau
+
+- Un lien hypertexte
+
+- Un logo
+
+- Une liste
 
 2. La page web devra être stylisée en utilisant le langage CSS.
 

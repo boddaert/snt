@@ -203,17 +203,17 @@ L'ENT est un endroit comportant plusieurs outils pratiques comme :
 - Pronote, permettant de visualiser les notes aux évaluations, l'emploi du temps et les devoirs.
 - D'autres outils pédagogiques.
 
-Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les identifiants sont fournis en début d'année.
+Pour s'y connecter, il faut être en possession d'un compte Educonnect dont les identifiants ont été fournis en début d'année.
 
 ##### Application 10
 
-a) Aller sur l'adresse [https://connexion.enthdf.fr/](https://connexion.enthdf.fr/) pour vous connecter à l'ENT.
+a) Aller sur le site web du lycée puis cliquer sur `Accèder à l'ENT`.
 
-b) Mettre en favori le site de l'ENT.
+b) Aller sur Pronote.
 
-c) Cliquer sur l'icône de messagerie.
+c) Cliquer sur `Communication` puis dans `Discussions`.
 
-d) Envoyer un mail à M.Boddaert (moi).
+d) Envoyer votre dictée via mail à M.Boddaert (moi).
 
 Le mail envoyé doit contenir :
 
@@ -221,7 +221,7 @@ Le mail envoyé doit contenir :
 
 - Le nom du destinataire avec une formule de politesse tel que *Monsieur, Madame*.
 
-- Le texte.
+- Le texte formulant la requête.
 
 - Les formules de politesse habituelles pour conclure le texte du mail tel que _Cordialement,_.
 
@@ -235,7 +235,7 @@ Pour ajouter un fichier dans un mail : il faut cliquer sur _ajouter une pièce j
 
 En tant qu'élève du Lycée de l'Escaut, vous avez également accès à l'outil Google Classroom.
 
-##### Application 11
+##### Application 10
 
 a) Aller sur [google.com/classroom](https://edu.google.com/intl/fr_fr/workspace-for-education/classroom/) puis sélectionner `Connexion` puis `Google classroom`.
 
@@ -251,7 +251,7 @@ Le QR Code est un type de code-barres à deux dimensions constitué de modules-c
 
 Ces points définissent l'information que contient le code, il s'agit le plus souvent de lien vers un site web.
 
-##### Application 12
+##### Application 11
 
 a) Installer sur votre téléphone le scanner QR Code de votre choix.
 
