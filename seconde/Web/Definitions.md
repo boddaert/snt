@@ -16,7 +16,7 @@ Le langage informatique permettant d'écrire des documents hypertexte est le HTM
 
 Celui qui est utilisé pour le style est le CSS (*Cascading Style Sheets*).
 
-*Internet* est un réseau de réseaux mondiaux interconnectés de machines informatiques.
+*Internet* est un réseau de machines informatiques interconnectées.
 
 Le web et Internet ne sont donc pas les mêmes choses.
 
