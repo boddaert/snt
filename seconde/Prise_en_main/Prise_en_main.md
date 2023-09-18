@@ -241,7 +241,7 @@ a) Aller sur [google.com/classroom](https://edu.google.com/intl/fr_fr/workspace-
 
 b) Pour vous connecter, écrire votre adresse gmail du lycée sous la forme `prenom.nom@lycee-escaut.fr`.
 
-c) Le mot de passe est la date de naissance sous le format `jjmmaa`.
+c) Le mot de passe est la date de naissance sous le format `jjmmaaaa`.
 
 ## VI. QR Code
 
