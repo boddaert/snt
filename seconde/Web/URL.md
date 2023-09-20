@@ -29,6 +29,8 @@ Décomposer les URLs suivantes :
 
 - `https://www.wikipedia.org/web`
 
+- `https://www.github.com/boddaert/snt`
+
 - `https://www.google.com`
 
 - `https://www1.ac-lille.fr/`
