@@ -66,6 +66,13 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 | Titre de taille trois| `<h3>Titre</h3>` | <h3>Titre</h3> |
 | Titre de taille deux | `<h2>Titre</h2>` | <h2>Titre</h2> |
 | Titre de taille un | `<h1>Titre</h1>` | <h1>Titre</h1> |
+| Paragraphe | `<p>paragraphe</p>` | <p>paragraphe</p> |
+| Lien hypertexte | `<a href="https://github.com/boddaert/snt">lien</a>` | <a href="https://github.com/boddaert/snt">lien</a> |
+| Image | `<img src="https://urlr.me/3jLD4">` | <img src="https://urlr.me/3jLD4"> |
+| Texte gras | `<b>Texte gras</b>` | <b>Texte gras</b> |
+| Texte italique | `<i>Texte italique</i>` | <i>Texte italique</i> |
+| Texte souligné | `<u>Texte souligné</u>` |<u>Texte souligné</u> |
+
 
 Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
 
