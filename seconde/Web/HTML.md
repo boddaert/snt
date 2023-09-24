@@ -60,8 +60,12 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 ## V. Mémo des balises
 
 | Nom des balises | Syntaxe HTML | Aperçu |
-| --- | --- |
-| Titre de taille cinq | `<h5>Titre</h5>` | <h5>Titre</h5>
+| --- | --- | --- |
+| Titre de taille cinq | `<h5>Titre</h5>` | <h5>Titre</h5> |
+| Titre de taille quatre | `<h4>Titre</h4>` | <h4>Titre</h4> |
+| Titre de taille trois| `<h3>Titre</h3>` | <h3>Titre</h3> |
+| Titre de taille deux | `<h2>Titre</h2>` | <h2>Titre</h2> |
+| Titre de taille un | `<h1>Titre</h1>` | <h1>Titre</h1> |
 
 Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
 
