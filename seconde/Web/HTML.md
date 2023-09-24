@@ -57,7 +57,11 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 </html>
 ```
 
-## V. Activité 1
+## V. Mémo des balises
+
+| Nom des balises | Syntaxe HTML | Aperçu |
+| --- | --- |
+| Titre de taille cinq | `<h5>Titre</h5>` | <h5>Titre</h5>
 
 Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
 

@@ -16,7 +16,7 @@ Quand nous navigons sur le web, nous laissons des traces (informations personnel
 
 Les informations sont contenus dans des cookies.
 
-[Qu'est-ce qu'un cookie ? - CNIL](https://www.youtube.com/watch?v=a9kiQPV_SPg)
+Un *cookie* est un programme permettant de récolter et stocker des données personnelles lorsque nous naviguons sur le web.
 
 Pour éviter de laisser des traces et ainsi, protéger sa vie privée. Nous pouvons régler les paramètres de son navigateur (cookies, historique, sécurité, confidentialité).
 

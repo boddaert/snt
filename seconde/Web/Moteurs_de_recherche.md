@@ -26,12 +26,11 @@ pie showData
 
 a) Effectuer la recherche `Apollo 11` sur les trois moteurs de recherche proposés et compléter le tableau suivant avec vos résultats de recherche :
 
-| Moteur de recherche | Présence d'une annonce de publicité en tête des résultats| Position du lien vers Wikipédia | Position du premier lien vers un média culturel | Position du premier lien vers le film Apollo 11 |
-| --- | --- | --- | --- | --- |
-| Google | | | | |
-| Qwant | | | | |
-| Yahoo! | | | | |
-| DuckDuckGo | | | | |
+| Moteur de recherche | Présence d'une annonce de publicité en tête des résultats| Position du lien vers Wikipédia  | Position du premier lien vers le film Apollo 11 |
+| --- | --- | --- | --- |
+| Google | | | | 
+| Qwant | | | | 
+| DuckDuckGo | | | | 
 
 b) Essayer d'expliquer pourquoi le classement des résultats est différent selon les moteurs de recherche.
 
