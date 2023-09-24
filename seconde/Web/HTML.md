@@ -72,6 +72,12 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 | Texte gras | `<b>Texte gras</b>` | <b>Texte gras</b> |
 | Texte italique | `<i>Texte italique</i>` | <i>Texte italique</i> |
 | Texte souligné | `<u>Texte souligné</u>` |<u>Texte souligné</u> |
+| Texte surligné | `<mark>Texte surligné</mark>` | <mark>Texte surligné</mark> |
+| Liste à puces numérotée | `<ol> <li>Premier</li> <li>Deuxième</li> </ol>` | <ol> <li>Premier</li> <li>Deuxième</li> </ol> |
+| Liste à puces non numérotée | `<ul> <li>Premier</li> <li>Deuxième</li> </ul>` | <ul> <li>Premier</li> <li>Deuxième</li> </ul> |
+| Tableau | `<table>Tableau</table>` | <table>Tableau</table> |
+| Colonnes | `<table><tr>Première colonne</tr><tr>Deuxième colonne</tr></table>` | <table><tr>Première colonne</tr><tr>Deuxième colonne</tr></table> |
+| Lignes | `<table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr></table>` | <table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr></table> |
 
 
 Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
@@ -84,16 +90,8 @@ c) Vérifier votre code dans le navigateur en cliquant sur l'onglet `Affichage` 
 
 d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https://www.w3schools.com/tags/default.asp](https://www.w3schools.com/tags/default.asp)), compléter votre présentation pour qu'il contienne au moins :
 
-- Un titre de taille $1$, puis $2$, puis $3$.
-- Un paragraphe.
-- Un mot souligné.
-- Un mot en gras.
-- Un mot en italique.
-- Un lien hypertexte.
-- Une image.
-- Une liste à puces numérotée.
-- Une liste à puces non numérotée.
-- Un texte mise dans un bloc `div`.
+
+
 - Un tableau à plusieurs colones et plusieurs lignes.
 
 ________________
