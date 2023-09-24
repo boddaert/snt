@@ -57,9 +57,9 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 </html>
 ```
 
-## V. Mémo des balises
+## V. Mémo des balises HTML
 
-| Nom des balises | Syntaxe HTML | Aperçu |
+| Nom de la balise | Syntaxe HTML | Aperçu |
 | --- | --- | --- |
 | Titre de taille cinq | `<h5>Titre</h5>` | <h5>Titre</h5> |
 | Titre de taille quatre | `<h4>Titre</h4>` | <h4>Titre</h4> |
@@ -71,26 +71,21 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 | Image | `<img src="https://urlr.me/3jLD4">` | <img src="https://urlr.me/3jLD4"> |
 | Texte gras | `<b>Texte gras</b>` | <b>Texte gras</b> |
 | Texte italique | `<i>Texte italique</i>` | <i>Texte italique</i> |
-| Texte souligné | `<u>Texte souligné</u>` |<u>Texte souligné</u> |
-| Texte surligné | `<mark>Texte surligné</mark>` | <p style="color:red;">I am red</p> |
 | Liste à puces numérotée | `<ol> <li>Premier</li> <li>Deuxième</li> </ol>` | <ol> <li>Premier</li> <li>Deuxième</li> </ol> |
 | Liste à puces non numérotée | `<ul> <li>Premier</li> <li>Deuxième</li> </ul>` | <ul> <li>Premier</li> <li>Deuxième</li> </ul> |
 | Tableau | `<table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr><tr><td>Première ligne</td><td>Première ligne</td></tr><tr><td>Deuxième ligne</td><td>Deuxième ligne</td></tr></table>` | <table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr><tr><td>Première ligne</td><td>Première ligne</td></tr><tr><td>Deuxième ligne</td><td>Deuxième ligne</td></tr></table> |
 
+## VI. Activité 12
 
-Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
+Objectif : Tester les balises HTML.
 
 a) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML.
 
-b) Enregistrer sous le fichier dans votre espace de travail sous la forme `votre-nom_presentation` suivi de l'extension `.html`.
+b) Enregistrer sous le fichier dans votre espace de travail sous la forme `votre-nom_memo_html` suivi de l'extension `.html`.
 
-c) Vérifier votre code dans le navigateur en cliquant sur l'onglet `Affichage` puis de `Afficher le fichier dans` et choisir `Firefox`.
+c) Vérifier votre code dans le navigateur en cliquant sur l'onglet `Affichage` de Notepad puis cliquer sur `Afficher le fichier dans` et choisir `Firefox`.
 
-d) A l'aide de la documentation officielle du langage HTML (trouvable sur [https://www.w3schools.com/tags/default.asp](https://www.w3schools.com/tags/default.asp)), compléter votre présentation pour qu'il contienne au moins :
-
-
-
-- Un tableau à plusieurs colones et plusieurs lignes.
+d) Tester toutes les balises présentées dans le mémo HTML et vérifier le résultat dans le navigateur.
 
 ________________
 

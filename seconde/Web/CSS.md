@@ -42,25 +42,27 @@ Il est possible d'appliquer un style uniquement à certains éléments HTML en p
 | Syntaxe dans le document HTML |  `<p class="menu">...</p>` | `<p id="2">...</p>` |
 | Syntaxe dans la feuille de style CSS | `.menu { ... }` | `#2 { ... }` | 
 
-## V. Activité 1
+## V. Mémo des règles CSS
 
-a) Dans le logiciel `notepad++`, créer un nouveau fichier situé dans le même répertoire que votre document HTML et que vous nommerez `votre-nom_presentation` suivi de l'extension `.css`.
+| Nom de la règle | Syntaxe CSS |
+| --- | --- |
+| Alignement de texte centré | `p { text-align : center ;}` |
+| Alignement de texte gauche | `p { text-align : left ;}` |
+| Décoration de texte souligné | `p { text-decoration-line : underline ;}` |
+| Décoration de texte barré | `p { text-decoration: line-through ;}` |
+| Police de texte Times New Roman | `p { font-family: "Times New Roman" ;}` |
+| Taille de la police 40 pixels | `p { font-size: 40px ;}` |
+| Couleur de texte rouge | `p { color : red ;}` |
+| Couleur d'arrière-plan du texte | `p { background-color : red ;}` |
+
+
+## V. Activité 13
+
+a) Dans le logiciel `notepad++`, créer un nouveau fichier situé dans le même répertoire que votre document HTML et que vous nommerez `votre-nom_memo_css` suivi de l'extension `.css`.
 
 b) Ajouter dans la balise `head` de votre document HTML le lien vers votre fichier CSS.
 
-b) Ajouter la règle de CSS vue dans le `b)` de cette leçon dans votre fichier CSS et vérifier si les paragraphes apparaissent bien en rouge.
-
-d) A l'aide de la documentation officielle du langage CSS (trouvable sur [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)), ajouter de la mise en forme sur votre document de présentation pour qu'il contienne au moins :
-
-- Des textes de couleur différente.
-- Des arrières-plan de texte de couleur différente.
-- Des textes alignés à gauche.
-- Des textes alignés à droite.
-- Des textes centrés.
-- Des textes de police différente.
-- Des textes de taille de police différente.
-- Une taille et une couleur des bordures d'un tableau différente.
-- Une taille et une couleur des bordures d'une `div`.
+b) Tester les règles CSS vues dans le mémo et vérifier le résultat dans le navigateur.
 
 ________________
 

@@ -12,6 +12,10 @@ Liste des informaticien/nes :
 
 - George BOOL
 
+- Charles BABAGGE
+
+- Leonhard EULER
+
 - Ada LOVELACE
 
 - Grace HOPPER
@@ -30,21 +34,27 @@ Vous chercherez les informations liés à votre informaticien/ne sur Wikipédia.
 
 - Un lien hypertexte
 
-- Un logo
-
 - Une liste
 
 2. La page web devra être stylisée en utilisant le langage CSS.
 
 ## III. Compte rendu
 
-A la fin du projet, vous devrez rendre comme livrables le code HTML et CSS de la page ainsi qu'un journal expliquant les avancées des travaux.
+A la fin du projet, vous devrez rendre comme livrables :
 
-Il faudra donc, à l'issue de chaque séance, expliciter sur ce journal l'avance réalisée et les difficultés rencontrées.
+- Le code HTML.
+
+- Le code CSS.
+
+- Un journal détaillant l'avancée des travaux et des difficultés rencontrées.
 
 ## IV. Evaluation
 
-Vous serez évalués par groupe sur la qualité des comptes rendus ainsi que sur l'expression orale lors d'un exposé de cinq minutes présentant votre page web et ses fonctionnalités.
+Vous serez évalués par groupe sur :
+
+- La qualité des comptes rendus.
+
+- Votre expression orale lors d'un exposé de cinq minutes présentant votre page web et ses fonctionnalités.
 
 ________________
 
