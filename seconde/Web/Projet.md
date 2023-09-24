@@ -4,7 +4,7 @@
 
 Par groupe de deux, vous devrez écrire le code HTML et CSS permettant d'afficher une page web.
 
-La page web devra présenter un/e informaticien/ne connu/e parmi la liste ci-dessous en donnant par exemple une description de sa vie, une description de ses principales inventions...
+La page web devra présenter un/e informaticien/ne connu/e parmi la liste ci-dessous en donnant par exemple une description de sa vie, une description de ses principales inventions, etc ...
 
 Liste des informaticien/nes :
 

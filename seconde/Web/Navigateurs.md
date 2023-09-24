@@ -4,7 +4,7 @@
 
 Un *navigateur web* est un logiciel permettant de visiter à travers le web et d'afficher les pages.
 
-## II. Activité 1
+## II. Activité 6
 
 Citer les noms de navigateurs existants.
 
@@ -20,7 +20,7 @@ Les informations sont contenus dans des cookies.
 
 Pour éviter de laisser des traces et ainsi, protéger sa vie privée. Nous pouvons régler les paramètres de son navigateur (cookies, historique, sécurité, confidentialité).
 
-## IV. Activité 2
+## IV. Activité 7
 
 Afin d'évaluer votre niveau de sécurité sur le web, faites le test suivant en comptant le nombre de réponses `a`, `b` et `c` :
 
@@ -74,7 +74,7 @@ Si vous avez un maximum de réponses `b` : Vous avez de moyens bons réflexes en
 
 Si vous avez un maximum de réponses `c` : Vous avez de très mauvais réflexes en sécurité. Vous êtes très exposés aux risques du web et vous devriez changer vos habitudes.
 
-## V. Activité 3
+## V. Activité 8
 
 a) Aller dans les paramètres de votre navigateur.
 
@@ -97,7 +97,7 @@ Toute reproduction, représentation ou diffusion, par quelque moyen que ce soit,
 
 Le contenu du web est donc soumis aux règles de protection de droits d'auteur.
 
-## VII. Activité 4
+## VII. Activité 9
 
 Quentin doit faire un exposé. Il fait un grand nombre de copier-coller et a insérer des images et des textes provenant de différent sites web.
 

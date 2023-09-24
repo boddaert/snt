@@ -23,7 +23,7 @@ Une URL est composée de plusieurs éléments :
 
 - Et d'éventuels paramètres.
 
-## III. Activité 1
+## III. Activité 10
 
 Décomposer les URLs suivantes :
 

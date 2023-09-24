@@ -22,7 +22,7 @@ pie showData
     "Google" : 92.35
 ```
 
-## II. Activité 1
+## II. Activité 4
 
 a) Effectuer la recherche `Apollo 11` sur les trois moteurs de recherche proposés et compléter le tableau suivant avec vos résultats de recherche :
 
@@ -55,15 +55,15 @@ Il existe trois méthodes de tri :
 
 - Le *tri par rapport à l'audiance*, qui évalue le temps resté par l'internaute sur une page web.
  
-## IV. Activité 2
+## IV. Activité 5
 
-Par groupe de deux ou trois.
+Par groupe de deux.
 
 L'objectif de l'activité est de comprendre comment l'algorithme `PageRank` de Google parvient à trier les pages web selon leur popularité.
 
-Ci-dessous un plateau représentant schématiquement six pages web reliées les unes aux autres par des liens hypertextes.
-
 ### Plateau 1
+
+Ci-dessous un plateau représentant schématiquement six pages web reliées les unes aux autres par des liens hypertextes.
 
 ```mermaid
   graph LR;
@@ -77,6 +77,16 @@ Ci-dessous un plateau représentant schématiquement six pages web reliées les 
       6-->1;
       3-->2;
 ```
+### Tableau des visites
+
+| Pages | Nombre de visites |
+| --- | --- |
+| 1 | |
+| 2 | |
+| 3 | |
+| 4 | |
+| 5 | |
+| 6 | |
 
 ### Algorithme PageRank
 
@@ -86,7 +96,7 @@ L'algorithme de `PageRank` consiste :
 
 1. Choisir une page de départ aléatoirement entre toute les pages du web en lançant le dé et placer le pion sur la page correspondante.
 
-2. Lancer le dé. Si le numéro tiré correspond à une page directement accessible (en ne traversant qu'une seule flèche) :
+2. Lancer le dé. Si le numéro tiré correspond à une page directement accessible (en ne traversant qu'une seule flèche), alors :
 
   + Visiter cette page en déplaçant le pion dessus.
 
@@ -100,7 +110,7 @@ Si un seul choix est possible, ne lancez pas le dé et allez directement sur la 
 
 a) Dessiner suffisamment grand le plateau $1$ sur une feuille.
 
-b) Appliquer l'algorithme de `PageRank` sur le plateau $1$ pendant cinq minutes et donner vos résultats.
+b) Appliquer l'algorithme de `PageRank` sur le plateau $1$ pendant dix minutes et donner vos résultats.
 
 c) Donner l'ordre de popularité des pages.
 
@@ -121,16 +131,10 @@ d) Il est possible qu'une page web ne fasse référence vers aucune autre. Quell
       4-->5;
       5-->1;
 ```
-e) Dessiner suffisamment grand le plateau $2$ sur une feuille.
 
-f) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question d).
+e) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question d).
 
-g) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau $2$ et donner vos résultats.
-
-h) Donner la popularité des pages.
-
-i) Il est possible qu'une page web ne soit pas référencée par aucune autre. Quelle page est concernée sur plateau $3$ ?
-
+f) Il est possible qu'une page web ne soit pas référencée par aucune autre. Quelle page est concernée sur plateau $3$ ?
 
 ### Plateau 3
 
@@ -146,13 +150,8 @@ i) Il est possible qu'une page web ne soit pas référencée par aucune autre. Q
       3-->2;
       4-->2;
 ```
-j) Dessiner suffisamment grand le plateau $3$ sur une feuille.
 
-k) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question i).
-
-l) Appliquer de nouveau l'algorithme de `PageRank` modifié pendant cinq minutes sur le plateau $3$ et donner vos résultats.
-
-m) Donner la popularité des pages.
+g) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question i).
 
 ________________
 
