@@ -72,12 +72,10 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 | Texte gras | `<b>Texte gras</b>` | <b>Texte gras</b> |
 | Texte italique | `<i>Texte italique</i>` | <i>Texte italique</i> |
 | Texte souligné | `<u>Texte souligné</u>` |<u>Texte souligné</u> |
-| Texte surligné | `<mark>Texte surligné</mark>` | <mark>Texte surligné</mark> |
+| Texte surligné | `<mark>Texte surligné</mark>` | <p><mark>Texte surligné</mark></p> |
 | Liste à puces numérotée | `<ol> <li>Premier</li> <li>Deuxième</li> </ol>` | <ol> <li>Premier</li> <li>Deuxième</li> </ol> |
 | Liste à puces non numérotée | `<ul> <li>Premier</li> <li>Deuxième</li> </ul>` | <ul> <li>Premier</li> <li>Deuxième</li> </ul> |
-| Tableau | `<table>Tableau</table>` | <table>Tableau</table> |
-| Colonnes | `<table><tr>Première colonne</tr><tr>Deuxième colonne</tr></table>` | <table><tr>Première colonne</tr><tr>Deuxième colonne</tr></table> |
-| Lignes | `<table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr></table>` | <table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr></table> |
+| Tableau | `<table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr><tr><td>Première ligne</td><td>Première ligne</td></tr><tr><td>Deuxième ligne</td><td>Deuxième ligne</td></tr></table>` | <table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr><tr><td>Première ligne</td><td>Première ligne</td></tr><tr><td>Deuxième ligne</td><td>Deuxième ligne</td></tr></table> |
 
 
 Consigne : Construire une page web vous présentant (: nom, âge, loisirs, desserts préférés,  artistes préférés, etc...) en utilisant le langage HTML.
