@@ -133,7 +133,7 @@ d) Il est possible qu'une page web ne fasse référence vers aucune autre. Quell
 
 e) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question d).
 
-f) Il est possible qu'une page web ne soit pas référencée par aucune autre. Quelle page est concernée sur plateau $3$ ?
+f) Il est possible qu'une page web ne soit pas référencée par aucune autre. Quelle page est concernée sur le plateau $3$ ci-dessous ?
 
 ### Plateau 3
 
@@ -150,7 +150,7 @@ f) Il est possible qu'une page web ne soit pas référencée par aucune autre. Q
       4-->2;
 ```
 
-g) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question i).
+g) Proposer une légère modification à l'algorithme pour pallier au problème identifié à la question f).
 
 ________________
 
