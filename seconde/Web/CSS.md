@@ -6,7 +6,7 @@ Le langage CSS (*Cascading Style Sheets*) que nous pouvons traduire en Français
 
 Il permet d'appliquer des styles sur différents éléments sélectionnés dans un document HTML.
 
-## II. Syntaxe d'un règle CSS
+## II. Syntaxe d'une règle CSS
 
 Une règle CSS est une règle de style appliqué à un sélecteur encadré par des accolades.
 

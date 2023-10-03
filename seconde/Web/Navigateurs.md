@@ -22,57 +22,15 @@ Pour éviter de laisser des traces et ainsi, protéger sa vie privée. Nous pouv
 
 ## IV. Activité 7
 
-Afin d'évaluer votre niveau de sécurité sur le web, faites le test suivant en comptant le nombre de réponses `a`, `b` et `c` :
+Afin d'évaluer votre niveau de sécurité sur le web, faites le test suivant en comptant le nombre de réponses `a`, `b` et `c` : [Sécurité sur le web](https://digistorm.app/c/7303075)
 
-1. Mettez-vous à jour votre navigateur web ?
+##### Interpréter ses Résultats :
 
-- a : Régulièrement.
-- b : De temps en temps.
-- c : Jamais.
+- Si vous avez un maximum de réponses `a` : Vous avez de très bons réflexes en sécurité. Vous connaissez les risques du web et vous êtes un utilisateur averti.
 
-2. Utilisez-vous un moteur de recherche limitant l'utilisation de cookies comme Qwant ou DuckDuckGo ?
+- Si vous avez un maximum de réponses `b` : Vous avez de moyens bons réflexes en sécurité. Vous connaissez quelques astuces du web mais vous devez encore progresser.
 
-- a : Oui.
-- b : Non.
-- c : Parfois.
-
-3. Supprimez-vous les cookies et l'historique de navigation ?
-
-- a : Tous les jours.
-- b : De temps en temps.
-- c : Jamais.
-
-4. Les mots de passe que vous utilisez sont-ils ?
-
-- a : Forts.
-- b : Un mot du dictionnaire.
-- c : Ma date de naissance.
-
-5. Vos mots de passe sont-ils différents pour chaque application ?
-
-- a : Oui, bien sûr.
-- b : Oui, je les enregistre dans un fichier `mot_de_passe.txt` sur mon ordinateur.
-- c : Non.
-
-6. Utilisez-vous le bouton "déconnexion" en quittant une application web ?
-
-- a : Oui.
-- b : De temps en temps.
-- c : Jamais.
-
-7. Lorsque vous vous connectez à un réseau Wi-Fi public (lycée, restaurant) :
-
-- a : Vous ne composez jamais vos mots de passe.
-- b : Vous ne chanchez rien à vos habitudes.
-- c : Vous en profitez pour vous connecter à votre messagerie ou à votre banque.
-
-##### Résultats :
-
-Si vous avez un maximum de réponses `a` : Vous avez de très bons réflexes en sécurité. Vous connaissez les risques du web et vous êtes un utilisateur averti.
-
-Si vous avez un maximum de réponses `b` : Vous avez de moyens bons réflexes en sécurité. Vous connaissez quelques astuces du web mais vous devez encore progresser.
-
-Si vous avez un maximum de réponses `c` : Vous avez de très mauvais réflexes en sécurité. Vous êtes très exposés aux risques du web et vous devriez changer vos habitudes.
+- Si vous avez un maximum de réponses `c` : Vous avez de très mauvais réflexes en sécurité. Vous êtes très exposés aux risques du web et vous devriez changer vos habitudes.
 
 ## V. Activité 8
 
