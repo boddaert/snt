@@ -6,7 +6,7 @@ Anecdote : Nous estimons à 1,4 milliard le nombre de sites web créés dans le 
 
 ## I. Activité 2
 
-[Repères historiques - SNT](https://www.youtube.com/watch?v=YVn7jrDYjUQ)
+[Repères historiques - SNT](https://ladigitale.dev/digiview/#/v/651c3b82b890a)
 
 a) Compléter les informations de la frise suivante à l'aide de la vidéo :
 

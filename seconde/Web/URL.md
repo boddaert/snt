@@ -33,8 +33,6 @@ Décomposer les URLs suivantes :
 
 - `https://www.google.com`
 
-- `https://www1.ac-lille.fr/`
-
 - `https://www1.ac-lille.fr/les-examens-121506`
 
 ________________
