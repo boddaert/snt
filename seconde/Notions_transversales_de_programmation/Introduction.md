@@ -4,7 +4,7 @@
 
 ### a) Définitions
 
-[Qu'est-ce qu'un algorithme ? - Educode](https://www.youtube.com/watch?v=tbmKIErjnns)
+[Qu'est-ce qu'un algorithme ? - Educode](https://ladigitale.dev/digiview/#/v/651db93fdcd89)
 
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques sur ordinateur.
 

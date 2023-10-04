@@ -18,8 +18,8 @@ a) Compléter les informations de la frise suivante à l'aide de la vidéo :
           ... : Tim Berners Lee donne naissance au World Wide Web.
           1991 : ...
           1993 : ...
-          ... : Les langages PHP et JavaScript rendent les pages dynamiques.
           1994 : ...
+          ... : Les langages PHP et JavaScript rendent les pages dynamiques.
           ... : Les pages web sont standardisées par le W3C.
 ```
 ________________
