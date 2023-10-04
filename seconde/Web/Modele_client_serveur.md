@@ -48,7 +48,7 @@ Le code réponse indique l'état de la réponse :
 
 La réponse contient bien sûr le code HTML CSS permettant d'afficher la ressource sur le navigateur.
 
-## V. Activité 11
+## V. Activité 12
 
 a) Sur Mozilla Firefox, taper sur la touche `f12`. Il s'agit du panneau d'outils de développement.
 

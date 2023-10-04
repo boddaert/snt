@@ -28,7 +28,7 @@ Vous chercherez les informations liés à votre informaticien/ne sur Wikipédia.
 
 1. La page web devra contenir plusieurs fonctionnalités vues dans les deux leçons précédentes :
 
-- Une image
+- Une image libre de droit
 
 - Un tableau
 

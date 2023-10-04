@@ -65,6 +65,24 @@ Quentin doit faire un exposé. Il fait un grand nombre de copier-coller et a ins
 
 3. Quelles solutions s'offrent à lui pour réaliser son exposé ?
 
+## VIII. Activité 10
+
+Pour trouver et utiliser les images libres de droit, il existe plusieurs solutions :
+
+1. Filtrer sur Google Images :
+
+a) Effectuer la recherche `nuit étoilée de van gogh` sur le web.
+
+b) Cliquer sur l'onglet `Images`.
+
+c) Trouver le filtre `Licence Creative Commons`.
+
+2. Utiliser une banque d'images gratuites et libres de droit.
+
+a) Aller sur le site web `123ref`.
+
+b) Taper dans la barre de recherche du site `nuit étoilée de van gogh`.
+
 ________________
 
 [Sommaire](./../README.md)
