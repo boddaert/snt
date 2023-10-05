@@ -69,15 +69,15 @@ Quentin doit faire un exposé. Il fait un grand nombre de copier-coller et a ins
 
 Pour trouver et utiliser les images libres de droit, il existe plusieurs solutions :
 
-1. Filtrer sur Google Images :
+1. Ajouter un filtre sur le moteur de recherche des images :
 
-a) Effectuer la recherche `nuit étoilée de van gogh` sur le web.
+a) Effectuer la recherche `nuit étoilée de van gogh` sur un moteur de recherche.
 
 b) Cliquer sur l'onglet `Images`.
 
-c) Trouver le filtre `Licence Creative Commons`.
+c) Trouver et activer le filtre `Licence Creative Commons`.
 
-2. Utiliser une banque d'images gratuites et libres de droit.
+2. Utiliser une banque d'images gratuites et libres de droit :
 
 a) Aller sur le site web `123ref`.
 
