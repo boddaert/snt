@@ -67,4 +67,8 @@ Voir plus : [https://docs.python.org/fr/3/library/random.html](https://docs.pyth
 
 ________
 
+[Leçon n°9 : Instructions conditionnelles](./Instructions_conditionnelles.md)
+
+________
+
 [Sommaire](./../../seconde/)

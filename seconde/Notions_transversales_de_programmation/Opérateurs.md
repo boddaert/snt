@@ -36,7 +36,7 @@ Les opérateurs mathématiques ont comme opérandes des nombres entiers ou flott
 3
 ```
 
-##### Application 1
+##### Exercice 1
 
 Nous considèrons les expressions suivantes :
 
@@ -66,7 +66,7 @@ Les opérateurs de comparaison ont comme opérandes des nombres entiers ou flott
 >>> 5 > 2
 True
 ```
-##### Application 2
+##### Exercice 2
 
 Nous considèrons les expressions suivantes :
 
@@ -124,7 +124,7 @@ Nous résumons généralement les résultats des opérateurs booléens dans des 
 | $True$ | $True$ | $True$ | 
 
 
-##### Application 3
+##### Exercice 3
 
 Nous considèrons les expressions suivantes :
 
@@ -150,7 +150,7 @@ Les parenthèses `()` permettent d'augmenter la priorité de l'expression encadr
 16
 ```
 
-##### Application 4
+##### Exercice 4
 
 Nous considérons les expressions suivantes :
 
@@ -165,6 +165,10 @@ Nous considérons les expressions suivantes :
 a) Sur chacune d'elle, proposer un résultat sans utiliser l'ordinateur.
 
 b) A l'aide de la console Python, vérifier vos résultats.
+
+__________
+
+[Leçon n°5 : Variables](./Variables.md)
 
 __________
 

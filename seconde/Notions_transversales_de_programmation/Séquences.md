@@ -34,7 +34,7 @@ Puis, après exécution, en vérifiant la valeur affectée à la variable `a` da
 11
 ```
 
-##### Application 1
+##### Exercice 1
 
 Recopier le programme de l'exemple précédent et vérifier à votre tour la valeur affectée à la variable `a` dans la console Python.
 
@@ -64,7 +64,7 @@ Nous obtiendrions la trace d'exécution suivante :
 | 2 | $11$ | / |
 | 3 | $11$ | $10$ |
 
-##### Application 2
+##### Exercice 2
 
 Donner la trace d'exécution du programme suivant :
 
@@ -75,6 +75,10 @@ a = a - b
 b = b + 1
 a = a - b
 ```
+
+_______
+
+[Leçon n°7 : Fonctions](./Fonctions.md)
 
 _______
 

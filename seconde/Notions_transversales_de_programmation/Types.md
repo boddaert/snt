@@ -12,12 +12,6 @@ Nous pouvons distinguer, parallèlement aux mathématiques, les nombres entiers 
 
 Par exemple, $`42`$ est un entier et $`ù`$ un caractère.
 
-Attribuer un type à une valeur nous sert à **classer nos données** et donc à savoir si telle ou telle opération est possible sur la donnée.
-
-Par exemple, nous pouvons effectuer toutes les opérations possibles aux entiers à la valeur $`42`$ puisque $`42`$ est un entier.
-
-Mais nous ne pouvons pas additionner $`42`$ et $`ù`$.
-
 ## II. Les nombres
 
 ### a) Les entiers naturels
@@ -33,7 +27,7 @@ Par exemple, si nous demandons le type de la valeur 5 en écrivant `type(5)` dan
 
 Pour l'instant, il est inutile de s'attarder sur le mot-clé `class`, concentrons nous sur le mot-clé `int` qui nous indique qu'il s'agit du type `int` ou `integer` qui veut dire **entier**.
 
-##### Application 1
+##### Exercice 1
 
 Dans la console Python et à l'aide de la fonction `type()`, vérifier que les valeurs $`42`$, $`3000`$, $`0`$ et $`-4`$ sont bien des entiers.
 
@@ -48,7 +42,7 @@ Les nombres réels sont des nombres décimaux et possèdent un type différent d
 
 Le type des réels en Python est le type ``float`` pour **nombres flottants**.
 
-##### Application 2
+##### Exercice 2
 
 Dans la console Python et à l'aide de la fonction `type()`, vérifier que les valeurs $`5.0`$, $`0.6578543`$, $`0.0`$ et $`-6.4`$ sont bien des flottants.
 
@@ -65,7 +59,7 @@ En Python, les chaînes de caractère sont représentés par le type ``str``  :
 <class 'str'>
 ```
 
-##### Application 3
+##### Exercice 3
 
 Dans la console Python et à l'aide de la fonction `type()`, vérifier que les valeurs $`"azerty"`$, $`"exemple@mail.fr"`$ et $`"3.14"`$ sont bien des chaînes de caractères.
 
@@ -84,22 +78,11 @@ En Python, ces valeurs sont $`True`$ et $`False`$ respectivement.
 
 Ces booléens servent notemment dans les tables de vérité et les instructions conditionnelles.
 
-##### Application 4
+##### Exercice 4
 
 Dans la console Python et à l'aide de la fonction `type()`, vérifier que les valeurs $`True`$ et $`False`$ sont bien des booléens.
 
-## V. NoneType
-
-Voici un type encore plus particulier : ``NoneType`` 
-
-Une seule valeur possède ce type, c'est $`None`$ et comme son nom l'indique, c'est une valeur qui ne représente ... rien !
-
-```python
->>> type(None)
-<class 'NoneType'>
-```
-
-## VI. Récapitulatif des types
+## V. Récapitulatif des types
 
 | En Français | En Python |
 |----|----|
@@ -108,6 +91,10 @@ Une seule valeur possède ce type, c'est $`None`$ et comme son nom l'indique, c'
 | Chaîne de caractères | `str` |
 | Booléen | `bool` |
 | NoneType | `None` |
+
+_________
+
+[Leçon n°4 : Opérateurs](./Opérateurs.md)
 
 _________
 

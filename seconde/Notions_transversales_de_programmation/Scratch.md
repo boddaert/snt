@@ -1,5 +1,0 @@
-# Scratch
-
-___________
-
-[Sommaire](./../../seconde/)

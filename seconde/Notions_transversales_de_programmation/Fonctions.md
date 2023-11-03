@@ -56,7 +56,7 @@ Ainsi, la signature de la fonction `somme()` s'écrirait : `somme(a : int, b : i
 
 La fonction `somme()` permet de faire la somme des entiers $a$ et $b$ passés en paramètres.
 
-##### Application 1
+##### Exercice 1
 
 Donner, pour chaque signature, le nom de la fonction, son ou ses paramètres ainsi que leur type et le type de la valeur de résultat :
 
@@ -68,11 +68,11 @@ Donner, pour chaque signature, le nom de la fonction, son ou ses paramètres ain
 
 - ``nombre_caracteres(mot : str ) -> int``
 
-##### Application 2
+##### Exercice 2
 
 Ecrire la signature de la fonction ``maximum()``qui prend en paramètres deux entiers $a$ et $b$ et renvoie comme résultat un entier.
 
-##### Application 3
+##### Exercice 3
 
 Ecrire la signature de la fonction ``contient()`` qui prend en paramètre une chaîne de caractère $mot$, un caractère $lettre$ et renvoie comme résultat un booléen.
 
@@ -119,11 +119,11 @@ def somme(a : int, b : int) -> int :
     return resultat
 ```
 
-##### Application 4
+##### Exercice 4
 
 Ecrire, en Python, la fonction ``produit(a : int, b : int) -> int`` qui prend en paramètres deux entiers $a$ et $b$ et renvoie comme résultat $`a * b`$.
 
-##### Application 5
+##### Exercice 5
 
 Ecrire, en Python, la fonction `carre(n : int) -> int` qui prend en paramètres un entier $n$ et renvoie comme résultat $`n²`$.
 
@@ -152,11 +152,11 @@ Autrement dit, le paramètre $`a`$ a comme valeur $`5`$ et le paramètre $`b`$ a
 
 Il est important que le type de l'argument doit être le même que celui du paramètre.
 
-##### Application 6
+##### Exercice 6
 
 Vérifier la bonne réponse à l'application 4 en appelant la fonction dans la console Python plusieurs fois avec des arguments différents.
 
-##### Application 7
+##### Exercice 7
 
 Vérifier la bonne réponse à l'application 5 en appelant la fonction dans la console Python plusieurs fois avec des arguments différents.
 
@@ -186,7 +186,7 @@ Ou encore l'utiliser en tant qu'argument d'une autre fonction :
 <class 'int'>
 ```
 
-##### Application 8
+##### Exercice 8
 
 Donner le résultat des instructions suivantes :
 
@@ -215,7 +215,7 @@ c) Instruction 3
 
 Les fonctions natives sont des fonctions qui existent déjà. La fonction ``type()`` par exemple est une fonction native.
 
-##### Application 9
+##### Exercice 9
 
 Il est possible, avec une fonction native, de changer le type de nos valeurs.
 
@@ -230,6 +230,10 @@ a) Dans la console Python et à l'aide de la fonction `str()`, convertir les val
 b) Dans la console Python et à l'aide de la fonction `int()`, convertir les valeurs `3.14`, `True`, `False` et `"42"`.
 
 c) Dans la console Python et à l'aide de la fonction `float()`, convertir les valeurs `42`, `3.14` et `"3000"`.
+
+___________
+
+[Leçon n°8 : Modules](./Modules.md)
 
 ___________
 

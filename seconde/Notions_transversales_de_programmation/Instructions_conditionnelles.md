@@ -53,7 +53,7 @@ Son schéma de branchement donnerait :
       C[b = a];
 ```
 
-##### Application 1
+##### Exercice 1
 
 Donner, pour chaque programme suivant, son schéma de branchement :
 
@@ -73,15 +73,7 @@ if a or b :
     b = True
 ```
 
-c) Programme 3
-
-```python
-if a < b and b < c :
-    b = c -1
-    c = a + 1
-```
-
-##### Application 2
+##### Exercice 2
 
 Retrouver, pour chaque schéma de branchement suivant, le programme correspondant :
 
@@ -103,14 +95,6 @@ b) Schéma de branchement 2
       A--True-->B[a = a - 1];
       B-->C[b = b + 1];
       A--False-->C[b = b + 1];
-```
-
-c) Schéma de branchement 3
-
-```mermaid
-  graph TB;
-      A{if a or b and not c :};
-      A--True-->B[c = not c];
 ```
 
 ## II. Alternative
@@ -158,7 +142,7 @@ Son schéma de branchement donnerait :
       B-->D[b = a];
       C-->D[b = a];
 ```
-##### Application 3
+##### Exercice 3
 
 Donner, pour chaque programme suivant, son schéma de branchement :
 
@@ -182,16 +166,7 @@ a = a * 2
 b = b * 2
 ```
 
-c) Programme 3
-
-```python
-if a < b and c != 0 :
-    c = a
-else :
-    c = b
-```
-
-##### Application 4
+##### Exercice 4
 
 Retrouver, pour chaque schéma de branchement suivant, le programme correspondant :
 
@@ -215,16 +190,9 @@ b) Schéma de branchement 2
       A--False-->C[a = a + 1];
 ```
 
-c) Schéma de branchement 3
+_________________________
 
-```mermaid
-  graph TB;
-      A{if not a or not b :};
-      A--True-->B[a = True];
-      A--False-->C[a = False];
-      B-->D[b = True];
-      C-->D[b = True];
-```
+[Projet n°2 : Ecrire son nom](Projet_prénom.md)
 
 _________________________
 

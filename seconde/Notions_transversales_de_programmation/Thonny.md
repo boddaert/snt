@@ -34,7 +34,7 @@ Aucun résultat ne s'est affiché et c'est tout à fait normal, je n'ai pas écr
 
 Donc, mon programme a bien effectué la somme de $5$ et $5$ mais n'a rien effectué de plus.
 
-##### Application 1
+##### Exercice 1
 
 - Ouvrir le logiciel Thonny.
 
@@ -44,7 +44,7 @@ Donc, mon programme a bien effectué la somme de $5$ et $5$ mais n'a rien effect
 
 Le programme s'exécute t-il ?
 
-##### Application 2
+##### Exercice 2
 
 Remplacer l'opération de l'application 1 par `5 + * 3`
 
@@ -72,9 +72,13 @@ Le mode interactif ne permet pas d'enregistrer sur le fichier des programmes.
 
 On utilise généralement le mode interactif pour tester ses programmes ou ses instructions.
 
-#### Application 3
+#### Exercice 3
 
 Répéter les opérations des applications n°1 et n°2 en utilisant cette fois uniquement le mode interactif de Thonny.
+
+________
+
+[Leçon n°3 : Types](./Types.md)
 
 ________
 

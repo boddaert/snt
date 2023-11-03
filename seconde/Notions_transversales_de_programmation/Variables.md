@@ -38,7 +38,7 @@ Pour modifier la valeur contenue dans une variable, j'affecte une nouvelle valeu
 
 L'ancienne valeur est alors écrasée par la nouvelle valeur.
 
-##### Application 1
+##### Exercice 1
 
 Dans la console python et en utilisant l'affectation, affecter :
 
@@ -60,9 +60,13 @@ Nous pouvons, comme pour les valeurs, connaître le type des variables en utilis
 <class 'int'>
 ```
 
-##### Application 2
+##### Exercice 2
 
 Pour chacune des variables créées à l'application 1, vérifier leur type dans la console python en utilisant la fonction `type()`.
+
+________
+
+[Leçon n°6 : Séquences d'instructions](./Séquences.md)
 
 ________
 
