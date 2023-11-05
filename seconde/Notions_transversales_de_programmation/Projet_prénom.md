@@ -38,6 +38,18 @@ Voici quelques fonctions simples pour commencer à utiliser `turtle` :
 
 Documentation de `turtle` : [https://docs.python.org/fr/3/library/turtle.html](https://docs.python.org/fr/3/library/turtle.html)
 
+## III. Compte rendu
+
+Vous devrez rendre comme livrables :
+
+- Le fichier contenant le code Python.
+
+## IV. Evaluation
+
+Vous serez évalués sur :
+
+- La qualité du code fourni (lisibilité du code, explicité des noms de variable)
+
 ______________
 
 [Sommaire](./../README.md)
