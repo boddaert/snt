@@ -16,15 +16,9 @@ Citez le nom de média social que vous utilisez/connaissez.
 
 a) Parmi la liste des médias sociaux trouvés dans l'activité précédente, en choisir dix.
 
-b) En effectuant des recherches sur le web, trouver la date de création des médias sociaux que vous avez choisi.
+b) Donner, pour chaque média social choisi, son principal usage.
 
-Puis placer les sur une frise chronologique.
-
-c) Ajouter sur la frise et pour chaque médias sociaux le groupe industriel auquel il appartient.
-
-d) Ajouter également sur la frise et pour chaque médias sociaux le principal usage du média.
-
-e) Placer sur le plan ci-dessous les dix médias sociaux en fonction de leurs caractéristiques :
+c) Placer sur le plan ci-dessous les dix médias sociaux en fonction de leurs caractéristiques :
 
 ![Repère orthonormé médias sociaux](./img/repere_medias_sociaux.drawio.png)
 
@@ -35,7 +29,7 @@ L'axe vertical représente le type de ce qui est mis en avant par les utilisateu
 
 ## IV. Activité 3
 
-[Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](https://www.youtube.com/watch?v=RaHTS9nxXUs)
+[Evolution des médias sociaux par nombre d'utilisateur dans le monde - Wikipédia](https://ladigitale.dev/digiview/#/v/6550c63fd7ea0)
 
 Répondez aux questions suivantes à l'aide de la vidéo :
 
@@ -43,7 +37,7 @@ Répondez aux questions suivantes à l'aide de la vidéo :
 
 2. Ajouter sur le classement, le nombre d'utilisateur de chaque média.
 
-3. Sur les quinze premiers médias sociaux de 2020, sur combien de médias êtes-vous inscris ? utilisez-vous au moins une fois par mois ?
+3. Sur les quinze premiers médias sociaux de 2020, sur combien de médias êtes-vous inscris ? utilisez-vous ces médias au moins une fois par mois ?
 
 ___________
 
