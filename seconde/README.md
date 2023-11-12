@@ -32,13 +32,11 @@
 
 - Leçon 2 : [Modèle économique des réseaux](./Réseaux_sociaux/Modele_economique.md)
 
-- Leçon 3 : [Identité numérique](./Réseaux_sociaux/Identite_numerique.md)
+- Leçon 3 : [Petit monde](./Réseaux_sociaux/Petit_monde.md)
 
-- Leçon 4 : [Petit monde](./Réseaux_sociaux/Petit_monde.md)
+- Leçon 4 : [Graphes](./Réseaux_sociaux/Graphes.md)
 
-- Leçon 5 : [Graphes](./Réseaux_sociaux/Graphes.md)
-
-- Leçon 6 : [Cyberviolence](./Réseaux_sociaux/Cyberviolence.md)
+- Leçon 5 : [Cyberviolence](./Réseaux_sociaux/Cyberviolence.md)
 
 ##### Chapitre 3 : Notions transversales de programmation
 

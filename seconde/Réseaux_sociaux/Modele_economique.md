@@ -13,11 +13,11 @@ Le modèle économique repose essentiellement sur :
 
 ## II. Activité 1
 
-Après avoir lu le document [Instagram - Etude de marché](./img/instagram_business_model.md), expliquer en un paragraphe de cinq lignes comment Instagram génère des revenus.
+Après avoir lu le document [Instagram - Etude de marché](./doc/instagram_business_model.md), expliquer en un paragraphe de cinq lignes comment Instagram génère des revenus.
 
 ## III. Activité 2
 
-Retrouver dans la politique de confidentialité de BeReal [https://bereal.com/fr/privacy-policy/](https://bereal.com/fr/privacy-policy/) tous les types de données personnelles récoltées par le média social.
+Retrouver dans la politique de confidentialité de BeReal [https://bereal.com/fr/privacy-policy/](https://bereal.com/fr/privacy-policy/) tous les types de données personnelles récoltées par ce média social.
 ____________
 
 [Sommaire](./../README.md)

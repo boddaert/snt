@@ -15,12 +15,14 @@ Le concept des *six degrés de séparation*, formulé par le Hongrois Frigyes Ka
 
 ## II. Activité 1
 
-[Théorie du petit monde - Presque sûrement](https://www.youtube.com/watch?v=gOiIQ0qGiCc)
+[Théorie du petit monde - Presque sûrement](https://ladigitale.dev/digiview/#/v/6550cef4a06ca)
 
 a) Répondez aux questions suivantes à l'aide de la vidéo :
 
 1. Résumer en quelques lignes l'expérience de Milgram en 1967 puis celle de Watts en 2002.
+
 2. A combien est le degrès de séparation moyen entre deux utilisateurs de Facebook ?
+
 3. Les réseaux sociaux accentuent-ils le phénomène de petit monde ?
 
 ## III. Activité 2
@@ -31,7 +33,7 @@ Voici ci-dessous une représentation sous forme de graphe des personnages et de 
 
 a) Choisir deux personnages aléatoirement et donner leur degrès de séparation en indiquant le chemin.
 
-b) Répéter l'expérience jusqu'à repérer une similarité dans le chemin.
+b) Répéter l'expérience jusqu'à repérer une méthode efficace pour que la longueur du chemin soit le plus petit possible.
 
 Nous appelons *hubs* les personnes connectées avec beaucoup d'autres personnes.
 
