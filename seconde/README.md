@@ -44,21 +44,15 @@
 
 - Leçon 2 : [Thonny](./Notions_transversales_de_programmation/Thonny.md)
 
-- Leçon 3 : [Types](./Notions_transversales_de_programmation/Types.md)
+- Leçon 3 : [Notions de base](./Notions_transversales_de_programmation/Notions_de_base.md)
 
-- Leçon 4 : [Opérateurs](./Notions_transversales_de_programmation/Opérateurs.md)
+- Leçon 4 : [Fonctions](./Notions_transversales_de_programmation/Fonctions.md)
 
-- Leçon 5 : [Variables](./Notions_transversales_de_programmation/Variables.md)
-
-- Leçon 6 : [Séquences d'instructions](./Notions_transversales_de_programmation/Séquences.md)
-
-- Leçon 7 : [Fonctions](./Notions_transversales_de_programmation/Fonctions.md)
-
-- Leçon 8 : [Modules](./Notions_transversales_de_programmation/Modules.md)
-
-- Leçon 9 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
+- Leçon 5 : [Modules](./Notions_transversales_de_programmation/Modules.md)
 
 - Projet n°2 : [Ecrire son prénom](./Notions_transversales_de_programmation/Projet_prénom.md)
+
+- Leçon 6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
 
 ##### Chapitre 3 : [Internet]
 

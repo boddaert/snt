@@ -1,28 +1,5 @@
 # Fonctions
 
-Voyons le programme suivant :
-
-```python
-hauteur_parallelepipede = 2
-largeur_parallelepipede = 2
-longueur_parallelepipede = 5
-
-aire_rectangle = longueur_parallelepipede * hauteur_parallelepipede
-aire_carre = hauteur_parallelepipede * largeur_parallelepipede
-
-aire_parallelepipede = (aire_rectangle * 4) + (aire_carre * 2)
-```
-
-Ce programme permet de calculer la somme des aires d'un parallèlépipède de hauteur $2$, de largeur $2$ et de longueur $5$.
-
-Nous constatons que nous avons calculé deux fois une aire : Une première fois pour l'aire d'un rectangle et la seconde pour un carré.
-
-L'opération effectuée est la même (une multiplication) mais les opérandes sont différents.
-
-Afin d'éviter de réécrire plusieurs fois une instruction réalisant la même action, nous utilisons les fonctions.
-
-Ainsi, ici nous aurions pu utiliser une fonction `aire()` qui s'occupe de calculer une aire.
-
 ## I. Définition
 
 Une *fonction* est une séquence d'instruction réutilisable. Elle associe une séquence d'instruction à un nom.
@@ -31,7 +8,7 @@ Nous la distinguons des variables parce que le nom est suivi de parenthèses.
 
 Elle réalise une tâche précise et peut dépendre de paramètres.
 
-Par exemple, la fonction `type()` que nous avons vu au chapitre sur les types (cf : [Types](./Types.md)) permet d'obtenir le type de la valeur passée en paramètre.
+Par exemple, la fonction `type()` que nous avons vu au chapitre sur les types permet d'obtenir le type de la valeur passée en paramètre.
 
 ```python
 >>> type(5)
@@ -43,8 +20,6 @@ Par exemple, la fonction `type()` que nous avons vu au chapitre sur les types (c
 Soit `somme()` la fonction permettant de faire la somme de deux entiers.
 
 Pour être un peu plus précis sur la définition d'une fonction, nous écrivons sa signature.
-
-La *signature d'une fonction* est composée du nom de la fonction, du nom et du type des paramètres, du type de la valeur du résultat renvoyé par la fonction.
 
 Ainsi, la signature de la fonction `somme()` s'écrirait : `somme(a : int, b : int) -> int`.
 
@@ -58,31 +33,13 @@ La fonction `somme()` permet de faire la somme des entiers $a$ et $b$ passés en
 
 ##### Exercice 1
 
-Donner, pour chaque signature, le nom de la fonction, son ou ses paramètres ainsi que leur type et le type de la valeur de résultat :
-
-- ``produit(a : int, b : int) -> int``
-
-- ``est_superieur_a(a : int, b : int) -> bool``
-
-- ``pythagore( a : float, b : float, c : float) -> float``
-
-- ``nombre_caracteres(mot : str ) -> int``
-
-##### Exercice 2
-
 Ecrire la signature de la fonction ``maximum()``qui prend en paramètres deux entiers $a$ et $b$ et renvoie comme résultat un entier.
-
-##### Exercice 3
-
-Ecrire la signature de la fonction ``contient()`` qui prend en paramètre une chaîne de caractère $mot$, un caractère $lettre$ et renvoie comme résultat un booléen.
 
 ### b) Paramètres
 
 Une fonction peut avoir zéro ou plusieurs paramètres.
 
 Un *paramètre* est le nom d'une variable utilisée à l'intérieur de la fonction.
-
-Lors de l'écriture d'une fonction, ses paramètres désignent alors une valeur qui n'est pas connue et qui pourra être différente à chaque utilisation.
 
 ## II. Ecriture de fonction
 
@@ -119,11 +76,11 @@ def somme(a : int, b : int) -> int :
     return resultat
 ```
 
-##### Exercice 4
+##### Exercice 2
 
 Ecrire, en Python, la fonction ``produit(a : int, b : int) -> int`` qui prend en paramètres deux entiers $a$ et $b$ et renvoie comme résultat $`a * b`$.
 
-##### Exercice 5
+##### Exercice 3
 
 Ecrire, en Python, la fonction `carre(n : int) -> int` qui prend en paramètres un entier $n$ et renvoie comme résultat $`n²`$.
 
@@ -152,41 +109,15 @@ Autrement dit, le paramètre $`a`$ a comme valeur $`5`$ et le paramètre $`b`$ a
 
 Il est important que le type de l'argument doit être le même que celui du paramètre.
 
+##### Exercice 4
+
+Vérifier la bonne réponse à l'exercice 2 en appelant la fonction dans la console Python plusieurs fois avec des arguments différents.
+
+##### Exercice 5
+
+Vérifier la bonne réponse à l'exercice 3 en appelant la fonction dans la console Python plusieurs fois avec des arguments différents.
+
 ##### Exercice 6
-
-Vérifier la bonne réponse à l'application 4 en appelant la fonction dans la console Python plusieurs fois avec des arguments différents.
-
-##### Exercice 7
-
-Vérifier la bonne réponse à l'application 5 en appelant la fonction dans la console Python plusieurs fois avec des arguments différents.
-
-### b) Résultat d'une fonction
-
-Le résultat obtenu suite à l'appel d'une fonction représente une valeur.
-
-Nous pouvons stocker la valeur obtenue dans une variable :
-
-```python
->>> a = somme(5,2)
->>> a
-7
-```
-
-Ou la réutiliser dans une opération :
-
-```python
->>> 2 * somme(5,2)
-14
-```
-
-Ou encore l'utiliser en tant qu'argument d'une autre fonction :
-
-```python
->>> type(somme(5,2))
-<class 'int'>
-```
-
-##### Exercice 8
 
 Donner le résultat des instructions suivantes :
 
@@ -210,30 +141,9 @@ c) Instruction 3
 ```python
 >>> somme(5, somme(3,2))
 ```
-
-## IV. Fonctions natives
-
-Les fonctions natives sont des fonctions qui existent déjà. La fonction ``type()`` par exemple est une fonction native.
-
-##### Exercice 9
-
-Il est possible, avec une fonction native, de changer le type de nos valeurs.
-
-- La fonction ``str()`` permet de transformer en chaîne de caractère la valeur mise en parenthèses.
-
-- La fonction ``int()`` permet de transformer en nombre entier la valeur mise en parenthèses.
-
-- La fonction ``float()`` permet de transformer en nombre flottant la valeur mise en parenthèses.
-
-a) Dans la console Python et à l'aide de la fonction `str()`, convertir les valeurs `42`, `3.14`, `0.0` et `True` en chaîne de caractères.
-
-b) Dans la console Python et à l'aide de la fonction `int()`, convertir les valeurs `3.14`, `True`, `False` et `"42"`.
-
-c) Dans la console Python et à l'aide de la fonction `float()`, convertir les valeurs `42`, `3.14` et `"3000"`.
-
 ___________
 
-[Leçon n°8 : Modules](./Modules.md)
+[Leçon n°5 : Modules](./Modules.md)
 
 ___________
 

@@ -9,6 +9,7 @@ Pourtant, s'inscrire sur un média social est généralement gratuit, poster ou 
 Le modèle économique repose essentiellement sur :
 
 - La publicité.
+
 - La revente de données personnelles.
 
 ## II. Activité 1

@@ -52,4 +52,8 @@ Vous serez évalués sur :
 
 ______________
 
+[Leçon n°6 : Instructions conditionnelles](./Instructions_conditionnelles.md)
+
+______________
+
 [Sommaire](./../README.md)

@@ -8,36 +8,17 @@ Le module `math` par exemple met à disposition toutes les fonctions mathématiq
 
 ## II. Importation de module
 
-### a) Importer globalement
-
-Importer de manière globale revient à importer tout le code contenu dans le module :
+Importer un module se fait avec l'instruction suivante :
 
 ```python
-import math
+from math import *
 ```
 
-Dans ce cas, pour pouvoir utiliser les fonctionnalités du module, nous devrons écrire le nom du module suivi d'un point suivi de la fonctionnalité :
+Et ainsi, nous pouvons utiliser les fonctions mises à disposition dans ce module :
 
 ```python
->>> import math
->>> math.sqrt(5)
-2.23606797749979
-```
-
-### b) Importer précisément
-
-Nous pouvons importer seulement les fonctionnalités qui nous interesse :
-
-```python
-from math import sqrt
-```
-
-Dans ce cas ci, plus besoin de devoir réécrire le nom du module :
-
-```python
->>> from math import sqrt
->>> sqrt(5)
-2.23606797749979
+from math import *
+sqrt(5)
 ```
 
 ## III. Modules standards
@@ -61,13 +42,13 @@ Le module `random` met à disposition plusieurs fonctions permettant d'obtenir d
 | Nom du module : | `random` |
 |---|---|
 | Entier aléatoire | `randint` |
-| Nombre aléatoire compris entre $0$ et $1$ | `random` |
+
 
 Voir plus : [https://docs.python.org/fr/3/library/random.html](https://docs.python.org/fr/3/library/random.html)
 
 ________
 
-[Leçon n°9 : Instructions conditionnelles](./Instructions_conditionnelles.md)
+[Projet n°2 : Ecrire son prénom](./Projet_prénom.md)
 
 ________
 
