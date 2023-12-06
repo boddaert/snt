@@ -102,8 +102,4 @@ b = b * 2
 
 _________________________
 
-[Projet n°2 : Ecrire son nom](Projet_prénom.md)
-
-_________________________
-
 [Sommaire](./../../seconde/)
