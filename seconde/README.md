@@ -54,6 +54,8 @@
 
 - Leçon 6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
 
+- Projet n°3 : [Chi Fu Mi](./Notions_transversales_de_programmation/Projet_chi_fu_mi.md)
+
 ##### Chapitre 3 : [Internet]
 
 ##### Chapitre 4 : [Informatique embarquée]

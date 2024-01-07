@@ -2,7 +2,7 @@
 
 ## I. Description
 
-En Python et à l'aide du module `turtle`, vous devrez dessiner votre prénom.
+En Python et à l'aide du module `turtle`, vous devrez écrire votre prénom.
 
 Le reste peut être personnalisé.
 

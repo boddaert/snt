@@ -102,4 +102,8 @@ b = b * 2
 
 _________________________
 
+[Projet n°3 : Chi Fu Mi](./Projet_chi_fu_mi.md)
+
+_________________________
+
 [Sommaire](./../../seconde/)

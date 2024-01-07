@@ -70,9 +70,9 @@ a) Donner les sommets adjacents de `Luke` dans le graphe n°1.
 
 b) Donner les sommets adjacents de `Anakin` dans le graphe n°2.
 
-c) Donner plusieurs chemins possibles reliant `Luke` à `Chewbacca` dans le graphe n°1.
+c) Donner trois chemins possibles reliant `Luke` à `Chewbacca` dans le graphe n°1.
 
-d) Donner plusieurs chemins possibles reliant `Anakin` à `Dark Maul`.
+d) Donner trois chemins possibles reliant `Anakin` à `Dark Maul`.
 
 e) Donner les longueurs des chemins trouvés aux deux questions précédentes.
 
@@ -158,15 +158,13 @@ e) Donner le rayon du graphe n°2.
 
 a) Représenter le graphe sur feuille en fonction de la matrice d'adjacence suivante :
 
-| | Rey | Kylo Ren | Poe | Finn | Snoke |
+| | Rey | Kylo-Ren | Poe | Finn | Snoke |
 | --- | --- | --- | --- | --- | --- |
 | Rey | X | X |  | X | | 
-| Kylo Ren | | X | | | X |
+| Kylo-Ren | | X | | | X |
 | Poe | | | X | X | |
 | Finn | X | | X | X | |
 | Snoke | X | | | | | X |
-
-b) Dessiner ce même graphe en utilisant l'outil en ligne [https://viz-js.com/](https://viz-js.com/)
 
 _____________
 

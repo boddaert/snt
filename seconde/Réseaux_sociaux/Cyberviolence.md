@@ -62,6 +62,11 @@ Le fait de harceler une personne par des propos ou comportements répétés ou d
 harcèlement en groupe est puni d'un an à trois ans d'emprisonnement et de 15 000 € à 45 000 € d'amende.
 [Article 222-33-2-2]
 ```
+
+## VI. Activité 2
+
+Par groupe de deux, écrire une idée dévelopée de projet afin de combattre le cyberharcèlement au lycée.
+
 __________
 
 [sommaire](./../README.md)
