@@ -56,12 +56,18 @@
 
 - Projet n°3 : [Chi Fu Mi](./Notions_transversales_de_programmation/Projet_chi_fu_mi.md)
 
-##### Chapitre 3 : [Internet]
+##### Chapitre 4 : Internet
 
-##### Chapitre 4 : [Informatique embarquée]
+- Leçon 1 : [Réseau Internet](./Internet/Réseau_Internet.md)
+
+- Leçon 2 : [Adresses IP](./Internet/Adresses_IP.md)
+
+- Leçon 3 : [Protocoles TCP/IP](./Internet/Protocoles_TCP-IP.md)
 
 ##### Chapitre 5 : [Données]
 
 ##### Chapitre 6 : [Localisation]
 
 ##### Chapitre 7 : [Photographie]
+
+##### Chapitre 8 : [Informatique embarquée]
