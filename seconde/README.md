@@ -46,11 +46,11 @@
 
 - Leçon 3 : [Notions de base](./Notions_transversales_de_programmation/Notions_de_base.md)
 
-- Leçon 4 : [Fonctions](./Notions_transversales_de_programmation/Fonctions.md)
-
-- Leçon 5 : [Modules](./Notions_transversales_de_programmation/Modules.md)
+- Leçon 4 : [Modules](./Notions_transversales_de_programmation/Modules.md)
 
 - Projet n°2 : [Ecrire son prénom](./Notions_transversales_de_programmation/Projet_prénom.md)
+
+- Leçon 5 : [Fonctions](./Notions_transversales_de_programmation/Fonctions.md)
 
 - Leçon 6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
 

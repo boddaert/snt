@@ -2,7 +2,7 @@
 
 ## I. Description
 
-En Python et à l'aide du module `turtle`, vous devrez écrire votre prénom.
+En Python et à l'aide du module `turtle`, vous devrez dessiner votre prénom.
 
 Le reste peut être personnalisé.
 
@@ -36,23 +36,11 @@ Voici quelques fonctions simples pour commencer à utiliser `turtle` :
 | `speed(s : int)` | La tortue se déplace d'une vitesse $s$. |
 | `ht()` | La tortue est invisible. |
 
-Documentation de `turtle` : [https://docs.python.org/fr/3/library/turtle.html](https://docs.python.org/fr/3/library/turtle.html)
-
-## III. Compte rendu
-
-Vous devrez rendre comme livrables :
-
-- Le fichier contenant le code Python.
-
-## IV. Evaluation
+## III. Evaluation
 
 Vous serez évalués sur :
 
 - La qualité du code fourni (lisibilité du code, explicité des noms de variable)
-
-______________
-
-[Leçon n°6 : Instructions conditionnelles](./Instructions_conditionnelles.md)
 
 ______________
 

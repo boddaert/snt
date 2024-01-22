@@ -78,8 +78,4 @@ Répéter les opérations des applications n°1 et n°2 en utilisant cette fois 
 
 ________
 
-[Leçon n°3 : Notions de base](./Notions_de_base.md)
-
-________
-
 [Sommaire](./../../seconde/)

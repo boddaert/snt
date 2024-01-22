@@ -57,8 +57,4 @@ En SNT, nous travaillerons avec le langage Python principalement. Il a été inv
 
 ________
 
-[Leçon n°2 : Thonny](./Thonny.md)
-
-________
-
 [Sommaire](./../../seconde/)

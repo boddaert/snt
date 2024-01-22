@@ -143,8 +143,4 @@ c) Instruction 3
 ```
 ___________
 
-[Leçon n°5 : Modules](./Modules.md)
-
-___________
-
 [Sommaire](./../../seconde/)
