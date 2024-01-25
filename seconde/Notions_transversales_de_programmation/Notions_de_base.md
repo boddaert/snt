@@ -118,7 +118,7 @@ Jusqu'à maintenant, nous avons essentiellement travaillé avec la console Pytho
 
 Ce mode est très utile pour tester nos instructions mais celui-ci n'est pas destiné à écrire des programmes.
 
-#### Exercice 6
+#### Exercice 5
 
 ```python
 a = 10

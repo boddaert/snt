@@ -1,41 +1,33 @@
 # Instructions conditionnelles
 
-## I. Définitions
-
 Une *instruction conditionnelle* est une instruction permettant d'exécuter certaines instructions uniquement si la condition est remplie.
-
-Une *condition* est un booléen, elle peut être le résultat d'une comparaison.
-
-Une condition vaut donc soit $True$, soit $False$.
-
-Une condition est remplie si elle vaut $True$.
 
 Si la condition n'est pas remplie, la suite du programme est exécutée normalement.
 
 
-### a) Syntaxe en Python
+## I. Écrire une instruction conditionnelle
 
 En Python, l'instruction conditionnelle s'écrit par le mot-clé ``if`` (*Si* en Français):
 
 ```python
-if a == 0 :
-    a = a + 1
-b = a
+if 3 > 6 :
+    a = 5
 ```
 
-Nous constatons que la séquence d'instruction, exécutée si la condition est vraie, est indentée.
+Nous pouvons traduire en Français le programme ci-dessus par : `Si trois est supérieur à six alors je met la valeur cinq dans la variable a`.
 
-En Français, cela se traduirait :
-
-- *Si* `a` est égal à $0$, alors nous ajoutons $1$ à `a`.
-
-- Nous affectons à la variable `b` la valeur de `a`.
-
-##### Exercice 1
+#### Exercice 1
 
 Donner, pour chaque programme suivant, sa traduction en Français :
 
-a) Programme 1
+a) Programme 1 :
+
+```python
+if a < b :
+    a = a + b
+```
+
+b) Programme 2 :
 
 ```python
 if a != b :
@@ -43,44 +35,30 @@ if a != b :
 a = a * 2
 ```
 
-b) Programme 2
+#### Exercice 2
 
-```python
-if a or b :
-    a = True
-    b = True
-```
+Écrire une fonction `quotient(a : int, b : int)->float` qui prend en paramètre deux entiers et renvoie le résultat de $a/b$. Attention, la division par $0$ n'est pas possible.
 
 ## II. Alternative
 
-L'instruction conditionnelle peut introduire une séquence d'instruction alternative, à n'exécuter que lorsque la condition est fausse.
-
-
-### a) Syntaxe en Python
+L'instruction conditionnelle peut introduire une alternative, à n'exécuter que lorsque la condition est fausse.
 
 En Python, l'instruction d'alternative s'écrit avec le mot-clé ``else`` (*Sinon* en Français) :
 
 ```python
-if a == 0 :
-    a = a + 1
+if 3 > 6 :
+    a = 5
 else :
-    a = a + 3
-b = a
+    a = 3
 ```
 
-En Français, cela se traduirait :
+Nous pouvons traduire en Français le programme ci-dessus par : `Si trois est supérieur à six alors je met la valeur cinq dans la variable a, sinon, je met la valeur trois dans la variable a`.
 
-- *Si* `a` est égal à 0, alors nous ajoutons $1$ à `a`.
-
-- *Sinon*, nous ajoutons $3$ à `a`.
-
-- Nous affectons à la variable `b` la valeur de `a`.
-
-##### Exercice 2
+#### Exercice 3
 
 Donner, pour chaque programme suivant, sa traduction en Français :
 
-a) Programme 1
+a) Programme 1 :
 
 ```python
 if a == b :
@@ -89,16 +67,18 @@ else :
     b = b // 2
 ```
 
-b) Programme 2
+b) Programme 2 :
 
 ```python
 if a < b :
     b = b - 1
 else :
     a = a - 1
-a = a * 2
-b = b * 2
 ```
+
+#### Exercice 4
+
+Donner, pour la phrase suivante, le programme Python correspondant : `Si a est supérieur à b alors je met la valeur dix dans la variable a, sinon, je met la valeur cinq dans la variable a`.
 
 _________________________
 
