@@ -1,4 +1,4 @@
-# Projet : Ecrire son prénom
+# Projet : Écrire son prénom
 
 ## I. Description
 

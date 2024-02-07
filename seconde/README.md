@@ -54,7 +54,11 @@
 
 - Leçon 6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
 
-- Projet n°3 : [Chi Fu Mi](./Notions_transversales_de_programmation/Projet_chi_fu_mi.md)
+- Leçon 7 : [Interraction avec l'utilisateur](./Notions_transversales_de_programmation/Interraction_avec_l_utilisateur.md)
+
+- Leçon 8 : [Boucles non bornées](./Notions_transversales_de_programmation/Boucles_non_bornées.md)
+
+- Projet n°3 : [Juste Prix](./Notions_transversales_de_programmation/Projet_juste_prix.md)
 
 ##### Chapitre 4 : Internet
 
