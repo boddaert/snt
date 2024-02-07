@@ -16,16 +16,6 @@ Un colis est acheminé par voie postale jusqu'à votre maison.
 
 a) Relier les éléments selon la correspondance de leur fonctionnalité :
 
-L'expéditeur -                              - L'utilisateur B
-
-Réseau postal -                             - L'utilisateur A
-
-Colis -                                 - Données
-
-Adresse de la maison -                            - Réseau Internet
-
-Le destinataire -                             - Adresse IP
-
 ```mermaid
 flowchart LR
     A[L'expediteur]
