@@ -14,7 +14,7 @@ La transmission de données dans un réseau peut être assimilée à la situatio
 
 Un colis est acheminé par voie postale jusqu'à votre maison.
 
-a) Relier les éléments selon leur ressemblance :
+a) Relier les éléments selon la correspondance de leur fonctionnalité :
 
 L'expéditeur -                              - L'utilisateur B
 
@@ -25,6 +25,25 @@ Colis -                                 - Données
 Adresse de la maison -                            - Réseau Internet
 
 Le destinataire -                             - Adresse IP
+
+```mermaid
+flowchart LR
+    A((L'expediteur))
+    B((L'utilisateur B))
+    C((Réseau postal))
+    D((L'utilisateur A))
+    E((Colis))
+    F((Données))
+    G((Adresse postale))
+    H((Réseau Internet))
+    I((Le destinataire))
+    J((Adresse IP))
+    A ~~~ B 
+    C ~~~ D
+    E ~~~ F
+    G ~~~ H
+    I ~~~ J
+```
 
 ## III. Adressage des machines
 
