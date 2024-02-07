@@ -28,21 +28,21 @@ Le destinataire -                             - Adresse IP
 
 ```mermaid
 flowchart LR
-    A((L'expediteur))
-    B((L'utilisateur B))
-    C((Réseau postal))
-    D((L'utilisateur A))
-    E((Colis))
-    F((Données))
-    G((Adresse postale))
-    H((Réseau Internet))
-    I((Le destinataire))
-    J((Adresse IP))
-    A ~~~ B 
-    C ~~~ D
-    E ~~~ F
-    G ~~~ H
-    I ~~~ J
+    A[L'expediteur]
+    B[L'utilisateur B]
+    C[Réseau postal]
+    D[L'utilisateur A]
+    E[Colis]
+    F[Données]
+    G[Adresse postale]
+    H[Réseau Internet]
+    I[Le destinataire]
+    J[Adresse IP]
+    A ~~~~~~ B 
+    C ~~~~~~ D
+    E ~~~~~~ F
+    G ~~~~~~ H
+    I ~~~~~~ J
 ```
 
 ## III. Adressage des machines
