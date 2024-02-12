@@ -16,17 +16,17 @@ Internet fonctionne à l'aide de protocoles.
 
 b) En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
 
-1958 *                        * Plus de 1,5 milliard de sites internet recensés dans le monde.
+1958 -    $     $    - Plus de 1,5 milliard de sites internet recensés dans le monde.
 
-1969 *                        * Apparition du Wi-Fi.
+1969 -    $     $    - Apparition du Wi-Fi.
 
-1971 *                        * Naissance de Cyclades.
+1971 -    $     $    - Naissance de Cyclades.
 
-1983 *                        * Premières communications entre deux ordinateurs via un modem.
+1983 -    $     $    - Premières communications entre deux ordinateurs via un modem.
 
-1997 *                        * Naissance d'Arpanet.
+1997 -    $     $    - Naissance d'Arpanet.
 
-2018 *                        * Naissance d'Internet.
+2018 -    $     $    - Naissance d'Internet.
 
 ## III. Equipements informatiques
 
