@@ -16,17 +16,17 @@ Internet fonctionne à l'aide de protocoles.
 
 b) En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
 
-1958 -       - Plus de 1,5 milliard de sites internet recensés dans le monde.
+1958 -              - Plus de 1,5 milliard de sites internet recensés dans le monde.
 
-1969 -       - Apparition du Wi-Fi.
+1969 -              - Apparition du Wi-Fi.
 
-1971 -       - Naissance de Cyclades.
+1971 -              - Naissance de Cyclades.
 
-1983 -       - Premières communications entre deux ordinateurs via un modem.
+1983 -              - Premières communications entre deux ordinateurs via un modem.
 
-1997 -       - Naissance d'Arpanet.
+1997 -              - Naissance d'Arpanet.
 
-2018 -       - Naissance d'Internet.
+2018 -              - Naissance d'Internet.
 
 ## III. Equipements informatiques
 
@@ -40,12 +40,12 @@ c) À l'aide du document projeté au tableau, compléter le tableau suivant :
 
 | Équipements terminaux | Équipements intermédiaires | Types de connexions |
 | :---: | :---: | :---: |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| ............ | ............ | ............ |
+| ............ | ............ | ............ |
+| ............ | ............ | ............ |
+| ............ | ............ | ............ |
+| ............ | ............ | ............ |
+| ............ | ............ | ............ |
 
 d) Sur votre téléphone portable, aller sur le site https://www.submarinecablemap.com/.
 
@@ -55,9 +55,15 @@ e) Cliquer sur le câble `SeaMeWe-3` (il est situé en Belgique et est colorié 
 
 - En quelle année le câble `SeaMeWe-3` a t-il été posé au fond de la mer ?
 
+...........................................................
+
 - Quelle est la longueur de ce câble ?
 
+...........................................................
+
 - Par quels pays/continents le câble passe t-il ?
+
+...........................................................
 
 ## IV. Classification des réseaux
 
@@ -66,6 +72,9 @@ e) Cliquer sur le câble `SeaMeWe-3` (il est situé en Belgique et est colorié 
 - Les *MAN* (pour *Metropolitan Area Network*) sont des réseaux de réseaux locaux interconnectés et ont généralement la taille d'une ville.
 
 f) Donner au moins trois exemples de LAN.
+
+...........................................................
+
 _______________
 
 [Sommaire](./../README.md)
