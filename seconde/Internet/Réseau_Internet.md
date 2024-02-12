@@ -36,6 +36,10 @@ Les équipements terminaux sont les équipements du réseau en fin de chaîne ; 
 
 - Les *commutateurs* permettent de relier plusieurs ordinateurs afin de faire un réseau local.
 
+
+
+
+
 c) À l'aide du document projeté au tableau, compléter le tableau suivant :
 
 | Équipements terminaux | Équipements intermédiaires | Types de connexions |
