@@ -1,54 +1,58 @@
 # Réseau Internet
 
-## I. Activité 1
+## I. Définitions 
 
-Sur une feuille blanche, dessiner à quoi pourrait ressembler Internet.
+a) Compléter les définitions ci-dessous à l'aide des mots suivants : communiquer, graphe, règles, Internet, données.
 
-## II. Définitions 
-
-*Internet* est un réseau mondial de machines informatiques interconnectées.
-
-Concrètement, Internet est un ensemble de sous-réseaux locaux interconnectés entre eux.
-
-Voici-dessous un exemple de mini-internet :
-
-![img](./img/mini_internet.PNG)
+1) ....... est un réseau informatique mondial de machines connectées entre elles.
 
 Internet fonctionne à l'aide de protocoles.
 
-Un *protocole* est un ensemble de règles permettant à deux machines connectées sur Internet de communiquer.
+2) Un *protocole* est un ensemble de ...... permettant à deux machines connectées sur Internet de .......
 
-Un *réseau informatique* peut être modélisé sous forme de graphe : c'est un ensemble de machines informatiques (ordinateurs, serveurs, routeurs, ...) reliés ou non par différents types de connexion (câbles de cuivre, fibres optiques, liaisons satellites, ondes radios, ...) en vu d'échanger des données.
+3) Un *réseau informatique* peut être modélisé sous forme de ....... : les noeuds sont des machines informatiques (ordinateurs, serveurs, routeurs) reliés par différents types de connexion (câbles de cuivre, fibres optiques, liaisons satellites, ondes radios, ...) en vu d'échanger des .......
+
+## II. Repères historiques
+
+b) En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
+
+- 1958 :                   - Plus de 1,5 milliard de sites internet recensés dans le monde.
+- 1969 :                   - Apparition du Wi-Fi.
+- 1971 :                   - Naissance de Cyclades.
+- 1983 :                   - Premières communications entre deux ordinateurs via un modem.
+- 1997 :                   - Naissance d'Arpanet.
+- 2018 :                   - Naissance d'Internet.
 
 ## III. Equipements informatiques
 
-### a) Equipements terminaux
+Les équipements terminaux sont les équipements du réseau en fin de chaîne ; les équipements intermédiaires sont les équipements en milieu de chaîne.
 
-- Ordinateurs portables et de bureau.
+- Les *routeurs* indiquent aux données quel chemin emprunter pour arriver à destination. 
 
-- Téléphones, téléphones mobiles et smartphones.
+- Les *commutateurs* permettent de relier plusieurs ordinateurs afin de faire un réseau local.
 
-- Serveurs web, serveurs DNS et serveurs locaux.
+c) À l'aide du document projeté au tableau, compléter le tableau suivant :
 
-- Périphériques : imprimentes, scanners.
+| Équipements terminaux | Équipements intermédiaires | Types de connexions |
+| :---: | :---: | :---: |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
-- Objets connectés.
+d) Sur votre téléphone portable, aller sur le site https://www.submarinecablemap.com/.
 
-### b) Equipements intermédiaires
+Ce site web répertorie l'ensemble des câbles de fibre optique permettant d'échanger sur Internet à travers le monde entier.
 
-- Les *routeurs* indiquent aux informations quel chemin emprunter pour arriver à destination. Ils agissent comme des panneaux d'indication aux usagers de la route.
+e) Cliquer sur le câble `SeaMeWe-3` (il est situé en Belgique et est colorié en vert) et répondre aux questions suivantes :
 
-- Les *commutateurs* (ou *switch* en anglais) permettent de relier plusieurs ordinateurs afin de faire un réseau local.
+- En quelle année le câble `SeaMeWe-3` a t-il été posé au fond de la mer ?
 
-### c) Types de connexion
+- Quelle est la longueur de ce câble ?
 
-- La connexion par cable en cuivre (ex : cable éthernet).
-
-- La connexion par ondes (wifi, bluetooth, satellites, antennes 4G).
-
-- La connexion par fibre optique.
-
-Voici les câbles actuels de fibre optique marins permettant de connecter les continents et les pays entre eux : [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/).
+- Par quels pays/continents le câble passe t-il ?
 
 ## IV. Classification des réseaux
 
@@ -56,16 +60,7 @@ Voici les câbles actuels de fibre optique marins permettant de connecter les co
 
 - Les *MAN* (pour *Metropolitan Area Network*) sont des réseaux de réseaux locaux interconnectés et ont généralement la taille d'une ville.
 
-## V. Activité 2
-
-![image](./img/equipements_informatiques.png)
-
-a) Compléter la légende des équipements informatiques sur le schéma précédent.
-
-b) Compléter la légende des connexions informatiques sur le schéma précédent.
-
-c) Entourer les réseaux locaux sur le schéma précédent.
-
+f) Donner au moins trois exemples de LAN.
 _______________
 
 [Sommaire](./../README.md)
