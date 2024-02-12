@@ -30,26 +30,26 @@ b) En cherchant les informations sur Internet (sur votre téléphone portable), 
 
 ## III. Equipements informatiques
 
-Les équipements terminaux sont les équipements du réseau en fin de chaîne ; les équipements intermédiaires sont les équipements en milieu de chaîne.
+Les équipements terminaux sont les équipements du réseau en fin de chaîne.
+
+Les équipements intermédiaires sont les équipements en milieu de chaîne.
 
 - Les *routeurs* indiquent aux données quel chemin emprunter pour arriver à destination. 
 
 - Les *commutateurs* permettent de relier plusieurs ordinateurs afin de faire un réseau local.
 
-
-
-
+Il existe plusieurs types de connexion permettant de relier deux machines.
 
 c) À l'aide du document projeté au tableau, compléter le tableau suivant :
 
 | Équipements terminaux | Équipements intermédiaires | Types de connexions |
 | :---: | :---: | :---: |
-| ............ | ............ | ............ |
-| ............ | ............ | ............ |
-| ............ | ............ | ............ |
-| ............ | ............ | ............ |
-| ............ | ............ | ............ |
-| ............ | ............ | ............ |
+| ........................ | ........................ | ........................ |
+| ........................ | ........................ | ........................ |
+| ........................ | ........................ | ........................ |
+| ........................ | ........................ | ........................ |
+| ........................ | ........................ | ........................ |
+| ........................ | ........................ | ........................ |
 
 d) Sur votre téléphone portable, aller sur le site https://www.submarinecablemap.com/.
 
