@@ -4,24 +4,29 @@
 
 a) Compléter les définitions ci-dessous à l'aide des mots suivants : communiquer, graphe, règles, Internet, données.
 
-1) ....... est un réseau informatique mondial de machines connectées entre elles.
+1) ............ est un réseau informatique mondial de machines connectées entre elles.
 
 Internet fonctionne à l'aide de protocoles.
 
-2) Un *protocole* est un ensemble de ...... permettant à deux machines connectées sur Internet de .......
+2) Un *protocole* est un ensemble de ............ permettant à deux machines connectées sur Internet de ............
 
-3) Un *réseau informatique* peut être modélisé sous forme de ....... : les noeuds sont des machines informatiques (ordinateurs, serveurs, routeurs) reliés par différents types de connexion (câbles de cuivre, fibres optiques, liaisons satellites, ondes radios, ...) en vu d'échanger des .......
+3) Un *réseau informatique* peut être modélisé sous forme de ............ : les noeuds sont des machines informatiques (ordinateurs, serveurs, routeurs) reliés par différents types de connexion (câbles de cuivre, fibres optiques, liaisons satellites, ondes radios) en vu d'échanger des ............
 
 ## II. Repères historiques
 
 b) En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
 
-- 1958 :                   - Plus de 1,5 milliard de sites internet recensés dans le monde.
-- 1969 :                   - Apparition du Wi-Fi.
-- 1971 :                   - Naissance de Cyclades.
-- 1983 :                   - Premières communications entre deux ordinateurs via un modem.
-- 1997 :                   - Naissance d'Arpanet.
-- 2018 :                   - Naissance d'Internet.
+1958 *               * Plus de 1,5 milliard de sites internet recensés dans le monde.
+
+1969 *               * Apparition du Wi-Fi.
+
+1971 *               * Naissance de Cyclades.
+
+1983 *               * Premières communications entre deux ordinateurs via un modem.
+
+1997 *               * Naissance d'Arpanet.
+
+2018 *               * Naissance d'Internet.
 
 ## III. Equipements informatiques
 
