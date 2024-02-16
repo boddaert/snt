@@ -2,7 +2,9 @@
 
 ## I. Définitions 
 
-a) Compléter les définitions ci-dessous à l'aide des mots suivants : communiquer, graphe, règles, Internet, données.
+a) Compléter les définitions ci-dessous à l'aide des mots suivants :
+
+`communiquer`, `graphe`, `règles`, `Internet`, `données`.
 
 1) ............ est un réseau informatique mondial de machines connectées entre elles.
 
@@ -16,17 +18,13 @@ Internet fonctionne à l'aide de protocoles.
 
 b) En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
 
-1958 -              - Plus de 1,5 milliard de sites internet recensés dans le monde.
-
-1969 -              - Apparition du Wi-Fi.
-
-1971 -              - Naissance de Cyclades.
-
-1983 -              - Premières communications entre deux ordinateurs via un modem.
-
-1997 -              - Naissance d'Arpanet.
-
-2018 -              - Naissance d'Internet.
+| ----------------Date----------------- | ---------------Évènement----------------- |
+| :------ | ------: |
+| **1983 -** | **- Plus de 1,5 milliard de sites internet** |
+| **1969 -** | **- Apparition du Wi-Fi**|
+| **1971 -** | **- Naissance de Cyclades**|
+| **1997 -** | **- Naissance d'Arpanet** |
+| **2018 -** | **- Naissance d'Internet** |
 
 ## III. Equipements informatiques
 
@@ -40,16 +38,24 @@ Les équipements intermédiaires sont les équipements en milieu de chaîne.
 
 Il existe plusieurs types de connexion permettant de relier deux machines.
 
+- Connexion par câbles.
+
+    + Fibre optique.
+
+    + Câbles Ethernet.
+
+- Connexion par ondes.
+
 c) À l'aide du document projeté au tableau, compléter le tableau suivant :
 
 | Équipements terminaux | Équipements intermédiaires | Types de connexions |
 | :---: | :---: | :---: |
-| ........................ | ........................ | ........................ |
-| ........................ | ........................ | ........................ |
-| ........................ | ........................ | ........................ |
-| ........................ | ........................ | ........................ |
-| ........................ | ........................ | ........................ |
-| ........................ | ........................ | ........................ |
+| ................................ | ................................ | ................................ |
+| ................................ | ................................ | ................................ |
+| ................................ | ................................ | ................................ |
+| ................................ | ................................ | ................................ |
+| ................................ | ................................ | ................................ |
+| ................................ | ................................ | ................................ |
 
 d) Sur votre téléphone portable, aller sur le site https://www.submarinecablemap.com/.
 
@@ -59,15 +65,15 @@ e) Cliquer sur le câble `SeaMeWe-3` (il est situé en Belgique et est colorié 
 
 - En quelle année le câble `SeaMeWe-3` a t-il été posé au fond de la mer ?
 
-...........................................................
+......................................................................................................................
 
 - Quelle est la longueur de ce câble ?
 
-...........................................................
+......................................................................................................................
 
 - Par quels pays/continents le câble passe t-il ?
 
-...........................................................
+......................................................................................................................
 
 ## IV. Classification des réseaux
 
@@ -77,8 +83,4 @@ e) Cliquer sur le câble `SeaMeWe-3` (il est situé en Belgique et est colorié 
 
 f) Donner au moins trois exemples de LAN.
 
-...........................................................
-
-_______________
-
-[Sommaire](./../README.md)
+......................................................................................................................
