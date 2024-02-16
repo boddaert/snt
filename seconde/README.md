@@ -64,9 +64,7 @@
 
 - Leçon 1 : [Réseau Internet](./Internet/Réseau_Internet.md)
 
-- Leçon 2 : [Adresses IP](./Internet/Adresses_IP.md)
-
-- Leçon 3 : [Protocoles TCP/IP](./Internet/Protocoles_TCP-IP.md)
+- Leçon 2 : [Fonctionnement Internet](./Internet/Fonctionnement_Internet.md)
 
 ##### Chapitre 5 : [Données]
 
