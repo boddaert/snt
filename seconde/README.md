@@ -58,7 +58,7 @@
 
 - Leçon 8 : [Boucles non bornées](./Notions_transversales_de_programmation/Boucles_non_bornées.md)
 
-- Projet n°3 : [Juste Prix](./Notions_transversales_de_programmation/Projet_juste_prix.md)
+- Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Projet_spirales.md)
 
 ##### Chapitre 4 : Internet
 
@@ -66,10 +66,10 @@
 
 - Leçon 2 : [Fonctionnement Internet](./Internet/Fonctionnement_Internet.md)
 
-##### Chapitre 5 : [Données]
+##### Chapitre 5 : [Données structurées et leur traitement]
 
-##### Chapitre 6 : [Localisation]
+##### Chapitre 6 : [Localisation, cartographie et mobilité]
 
-##### Chapitre 7 : [Photographie]
+##### Chapitre 7 : [Photographie numérique]
 
 ##### Chapitre 8 : [Informatique embarquée]
