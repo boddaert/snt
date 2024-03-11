@@ -2,7 +2,7 @@
 
 ## I. Objectif
 
-L'objectif est d'écrire un programme Python qui demande à l'utilisateur ce qu'il veut dessiner comme spirale.
+L'objectif est d'écrire un programme Python utilisant le module Turtle qui demande à l'utilisateur ce qu'il veut dessiner comme spirale.
 
 Le programme Python que vous devrez écrire doit proposer trois types de spirales :
 
@@ -20,11 +20,11 @@ Le programme Python que vous devrez écrire doit proposer trois types de spirale
 
 ## II. Travail à faire
 
-a) Écrire une fonction `carre(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide de Turtle, une spirale en forme de carré à la position $(x,y)$ avec le premier côté mesurant $n$.
+a) Écrire une fonction `carre(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide d'une boucle, une spirale en forme de carré à la position $(x,y)$ avec le premier côté mesurant $n$.
 
-b) Écrire une fonction `triangle(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide de Turtle, une spirale en forme de triangle à la position $(x,y)$ avec le premier côté mesurant $n$.
+b) Écrire une fonction `triangle(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide d'une boucle, une spirale en forme de triangle à la position $(x,y)$ avec le premier côté mesurant $n$.
 
-c) Écrire une fonction `hexagone(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide de Turtle, une spirale en forme d'un hexagone à la position $(x,y)$ avec le premier côté mesurant $n$.
+c) Écrire une fonction `hexagone(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide d'une boucle, une spirale en forme d'un hexagone à la position $(x,y)$ avec le premier côté mesurant $n$.
 
 d) Écrire le code Python demandant à l'utilisateur quel forme il veut dessiner et à quelle position. 
 
