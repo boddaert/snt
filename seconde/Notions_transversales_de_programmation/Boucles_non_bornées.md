@@ -38,7 +38,11 @@ while a != 0 :
 
 #### Exercice 2
 
-Écrire une fonction `produit(a : int, b : int)->int` qui prend en paramètre deux entiers et renvoie le résultat de $a \mul b$. Cette fonction ne doit pas utiliser l'opérateur `*`.
+Écrire une fonction `multiplie_par_cinq(a : int)->int` qui prend en paramètre un entier et renvoie le résultat de $a \times 5$. Cette fonction ne doit pas utiliser l'opérateur `*` : la stratégie est d'utiliser une boucle.
+
+#### Exercice 3
+
+Écrire une fonction `produit(a : int, b : int)->int` qui prend en paramètre deux entiers et renvoie le résultat de $a \times b$. Cette fonction ne doit pas utiliser l'opérateur `*` : la stratégie est d'utiliser une boucle.
 
 ______________
 

@@ -17,6 +17,10 @@ Puis, après exécution, nous pouvons utiliser les fonctions mises à dispositio
 2.23606797749979
 ```
 
+#### Exercice 1
+
+Importer le module `math` et utiliser la fonction `sqrt()` pour calculer la racine carrée de $10$.
+
 ________
 
 [Sommaire](./../../seconde/)

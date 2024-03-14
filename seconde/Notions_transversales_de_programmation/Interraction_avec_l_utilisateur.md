@@ -21,7 +21,7 @@ La fonction `input()` dans un programme permet de demander à l'utilisateur d'en
 Par exemple :
 
 ```python
-ma_variable = input('Veuillez entrer une valeur')
+ma_variable = input('Veuillez entrer une valeur : ')
 ```
 
 #### Exercice 2
