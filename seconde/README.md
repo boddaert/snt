@@ -66,10 +66,18 @@
 
 - Leçon 2 : [Fonctionnement Internet](./Internet/Fonctionnement_Internet.md)
 
-##### Chapitre 5 : [Données structurées et leur traitement]
+##### Chapitre 5 : Informatique embarquée et objets connectés
 
-##### Chapitre 6 : [Localisation, cartographie et mobilité]
+- Leçon 1 : [Informatique embarquée et objets connectés](./Informatique_embarquée_et_objets_connectés/Informatique_embarquée_et_objets_connectés.md)
 
-##### Chapitre 7 : [Photographie numérique]
+- TP : [Prise en main de la carte Micro:bit](./Informatique_embarquée_et_objets_connectés/TP_prise_en_main_de_la_carte_microbit.md)
 
-##### Chapitre 8 : [Informatique embarquée]
+- TP : [Réalisation d'un Tamagotchi](./Informatique_embarquée_et_objets_connectés/TP_réalisation_d_un_tamagotchi.md)
+
+##### Chapitre  : Données structurées et leur traitement
+
+##### Chapitre  : [Localisation, cartographie et mobilité]
+
+##### Chapitre  : [Photographie numérique]
+
+
