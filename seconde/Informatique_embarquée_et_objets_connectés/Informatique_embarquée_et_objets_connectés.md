@@ -2,7 +2,7 @@
 
 # I. Introduction
 
-Répondre aux questions suivantes à l'aide de la vidéo d'introduction :
+Répondre aux questions suivantes à l'aide de la [vidéo d'introduction](https://ladigitale.dev/digiview/#/v/660d2189b3dab) :
 
 1) Quels sont les trois éléments que compose un système embarqué ?
 
