@@ -1,4 +1,4 @@
-# TP : Prise en main de la carte Micro:bit
+# TP n°1 : Prise en main de la carte Micro:bit
 
 La carte Micro:bit est un mini ordinateur portable et programmable comprenant plusieurs capteurs comme un capteur lumière, de bruit, de température, de tremblement, d'humidité, etc ...
 

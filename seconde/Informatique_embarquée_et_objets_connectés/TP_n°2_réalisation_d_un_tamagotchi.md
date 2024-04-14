@@ -1,4 +1,4 @@
-# TP : Réalisation d'un Tamagotchi
+# TP n°2 : Réalisation d'un Tamagotchi
 
 ![image](./img/tamagotchi.png)
 
