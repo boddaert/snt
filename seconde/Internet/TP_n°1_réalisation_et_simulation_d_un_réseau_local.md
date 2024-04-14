@@ -14,7 +14,7 @@ Pour relier deux éléments , nous cliquons sur l'icône du câble, puis sur cha
 
 ## Exercice 1
 
-![image](./../img/exo1.PNG)
+![image](./img/exo1.PNG)
 
 a) En mode construction, reproduire le réseau de la figure ci-dessus dans un fichier nommé `reseau_ex1.fls`.
 
