@@ -24,7 +24,7 @@ La fonction `sleep(n)` bloque l'exécution du code pendant $n$ microsecondes.
 
 ## Exercice 3
 
-La fonction `display.get_pixel(x, y)` allume la led aux coordonnées $x$ et $y$ avec la première led $x=0$ et $y=0$ située en haut à gauche.
+La fonction `display.set_pixel(x, y, n)` allume la led aux coordonnées $x$ et $y$ d'intensité lumineuse $n$ (avec la première led $x=0$ et $y=0$ située en haut à gauche).
 
 a) Écrire le programme Python allumant toutes les leds de la première ligne.
 
@@ -38,7 +38,9 @@ La fonction `button_a.is_pressed()` renvoie `True` si le bouton **A** est préss
 
 ## Exercice 5
 
-La fonction `randint(x, y)` renvoie un nombre aléatoire entre $x$ et $y$. Pour utiliser le module d'aléatoire, il faut d'abord l'importer : `from random import *`.
+La fonction `randint(x, y)` renvoie un nombre aléatoire entre $x$ et $y$.
+
+Pour utiliser le module d'aléatoire, il faut d'abord l'importer : `from random import *`.
 
 Écrire un programme Python simulant un dé à six faces, il affiche un nombre aléatoire entre $1$ et $6$ après secoué la carte.
 

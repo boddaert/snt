@@ -1,10 +1,10 @@
 ## Seconde SNT
 
-##### Chapitre -1 : [Prise de contact](./Prise_de_contact/Prise_de_contact.md)
+#### Chapitre -1 : [Prise de contact](./Prise_de_contact/Prise_de_contact.md)
 
-##### Chapitre 0 : [Prise en main](./Prise_en_main/Prise_en_main.md)
+#### Chapitre 0 : [Prise en main](./Prise_en_main/Prise_en_main.md)
 
-##### Chapitre 1 : Web
+#### Chapitre 1 : Web
 
 - Leçon 1 : [Définitions](./Web/Definitions.md)
 
@@ -26,7 +26,7 @@
 
 - Projet n°1 : [Coder son site web](./Web/Projet_coder_son_site_web.md)
 
-##### Chapitre 2 : Réseaux sociaux
+#### Chapitre 2 : Réseaux sociaux
 
 - Leçon 1 : [Réseaux sociaux existants](./Réseaux_sociaux/Reseaux_sociaux_existants.md)
 
@@ -38,7 +38,7 @@
 
 - Leçon 5 : [Cyberviolence](./Réseaux_sociaux/Cyberviolence.md)
 
-##### Chapitre 3 : Notions transversales de programmation
+#### Chapitre 3 : Notions transversales de programmation
 
 - Leçon 1 : [Introduction](./Notions_transversales_de_programmation/Introduction.md)
 
@@ -60,19 +60,23 @@
 
 - Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Projet_spirales.md)
 
-##### Chapitre 4 : Internet
+#### Chapitre 4 : Internet
 
 - Leçon 1 : [Réseau Internet](./Internet/Réseau_Internet.md)
 
 - Leçon 2 : [Fonctionnement Internet](./Internet/Fonctionnement_Internet.md)
 
-##### Chapitre 5 : Informatique embarquée et objets connectés
+- TP n°1 : [Réalisation et simulation d'un réseau local](./Internet/TP_n°1_réalisation_et_simulation_d_un_réseau_local.md)
+
+- TP n°2 : [Réalisation et simulation d'un réseau connecté à un serveur web](./Internet/TP_n°2_réalisation_et_simulation_d_un_réseau_connecté_à_un_serveur_web.md)
+
+#### Chapitre 5 : Informatique embarquée et objets connectés
 
 - Leçon 1 : [Informatique embarquée et objets connectés](./Informatique_embarquée_et_objets_connectés/Informatique_embarquée_et_objets_connectés.md)
 
-- TP : [Prise en main de la carte Micro:bit](./Informatique_embarquée_et_objets_connectés/TP_prise_en_main_de_la_carte_microbit.md)
+- TP n°1 : [Prise en main de la carte Micro:bit](./Informatique_embarquée_et_objets_connectés/TP_n°1_prise_en_main_de_la_carte_microbit.md)
 
-- TP : [Réalisation d'un Tamagotchi](./Informatique_embarquée_et_objets_connectés/TP_réalisation_d_un_tamagotchi.md)
+- TP n°2 : [Réalisation d'un Tamagotchi](./Informatique_embarquée_et_objets_connectés/TP_n°2_réalisation_d_un_tamagotchi.md)
 
 ##### Chapitre  : Données structurées et leur traitement
 
