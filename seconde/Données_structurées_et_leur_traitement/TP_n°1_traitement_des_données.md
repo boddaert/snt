@@ -1,7 +1,5 @@
 # TP n°1 : Traitement des données
 
-La page suivante propose le téléchargement des données contenant la liste des effectifs d’élèves en lycée d'enseignement général et technologique  : 
-
 ## Exercice 1
 
 a) Créer un fichier texte `nom_prenom_reponses_traitement_des_donnees.txt`. C'est dans ce fichier que vous écrirez vos réponses aux questions suivantes.

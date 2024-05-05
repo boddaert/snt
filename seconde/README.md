@@ -80,7 +80,7 @@
 
 ##### Chapitre 6 : Données structurées et leur traitement
 
-- Leçon 1 : [Structuration des données](./Données_structurées_et_leur_traitement/Structuration_des_données.md)
+- Leçon 1 : [Structuration des données](./Données_structurées_et_leur_traitement/doc/Structuration_des_donées.pdf)
 
 - TP n°1 : [Traitement des données](./Données_structurées_et_leur_traitement/TP_n°1_traitement_des_données.md)
 
