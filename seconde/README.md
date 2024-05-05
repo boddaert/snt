@@ -78,7 +78,11 @@
 
 - TP n°2 : [Réalisation d'un Tamagotchi](./Informatique_embarquée_et_objets_connectés/TP_n°2_réalisation_d_un_tamagotchi.md)
 
-##### Chapitre  : Données structurées et leur traitement
+##### Chapitre 6 : Données structurées et leur traitement
+
+- Leçon 1 : [Structuration des données](./Données_structurées_et_leur_traitement/Structuration_des_données.md)
+
+- TP n°1 : [Traitement des données](./Données_structurées_et_leur_traitement/TP_n°1_traitement_des_données.md)
 
 ##### Chapitre  : [Localisation, cartographie et mobilité]
 
