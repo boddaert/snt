@@ -131,7 +131,7 @@ Créer les répertoires et les fichiers nécessaires pour que votre espace de tr
             - :file_folder: `internet`
             - :file_folder: `reseaux_sociaux`
             - :file_folder: `prise_en_main`
-                - :page_facing_up: `xtensions__de_fichiers.txt`
+                - :page_facing_up: `extensions__de_fichiers.txt`
                 - :page_facing_up: `arborescence.txt`
                 - :page_facing_up: `dictee.txt`
 

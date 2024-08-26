@@ -2,31 +2,25 @@
 
 #### Chapitre 0 : Introduction
 
-- Leçon 1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
+- Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
 
 - TP n°1 : [Prise en main](./Introduction/Travaux_pratiques/TP_1_prise_en_main.md)
 
 #### Chapitre 1 : Web
 
-- Leçon 1 : [Définitions](./Web/Definitions.md)
+- Leçon n°1 : [Introduction](./Web/Cours/Leçon_1_introduction.md)
 
-- Leçon 2 : [Repères historiques](./Web/Reperes_historiques.md)
+- TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/TP_1_modèle_client_serveur.md)
 
-- Leçon 3 : [Hypertexte](./Web/Hypertexte.md)
+- Leçon n°2 : [Page Rank](./Web/Cours/Leçon_2_page_rank.md)
 
-- Leçon 4 : [Moteurs de recherche](./Web/Moteurs_de_recherche.md)
+- TP n°2 : [HTML](./Web/Travaux_pratiques/TP_2_HTML.md)
 
-- Leçon 5 : [Navigateurs](./Web/Navigateurs.md)
+- Leçon n°3 : [Sécurisation du navigateur](./Web/Cours/Leçon_3_sécurisation_du_navigateur.md)
 
-- Leçon 6 : [URL](./Web/URL.md)
+- TP n°3 : [CSS](./Web/Travaux_pratiques/TP_3_CSS.md)
 
-- Leçon 7 : [Modèle Client Serveur](./Web/Modele_client_serveur.md)
-
-- Leçon 8 : [Langage HTML](./Web/HTML.md)
-
-- Leçon 9 : [Langage CSS](./Web/CSS.md)
-
-- Projet n°1 : [Coder son site web](./Web/Projet_coder_son_site_web.md)
+- Projet n°1 : [Coder son site web](./Web/Travaux_pratiques/Projet_coder_son_site_web.md)
 
 #### Chapitre 2 : Réseaux sociaux
 

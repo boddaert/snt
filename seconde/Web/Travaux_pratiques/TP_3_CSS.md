@@ -66,4 +66,4 @@ b) Tester les règles CSS vues dans le mémo et vérifier le résultat dans le n
 
 ________________
 
-[Sommaire](./../README.md)
+[Sommaire](./../../README.md)

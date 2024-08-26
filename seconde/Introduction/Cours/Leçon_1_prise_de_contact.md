@@ -26,7 +26,7 @@ Il vous est demander d'apporter un porte-vue ou un trieur afin de classer les po
 
 Il est conseillé d'acheter une clé USB dans laquelle vous mettrez le travail que vous aurez effectué en salle informatique.
 
-### IV. Activité 1
+### IV. Projet d'orientation
 
 Sur une demi-feuille de papier, inscrivez :
 
@@ -46,11 +46,11 @@ Sur une demi-feuille de papier, inscrivez :
 
     + Le métier que vous souhaitez exercer.
 
-### V. Activité 2
+### V. Brainstorming
 
-Brainstorming : Trouver et noter au bas de la page des mots/phrases en lien avec le terme "Informatique" ou "Numérique".
+Trouver et noter au bas de la page des mots/phrases en lien avec le terme "Informatique" ou "Numérique".
 
-### VI. Activité 3
+### VI. Quiz
 
 À l'aide de la vidéo [C'est quoi le code informatique ?](https://www.youtube.com/watch?v=2UqIJlVQE7o), répondre aux questions suivantes :
 

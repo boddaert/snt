@@ -48,7 +48,7 @@ Le code réponse indique l'état de la réponse :
 
 La réponse contient bien sûr le code HTML CSS permettant d'afficher la ressource sur le navigateur.
 
-## V. Activité 12
+## V. Activité
 
 a) Sur Mozilla Firefox, taper sur la touche `f12`. Il s'agit du panneau d'outils de développement.
 
@@ -70,4 +70,4 @@ d) En parcourant la requête HTTP et la réponse, trouver les informations suiva
 
 ________________
 
-[Sommaire](./../README.md)
+[Sommaire](./../../README.md)

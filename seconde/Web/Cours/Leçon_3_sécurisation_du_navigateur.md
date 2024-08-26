@@ -1,14 +1,6 @@
-# Navigateurs
+# Sécurisation du navigateur
 
-## I. Définition
-
-Un *navigateur web* est un logiciel permettant de visiter à travers le web et d'afficher les pages.
-
-## II. Activité 6
-
-Citer les noms de navigateurs existants.
-
-## III. Sécurité
+## I. Sécurité
 
 Le navigateur doit être paramétré afin de sécuriser sa navigation.
 
@@ -20,11 +12,11 @@ Un *cookie* est un programme permettant de récolter et stocker des données per
 
 Pour éviter de laisser des traces et ainsi, protéger sa vie privée. Nous pouvons régler les paramètres de son navigateur (cookies, historique, sécurité, confidentialité).
 
-## IV. Activité 7
+## II. Votre niveau de sécurité
 
 Afin d'évaluer votre niveau de sécurité sur le web, faites le test suivant en comptant le nombre de réponses `a`, `b` et `c` : [Sécurité sur le web](https://digistorm.app/c/7303075)
 
-##### Interpréter ses Résultats :
+##### Pour interpréter ses résultats :
 
 - Si vous avez un maximum de réponses `a` : Vous avez de très bons réflexes en sécurité. Vous connaissez les risques du web et vous êtes un utilisateur averti.
 
@@ -32,7 +24,9 @@ Afin d'évaluer votre niveau de sécurité sur le web, faites le test suivant en
 
 - Si vous avez un maximum de réponses `c` : Vous avez de très mauvais réflexes en sécurité. Vous êtes très exposés aux risques du web et vous devriez changer vos habitudes.
 
-## V. Activité 8
+## III. Bonnes pratiques
+
+Sur votre téléphone portable :
 
 a) Aller dans les paramètres de votre navigateur.
 
@@ -42,7 +36,7 @@ c) Effacer les cookies.
 
 d) Paramétrer la sécurité du navigateur afin de limiter l'exécution de scripts ou programmes non souhaités.
 
-## VI. Droits d'auteur
+## IV. Droits d'auteur
 
 ```
 Extrait du Code de la propriété intellectuelle.
@@ -54,18 +48,6 @@ Toute reproduction, représentation ou diffusion, par quelque moyen que ce soit,
 ```
 
 Le contenu du web est donc soumis aux règles de protection de droits d'auteur.
-
-## VII. Activité 9
-
-Quentin doit faire un exposé. Il fait un grand nombre de copier-coller et a insérer des images et des textes provenant de différent sites web.
-
-1. Une page web est-elle soumise au code de protection des droits d'auteur ?
-
-2. Quentin a t-il respecté le droit d'auteur ?
-
-3. Quelles solutions s'offrent à lui pour réaliser son exposé ?
-
-## VIII. Activité 10
 
 Pour trouver et utiliser les images libres de droit, il existe plusieurs solutions :
 
@@ -82,7 +64,3 @@ c) Trouver et activer le filtre `Licence Creative Commons`.
 a) Aller sur le site web `123ref`.
 
 b) Taper dans la barre de recherche du site `nuit étoilée de van gogh`.
-
-________________
-
-[Sommaire](./../README.md)
