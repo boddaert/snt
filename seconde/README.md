@@ -2,9 +2,9 @@
 
 #### Chapitre 0 : Introduction
 
-- Leçon 1 : [Prise de contact](./Prise_de_contact/Prise_de_contact.md)
+- Leçon 1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
 
-- TP n°1 : [Prise en main](./Prise_en_main/Prise_en_main.md)
+- TP n°1 : [Prise en main](./Introduction/Travaux_pratiques/TP_1_prise_en_main.md)
 
 #### Chapitre 1 : Web
 
