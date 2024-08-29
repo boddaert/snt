@@ -36,12 +36,14 @@ Voici quelques fonctions simples pour commencer à utiliser `turtle` :
 | `speed(s : int)` | La tortue se déplace d'une vitesse $s$. |
 | `ht()` | La tortue est invisible. |
 
-## III. Evaluation
+## III. Évaluation
 
 Vous serez évalués sur :
+
+- La qualité du rendu (les lettres sont correctement déssinées)
 
 - La qualité du code fourni (lisibilité du code, explicité des noms de variable)
 
 ______________
 
-[Sommaire](./../README.md)
+[Sommaire](./../../README.md)

@@ -1,12 +1,17 @@
 # Notions de base
 
+> [!WARNING]
+> Répondre aux questions dans votre fichier `réponses_nom_prenom.txt`.
+
 ___________________
 
 ## I. Types
 
 En Python, les valeurs ont des types. 
 
-Nous appellons *valeur* toute donnée manipulable. Par exemple, $`42`$ et $`ù`$ sont des valeurs que l'on peut manipuler dans nos programmes.
+Nous appellons *valeur* toute donnée manipulable.
+
+Par exemple, $`42`$ et $`ù`$ sont des valeurs que l'on peut manipuler dans nos programmes.
 
 Chaque valeur a un *type* qui la **caractérise**.
 
@@ -19,11 +24,11 @@ Voici ci-dessous un tableau récapitulant les types présents en Python :
 | Chaîne de caractères | `str` | `"bonjour a tous"`, `""`, `"coucou"` |
 | Booléen | `bool` | $True$, $False$ |
 
-#### Exercice 1
+#### <ins>Exercice 1</ins>
 
 a) Ouvrir Thonny.
 
-b) Ecrire dans la console les instructions `type(2)` et `type("bonjour")`
+b) Écrire dans la console les instructions `type(2)` et `type("bonjour")`
 
 c) En déduire sur ce que fait la fonction `type()`.
 
@@ -44,17 +49,15 @@ _______________________
 |   Division entière    | `//` |
 |   Puissance   |   `**` |
 
-#### Exercice 2
+#### <ins>Exercice 2</ins>
 
-Nous considèrons les expressions suivantes :
+1. `11 + 7`
 
-- `11 + 7`
+2. `11 / 7`
 
-- `11 / 7`
+3. `11 // 7`
 
-- `11 // 7`
-
-- `11 ** 7`
+4. `11 ** 7`
 
 Sur chacune des opérations ci-dessus et à l'aide de la console Python, donner leur résultat.
 
@@ -69,17 +72,15 @@ Sur chacune des opérations ci-dessus et à l'aide de la console Python, donner 
 |   Egal à |   `==` |
 |   Différent de    |   `!=` |
 
-#### Exercice 3
+#### <ins>Exercice 3</ins>
 
-Nous considèrons les expressions suivantes :
+1. `11 > 7`
 
-- `11 > 7`
+2. `11 < 7`
 
-- `11 < 7`
+3. `11 == 7`
 
-- `11 == 7`
-
-- `11 != 7`
+4. `11 != 7`
 
 Sur chacune des opérations ci-dessus et à l'aide de la console Python, donner leur résultat.
 
@@ -102,7 +103,7 @@ Pour connaître la valeur contenue dans une variable, il faut l'appeler :
 42
 ```
 
-#### Exercice 4
+#### <ins>Exercice 4</ins>
 
 a) Dans la console python, affecter la variable `ma_variable` avec la valeur `9.99`.
 
@@ -118,7 +119,7 @@ Jusqu'à maintenant, nous avons essentiellement travaillé avec la console Pytho
 
 Ce mode est très utile pour tester nos instructions mais celui-ci n'est pas destiné à écrire des programmes.
 
-#### Exercice 5
+#### <ins>Exercice 5</ins>
 
 ```python
 a = 10
@@ -133,4 +134,4 @@ c) Dans la console, vérifier le contenu de la variable `a`.
 
 _______
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../../README.md)

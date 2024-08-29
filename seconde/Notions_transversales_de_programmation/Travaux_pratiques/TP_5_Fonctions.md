@@ -1,23 +1,18 @@
 # Fonctions
 
+> [!WARNING]
+> Répondre aux questions dans votre fichier `réponses_nom_prenom.txt`.
+
 Une *fonction* est une séquence d'instruction réutilisable. Elle associe une séquence d'instruction à un nom.
-
-Nous la distinguons des variables parce que le nom est suivi de parenthèses.
-
-Par exemple, la fonction `type()` permet d'obtenir le type de la valeur passée en paramètre :
-
-```python
->>> type(5)
-<class 'int'>
-```
 
 ## I. Écrire une fonction dans un programme
 
 Nous écrivons les fonctions en Python en utilisant le mot-cle : `def` suivi du nom de la fonction puis de paramètres entre parenthèses :
 
 ```python
-def somme(a : int, b : int) -> int :
-    ...
+def somme(a : int, b : int)->int :
+    resultat = a + b
+    return resultat
 ```
 
 La fonction ci-dessus a comme :
@@ -28,19 +23,13 @@ La fonction ci-dessus a comme :
 
 Un *paramètre* est le nom d'une variable utilisée à l'intérieur de la fonction.
 
-Pour l'instant, le code à l'intérieur de la fonction est vide. Remplaçons les `...` par du code Python permettant de faire l'addition des paramètres et de renvoyer le résultat :
+Son code permet d'additionner `a` et `b`, de placer le résultat dans une variable `resultat` et de la renvoyer.
 
-```python
-def somme(a : int, b : int)->int :
-    resultat = a + b
-    return resultat
-```
-
-#### Exercice 1
+#### <ins>Exercice 1</ins>
 
 Écrire, en Python, la fonction ``produit(a : int, b : int) -> int`` qui prend en paramètres deux entiers $a$ et $b$ et renvoie comme résultat $a \times b$.
 
-#### Exercice 2
+#### <ins>Exercice 2</ins>
 
 Écrire, en Python, la fonction `carre(n : int) -> int` qui prend en paramètre un entier $n$ et renvoie comme résultat $n^2$.
 
@@ -59,15 +48,15 @@ Autrement dit, le paramètre `a` prend la valeur $5$ et le paramètre `b` prend 
 
 Il est important que le type de l'argument doit être le même que celui du paramètre.
 
-#### Exercice 3
+#### <ins>Exercice 3</ins>
 
 Utiliser dans la console la fonction `produit()` avec comme paramètres `6` et `3`.
 
-#### Exercice 4
+#### <ins>Exercice 4</ins>
 
 Utiliser dans la console la fontion `carre()` avec comme paramètre `5`.
 
-#### Exercice 5
+#### <ins>Exercice 5</ins>
 
 Sans utiliser la console, donner le résultat des instructions suivantes :
 
@@ -96,4 +85,4 @@ c) Instruction 3 :
 ```
 ___________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../../README.md)

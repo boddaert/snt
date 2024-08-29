@@ -1,5 +1,8 @@
 # Interraction avec l'utilisateur
 
+> [!WARNING]
+> Répondre aux questions dans votre fichier `réponses_nom_prenom.txt`.
+
 ## I. Affichage
 
 La fonction `print()` dans un programme permet d'afficher n'importe quelle valeur dans la console.
@@ -10,7 +13,7 @@ Par exemple :
 print('coucou')
 ```
 
-#### Exercice 1
+#### <ins>Exercice 1</ins>
 
 Afficher, à votre tour, votre prénom dans la console à l'aide de la fonction `print()`.
 
@@ -24,10 +27,10 @@ Par exemple :
 ma_variable = input('Veuillez entrer une valeur : ')
 ```
 
-#### Exercice 2
+#### <ins>Exercice 2</ins>
 
 Écrire, à votre tour, un programme demandant l'âge de l'utilisateur.
 
 ___________
 
-[Sommaire](./../README.md)
+[Sommaire](./../../README.md)

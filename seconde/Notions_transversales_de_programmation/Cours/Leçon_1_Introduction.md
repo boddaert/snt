@@ -2,8 +2,6 @@
 
 ## I. L'informatique
 
-### a) Définitions
-
 [Qu'est-ce qu'un algorithme ? - Educode](https://ladigitale.dev/digiview/#/v/651db93fdcd89)
 
 En Sciences Numériques et Technologiques, nous allons être amenés à écrire des programmes informatiques sur ordinateur.
@@ -47,14 +45,20 @@ Comme nos langues naturelles, un langage de programmation est composé d'un alph
 
 On distingue une multitude de langages comme le Java, le C++, le HTML, le CSS, le SQL, etc ...
 
-![](./img/langages.png)
+<img src="./img/langages.png" width="500">
 
 ## III. Le Python
 
 En SNT, nous travaillerons avec le langage Python principalement. Il a été inventé en 1989 par le néerlandais Guido Van Rossum et est aujourd'hui l'un des lagages les plus utilisés au monde.
 
-![](./img/python_logo.png)
+<img src="./img/python_logo.png" width="500">
+
+#### <ins>Exercice 1</ins>
+
+a) Dans votre répertoire `notions_transversales_programmation` préalablement créé, ajouter à l'intérieur de celui-ci un fichier `réponses_nom_prenom.txt`.
+
+b) Pour tous les exercices futurs de ce chapitre, vous répondrez aux questions dans le fichier `réponses_nom_prenom.txt`.
 
 ________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../../README.md)

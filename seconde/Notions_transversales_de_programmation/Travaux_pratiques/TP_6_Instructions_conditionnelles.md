@@ -1,9 +1,11 @@
-# Instructions conditionnelles
+# Instructions conditionnelle
+
+> [!WARNING]
+> Répondre aux questions dans votre fichier `réponses_nom_prenom.txt`.
 
 Une *instruction conditionnelle* est une instruction permettant d'exécuter certaines instructions uniquement si la condition est remplie.
 
 Si la condition n'est pas remplie, la suite du programme est exécutée normalement.
-
 
 ## I. Écrire une instruction conditionnelle
 
@@ -14,9 +16,9 @@ if 3 > 6 :
     a = 5
 ```
 
-Nous pouvons traduire en Français le programme ci-dessus par : `Si trois est supérieur à six alors je met la valeur cinq dans la variable a`.
+Nous pouvons traduire en français le programme ci-dessus par : `Si trois est supérieur à six alors je met la valeur cinq dans la variable a`.
 
-#### Exercice 1
+#### <ins>Exercice 1</ins>
 
 Donner, pour chaque programme suivant, sa traduction en Français :
 
@@ -35,9 +37,11 @@ if a != b :
 a = a * 2
 ```
 
-#### Exercice 2
+#### <ins>Exercice 2</ins>
 
-Écrire une fonction `quotient(a : int, b : int)->float` qui prend en paramètre deux entiers et renvoie le résultat de $a/b$. Attention, la division par $0$ n'est pas possible.
+Écrire une fonction `quotient(a : int, b : int)->float` qui prend en paramètre deux entiers et renvoie le résultat de $a/b$.
+
+Le code de la fonction peut se traduire en français par : `Si b est différent de 0, alors je met dans une variable resultat le résultat de l'opération a divisé par b`.
 
 ## II. Alternative
 
@@ -54,9 +58,9 @@ else :
 
 Nous pouvons traduire en Français le programme ci-dessus par : `Si trois est supérieur à six alors je met la valeur cinq dans la variable a, sinon, je met la valeur trois dans la variable a`.
 
-#### Exercice 3
+#### <ins>Exercice 3</ins>
 
-Donner, pour chaque programme suivant, sa traduction en Français :
+Donner, pour chaque programme suivant, sa traduction en français :
 
 a) Programme 1 :
 
@@ -76,10 +80,10 @@ else :
     a = a - 1
 ```
 
-#### Exercice 4
+#### <ins>Exercice 4</ins>
 
 Donner, pour la phrase suivante, le programme Python correspondant : `Si a est supérieur à b alors je met la valeur dix dans la variable a, sinon, je met la valeur cinq dans la variable a`.
 
 _________________________
 
-[Sommaire](./../../seconde/)
+[Sommaire](./../../README.md)

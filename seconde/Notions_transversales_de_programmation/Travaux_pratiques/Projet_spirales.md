@@ -26,7 +26,7 @@ b) Écrire une fonction `triangle(x, y, n)` qui prend en paramètre trois entier
 
 c) Écrire une fonction `hexagone(x, y, n)` qui prend en paramètre trois entiers et dessine, à l'aide d'une boucle, une spirale en forme d'un hexagone à la position $(x,y)$ avec le premier côté mesurant $n$.
 
-d) Écrire le code Python demandant à l'utilisateur quel forme il veut dessiner et à quelle position. 
+d) Écrire le code Python demandant à l'utilisateur quelle forme il veut dessiner et à quelle position. 
 
 Voici ci-dessous un exemple d'interraction qu'il pourrait y avoir avec l'utilisateur :
 
@@ -44,4 +44,4 @@ y ?
 ```
 ________________
 
-[Sommaire](./../README.md)
+[Sommaire](./../../README.md)
