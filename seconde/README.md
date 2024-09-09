@@ -2,21 +2,21 @@
 
 #### Chapitre 0 : Introduction
 
-- Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.pdf)
+- Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
 
 - TP n°1 : [Prise en main](./Introduction/Travaux_pratiques/TP_1_prise_en_main.md)
 
 #### Chapitre 1 : Web
 
-- Leçon n°1 : [Introduction](./Web/Cours/Leçon_1_introduction.pdf)
+- Leçon n°1 : [Introduction](./Web/Cours/Leçon_1_introduction.md)
 
 - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/TP_1_modèle_client_serveur.md)
 
-- Leçon n°2 : [Page Rank](./Web/Cours/Leçon_2_page_rank.pdf)
+- Leçon n°2 : [Page Rank](./Web/Cours/Leçon_2_page_rank.md)
 
 - TP n°2 : [HTML](./Web/Travaux_pratiques/TP_2_HTML.md)
 
-- Leçon n°3 : [Sécurisation du navigateur](./Web/Cours/Leçon_3_sécurisation_du_navigateur.pdf)
+- Leçon n°3 : [Sécurisation du navigateur](./Web/Cours/Leçon_3_sécurisation_du_navigateur.md)
 
 - TP n°3 : [CSS](./Web/Travaux_pratiques/TP_3_CSS.md)
 
@@ -24,13 +24,13 @@
 
 #### Chapitre 2 : Réseaux sociaux
 
-- Leçon n°1 : [Introduction](./Réseaux_sociaux/Cours/Leçon_1_Introduction.pdf)
+- Leçon n°1 : [Introduction](./Réseaux_sociaux/Cours/Leçon_1_Introduction.md)
 
-- Leçon n°2 : [Graphes](./Réseaux_sociaux/Cours/Leçon_2_Graphes.pdf)
+- Leçon n°2 : [Graphes](./Réseaux_sociaux/Cours/Leçon_2_Graphes.md)
 
-- Leçon n°3 : [Petit monde](./Réseaux_sociaux/Cours/Leçon_3_Petit_Monde.pdf)
+- Leçon n°3 : [Petit monde](./Réseaux_sociaux/Cours/Leçon_3_Petit_Monde.md)
 
-- Leçon n°4 : [Cyberharcèlement](./Réseaux_sociaux/Cours/Leçon_4_Cyberharcèlement.pdf)
+- Leçon n°4 : [Cyberharcèlement](./Réseaux_sociaux/Cours/Leçon_4_Cyberharcèlement.md)
 
 #### Chapitre 3 : Notions transversales de programmation
 
@@ -48,13 +48,13 @@
 
 - TP n°5 : [Fonctions](./Notions_transversales_de_programmation/Travaux_pratiques/TP_5_Fonctions.md)
 
-- TP n°6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Instructions_conditionnelles.md)
+- TP n°6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Travaux_pratiques/TP_6_Instructions_conditionnelles.md)
 
-- TP n°7 : [Interraction avec l'utilisateur](./Notions_transversales_de_programmation/Interraction_avec_l_utilisateur.md)
+- TP n°7 : [Interraction avec l'utilisateur](./Notions_transversales_de_programmation/Travaux_pratiques/TP_7_Interraction_avec_l_utilisateur.md)
 
-- TP n°8 : [Boucles non bornées](./Notions_transversales_de_programmation/Boucles_non_bornées.md)
+- TP n°8 : [Boucles non bornées](./Notions_transversales_de_programmation/Travaux_pratiques/TP_8_Boucles_non_bornées.md)
 
-- Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Projet_spirales.md)
+- Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_spirales.md)
 
 #### Chapitre 4 : Internet
 

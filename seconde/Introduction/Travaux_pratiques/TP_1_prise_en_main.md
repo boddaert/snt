@@ -18,7 +18,7 @@ d) Puis, dans le sommaire, cliquer sur `TPn°1 : Prise en main`.
 
 e) Lire le document et faire les applications suivantes.
 
-## III. Gestionnaire de fichiers
+## II. Gestionnaire de fichiers
 
 ## a) Définitions
 
