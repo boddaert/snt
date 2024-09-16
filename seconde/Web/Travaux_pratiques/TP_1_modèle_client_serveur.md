@@ -56,7 +56,7 @@ b) Aller dans l'onglet `Réseau` puis sélectionner `HTML`.
 
 c) Entrer dans la barre d'adresse l'adresse suivante : [https://www1.ac-lille.fr/](https://www1.ac-lille.fr/) et observer ce qu'il se passe.
 
-d) En parcourant la requête HTTP et la réponse, trouver les informations suivantes :
+d) En parcourant la requête HTTP et la réponse, trouver les informations suivantes et les noter dans un fichier `activite_modele_client_serveur.txt` que vous metterez dans votre répertoire `web` :
 
 1. Le code réponse.
 

@@ -55,15 +55,6 @@ Il est possible d'appliquer un style uniquement à certains éléments HTML en p
 | Couleur de texte rouge | `p { color : red ;}` |
 | Couleur d'arrière-plan du texte | `p { background-color : red ;}` |
 
-
-## V. Activité 14
-
-a) Dans le logiciel `notepad++`, créer un nouveau fichier situé dans le même répertoire que votre document HTML et que vous nommerez `votre-nom_memo_css` suivi de l'extension `.css`.
-
-b) Ajouter dans la balise `head` de votre document HTML le lien vers votre fichier CSS.
-
-b) Tester les règles CSS vues dans le mémo et vérifier le résultat dans le navigateur.
-
 ________________
 
 [Sommaire](./../../README.md)

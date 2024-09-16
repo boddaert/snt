@@ -75,18 +75,6 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
 | Liste à puces non numérotée | `<ul> <li>Premier</li> <li>Deuxième</li> </ul>` | <ul> <li>Premier</li> <li>Deuxième</li> </ul> |
 | Tableau | `<table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr><tr><td>Première ligne</td><td>Première ligne</td></tr><tr><td>Deuxième ligne</td><td>Deuxième ligne</td></tr></table>` | <table><tr><th>Première colonne</th><th>Deuxième colonne</th></tr><tr><td>Première ligne</td><td>Première ligne</td></tr><tr><td>Deuxième ligne</td><td>Deuxième ligne</td></tr></table> |
 
-## VI. Activité
-
-Objectif : Tester les balises HTML.
-
-a) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML.
-
-b) Enregistrer sous le fichier dans votre répertoire `web` sous la forme `votre-nom_memo_html` suivi de l'extension `.html`.
-
-c) Vérifier votre code dans le navigateur en cliquant sur l'onglet `Affichage` de Notepad puis cliquer sur `Afficher le fichier dans` et choisir `Firefox`.
-
-d) Tester toutes les balises présentées dans le mémo HTML et vérifier le résultat dans le navigateur.
-
 ________________
 
 [Sommaire](./../../README.md)
