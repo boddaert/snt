@@ -3,8 +3,7 @@
 #### Chapitre 0 : Introduction
 
 - Leçons :
-
- + Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
+    + Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
 
 - Travaux pratiques :
 
