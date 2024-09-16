@@ -7,81 +7,81 @@
 
 - Travaux pratiques :
 
- - TP n°1 : [Prise en main](./Introduction/Travaux_pratiques/TP_1_prise_en_main.md)
+    - TP n°1 : [Prise en main](./Introduction/Travaux_pratiques/TP_1_prise_en_main.md)
 
 #### Chapitre 1 : Web
 
 - Leçons :
 
- - Leçon n°1 : [Introduction](./Web/Cours/Leçon_1_introduction.md)
+    - Leçon n°1 : [Introduction](./Web/Cours/Leçon_1_introduction.md)
 
- - Leçon n°2 : [Page Rank](./Web/Cours/Leçon_2_page_rank.md)
+    - Leçon n°2 : [Page Rank](./Web/Cours/Leçon_2_page_rank.md)
 
- - Leçon n°3 : [Sécurisation du navigateur](./Web/Cours/Leçon_3_sécurisation_du_navigateur.md)
+    - Leçon n°3 : [Sécurisation du navigateur](./Web/Cours/Leçon_3_sécurisation_du_navigateur.md)
 
 - Travaux pratiques :
 
- - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/TP_1_modèle_client_serveur.md)
+    - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/TP_1_modèle_client_serveur.md)
 
- - Projet n°1 : [Coder son site web](./Web/Travaux_pratiques/Projet_coder_son_site_web.md)
+    - Projet n°1 : [Coder son site web](./Web/Travaux_pratiques/Projet_coder_son_site_web.md)
 
- - TP n°2 : [HTML](./Web/Travaux_pratiques/TP_2_HTML.md)
+    - TP n°2 : [HTML](./Web/Travaux_pratiques/TP_2_HTML.md)
 
- - TP n°3 : [CSS](./Web/Travaux_pratiques/TP_3_CSS.md)
+    - TP n°3 : [CSS](./Web/Travaux_pratiques/TP_3_CSS.md)
 
 #### Chapitre 2 : Réseaux sociaux
 
 - Leçons :
 
- - Leçon n°1 : [Introduction](./Réseaux_sociaux/Cours/Leçon_1_Introduction.md)
+    - Leçon n°1 : [Introduction](./Réseaux_sociaux/Cours/Leçon_1_Introduction.md)
 
- - Leçon n°2 : [Graphes](./Réseaux_sociaux/Cours/Leçon_2_Graphes.md)
+    - Leçon n°2 : [Graphes](./Réseaux_sociaux/Cours/Leçon_2_Graphes.md)
 
- - Leçon n°3 : [Petit monde](./Réseaux_sociaux/Cours/Leçon_3_Petit_Monde.md)
+    - Leçon n°3 : [Petit monde](./Réseaux_sociaux/Cours/Leçon_3_Petit_Monde.md)
 
- - Leçon n°4 : [Cyberharcèlement](./Réseaux_sociaux/Cours/Leçon_4_Cyberharcèlement.md)
+    - Leçon n°4 : [Cyberharcèlement](./Réseaux_sociaux/Cours/Leçon_4_Cyberharcèlement.md)
 
 #### Chapitre 3 : Notions transversales de programmation
 
 - Leçons :
 
- - Leçon n°1 : [Introduction](./Notions_transversales_de_programmation/Introduction.md)
+    - Leçon n°1 : [Introduction](./Notions_transversales_de_programmation/Introduction.md)
 
 - Travaux pratiques :
 
- - TP n°1 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_1_Pyrates.md)
+    - TP n°1 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_1_Pyrates.md)
 
- - TP n°2 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_2_Thonny.md)
+    - TP n°2 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_2_Thonny.md)
 
- - TP n°3 : [Notions de base](./Notions_transversales_de_programmation/Travaux_pratiques/TP_3_Notions_de_base.md)
+    - TP n°3 : [Notions de base](./Notions_transversales_de_programmation/Travaux_pratiques/TP_3_Notions_de_base.md)
 
- - TP n°4 : [Modules](./Notions_transversales_de_programmation/Travaux_pratiques/TP_4_Modules.md)
+    - TP n°4 : [Modules](./Notions_transversales_de_programmation/Travaux_pratiques/TP_4_Modules.md)
 
- - Projet n°2 : [Écrire son prénom](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
+    - Projet n°2 : [Écrire son prénom](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
 
- - TP n°5 : [Fonctions](./Notions_transversales_de_programmation/Travaux_pratiques/TP_5_Fonctions.md)
+    - TP n°5 : [Fonctions](./Notions_transversales_de_programmation/Travaux_pratiques/TP_5_Fonctions.md)
 
- - TP n°6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Travaux_pratiques/TP_6_Instructions_conditionnelles.md)
+    - TP n°6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Travaux_pratiques/TP_6_Instructions_conditionnelles.md)
 
- - TP n°7 : [Interraction avec l'utilisateur](./Notions_transversales_de_programmation/Travaux_pratiques/TP_7_Interraction_avec_l_utilisateur.md)
+    - TP n°7 : [Interraction avec l'utilisateur](./Notions_transversales_de_programmation/Travaux_pratiques/TP_7_Interraction_avec_l_utilisateur.md)
 
- - TP n°8 : [Boucles non bornées](./Notions_transversales_de_programmation/Travaux_pratiques/TP_8_Boucles_non_bornées.md)
+    - TP n°8 : [Boucles non bornées](./Notions_transversales_de_programmation/Travaux_pratiques/TP_8_Boucles_non_bornées.md)
 
- - Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_spirales.md)
+    - Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_spirales.md)
 
 #### Chapitre 4 : Internet
 
 - Leçons : 
 
- - Leçon 1 : [Réseau Internet](./Internet/Réseau_Internet.md)
+    - Leçon 1 : [Réseau Internet](./Internet/Réseau_Internet.md)
 
- - Leçon 2 : [Fonctionnement Internet](./Internet/Fonctionnement_Internet.md)
+    - Leçon 2 : [Fonctionnement Internet](./Internet/Fonctionnement_Internet.md)
 
 - Travaux pratiques :
 
- - TP n°1 : [Réalisation et simulation d'un réseau local](./Internet/TP_n°1_réalisation_et_simulation_d_un_réseau_local.md)
+    - TP n°1 : [Réalisation et simulation d'un réseau local](./Internet/TP_n°1_réalisation_et_simulation_d_un_réseau_local.md)
 
- - TP n°2 : [Réalisation et simulation d'un réseau connecté à un serveur web](./Internet/TP_n°2_réalisation_et_simulation_d_un_réseau_connecté_à_un_serveur_web.md)
+    - TP n°2 : [Réalisation et simulation d'un réseau connecté à un serveur web](./Internet/TP_n°2_réalisation_et_simulation_d_un_réseau_connecté_à_un_serveur_web.md)
 
 #### Chapitre 5 : Informatique embarquée et objets connectés
 
