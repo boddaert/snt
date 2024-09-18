@@ -24,7 +24,7 @@ Compléter les définitions ci-dessous à l'aide des mots suivants :
 
 7. Un ............................. est un logiciel permettant de visiter à travers le web et d'afficher les pages.
 
-## II. Repères historiques
+## III. Repères historiques
 
 En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
 
@@ -38,7 +38,7 @@ En cherchant les informations sur Internet (sur votre téléphone portable), rel
 | **2001 -** | **- Première transaction en ligne sécurisée.** |
 | **1995 -** | **- Les pages web sont standardisées par le W3C.** |
 
-## III. URLs
+## IV. URLs
 
 Une *URL* (*Uniform Resource Locator*) ou *adresse web* en Français est une adresse vers un document du web (texte, image, vidéo).
 
@@ -65,7 +65,7 @@ Décomposer les URLs suivantes :
 2. `https://www1.ac-lille.fr/les-examens-121506`
 ..............................................................................................................
 
-## III. Navigateurs web et Moteurs de recherche
+## V. Navigateurs web et Moteurs de recherche
 
 `Qwant`, `Bing`, `Google Chrome`, `Internet Explorer`, `Ecosia`, `Mozilla Firefox`, `Yahoo!`, `Safari`, `Opera`
 
