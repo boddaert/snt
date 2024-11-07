@@ -3,7 +3,8 @@
 #### Chapitre 0 : Introduction
 
 - Leçons :
-    + Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
+
+    - Leçon n°1 : [Prise de contact](./Introduction/Cours/Leçon_1_prise_de_contact.md)
 
 - Travaux pratiques :
 
@@ -41,15 +42,15 @@
 
     - Leçon n°4 : [Cyberharcèlement](./Réseaux_sociaux/Cours/Leçon_4_Cyberharcèlement.md)
 
+- Travaux pratiques :
+
+    - PIX ?
+
 #### Chapitre 3 : Notions transversales de programmation
-
-- Leçons :
-
-    - Leçon n°1 : [Introduction](./Notions_transversales_de_programmation/Introduction.md)
 
 - Travaux pratiques :
 
-    - TP n°1 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_1_Pyrates.md)
+    - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/TP_1_Introduction.md)
 
     - TP n°2 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_2_Thonny.md)
 
@@ -67,7 +68,7 @@
 
     - TP n°8 : [Boucles non bornées](./Notions_transversales_de_programmation/Travaux_pratiques/TP_8_Boucles_non_bornées.md)
 
-    - Projet n°3 : [Spirales](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_spirales.md)
+    - TP n°9 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_9_Pyrates.md)
 
 #### Chapitre 4 : Internet
 

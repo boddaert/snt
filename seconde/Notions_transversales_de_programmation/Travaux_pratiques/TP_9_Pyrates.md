@@ -8,8 +8,6 @@ a) Aller sur [Pyrates](https://py-rates.fr/) pour commencer à jouer.
 
 b) Recopier chaque programme vous permettant de réussir un niveau dans votre fichier `réponses_nom_prenom.txt`.
 
-c) Aller le plus loin possible.
-
 _____________________
 
 [Sommaire](./../../README.md)

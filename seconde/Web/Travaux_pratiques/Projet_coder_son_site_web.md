@@ -49,7 +49,15 @@ f) Faire le projet.
 
 ## III. Évaluation
 
-Vous serez évalués lors d'une présentation de cinq minutes de votre page web devant la classe où vous indiquerez explicitement pour chaque balise HTML/sélecteur CSS que vous avez écrit son rendu graphique puis son code permettant de l'obtenir.
+Vous serez évalués selon le respect du cahier des charges et lors d'une présentation de trois à cinq minutes de votre page web devant la classe.
+
+Pendant la présentation, vous devrez :
+
+1. Afficher sur navigateur un aperçu de votre page.
+
+2. Expliquer, en affichant le code HTML, au moins deux balises différentes (le nom de la balise, ce qu'elle permet de créer, etc...) et son exemple sur le navigateur.
+
+3. Expliquer, en affichant le code CSS, au moins deux règles CSS différentes (le fonctionnement de la règle, ce qu'elle permet de faire, etc ...) et son exemple sur le navigateur.
 
 ________________
 

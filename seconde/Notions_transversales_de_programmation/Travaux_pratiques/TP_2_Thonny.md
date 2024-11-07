@@ -45,9 +45,9 @@ Les trois chevrons **>>>** indique que la console attend une instruction.
 
 ### <ins>Exercice 3</ins>
 
-a) Écrire dans laconsole le programme de l'exercice 1 et appuyer sur `Entrée`.
+a) Écrire dans la console le programme de l'exercice 1 et appuyer sur `Entrée`.
 
-b) Écrire dans laconsole le programme de l'exercice 2 et appuyer sur `Entrée`.
+b) Écrire dans la console le programme de l'exercice 2 et appuyer sur `Entrée`.
 
 ________
 
