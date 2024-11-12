@@ -66,7 +66,9 @@ Pour rendre le projet :
 
 1. Dans un dossier nommé avec votre nom, prénom et classe : y déposer les fichiers de code HTML et CSS.
 
-2. Via messagerie ENT ou via mail (theo.boddaert@ac-lille.fr), envoyer le dossier en pièce jointe.
+2. Cliquer droit sur votre dossier puis `envoyer vers` puis `Dossier compressé` pour compresser le dossier.
+
+3. Via messagerie ENT ou via mail (theo.boddaert@ac-lille.fr), envoyer le dossier compressé en pièce jointe.
 
 ________________
 
