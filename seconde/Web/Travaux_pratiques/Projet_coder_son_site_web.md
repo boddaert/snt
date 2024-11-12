@@ -49,7 +49,7 @@ f) Faire le projet.
 
 ## III. Évaluation
 
-Vous serez évalués selon le respect du cahier des charges et lors d'une présentation de trois à cinq minutes de votre page web devant la classe.
+Vous serez évalués selon le respect du cahier des charges (sur 10 points) et lors d'une présentation de trois à cinq minutes de votre page web devant la classe (sur 10 points).
 
 Pendant la présentation, vous devrez :
 
@@ -58,6 +58,15 @@ Pendant la présentation, vous devrez :
 2. Expliquer, en affichant le code HTML, au moins deux balises différentes (le nom de la balise, ce qu'elle permet de créer, etc...) et son exemple sur le navigateur.
 
 3. Expliquer, en affichant le code CSS, au moins deux règles CSS différentes (le fonctionnement de la règle, ce qu'elle permet de faire, etc ...) et son exemple sur le navigateur.
+
+## IV. Rendre le projet
+
+
+Pour rendre le projet :
+
+1. Dans un dossier nommé avec votre nom, prénom et classe : y déposer les fichiers de code HTML et CSS.
+
+2. Via messagerie ENT ou via mail (theo.boddaert@ac-lille.fr), envoyer le dossier en pièce jointe.
 
 ________________
 
