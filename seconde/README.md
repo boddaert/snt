@@ -52,13 +52,11 @@
 
     - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/TP_1_Introduction.md)
 
-    - TP n°2 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_2_Thonny.md)
+    - TP n°2 : [Notions de base](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base.md)
 
-    - TP n°3 : [Notions de base](./Notions_transversales_de_programmation/Travaux_pratiques/TP_3_Notions_de_base.md)
+    - TP n°3 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_2_Thonny.md)
 
-    - TP n°4 : [Modules](./Notions_transversales_de_programmation/Travaux_pratiques/TP_4_Modules.md)
-
-    - Projet n°2 : [Écrire son prénom](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
+    - Projet n°2 : [Écrire son prénom avec Turtle](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
 
     - TP n°5 : [Fonctions](./Notions_transversales_de_programmation/Travaux_pratiques/TP_5_Fonctions.md)
 
