@@ -1,8 +1,5 @@
 # Thonny
 
-> [!WARNING]
-> Répondre aux questions dans votre fichier `réponses_nom_prenom.txt`.
-
 ## I. Environnement de développement
 
 Un *IDE* (ou environnement de développement) est un logiciel permettant d'écrire et de faire exécuter des programmes.

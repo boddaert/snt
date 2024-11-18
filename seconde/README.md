@@ -50,23 +50,19 @@
 
 - Travaux pratiques :
 
-    - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/TP_1_Introduction.md)
+    - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Introduction.md)
 
-    - TP n°2 : [Notions de base](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base.md)
+    - TP n°2 : [Notions de base primaires](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base_primaires.md)
 
-    - TP n°3 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_2_Thonny.md)
+    - TP n°3 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Thonny.md)
 
     - Projet n°2 : [Écrire son prénom avec Turtle](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
 
-    - TP n°5 : [Fonctions](./Notions_transversales_de_programmation/Travaux_pratiques/TP_5_Fonctions.md)
+    - TP n°4 : [Notions de base secondaires](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base_secondaires.md)
 
-    - TP n°6 : [Instructions conditionnelles](./Notions_transversales_de_programmation/Travaux_pratiques/TP_6_Instructions_conditionnelles.md)
+    - TP n°5 : [Notions de base tertiaires](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base_tertiaires.md)
 
-    - TP n°7 : [Interraction avec l'utilisateur](./Notions_transversales_de_programmation/Travaux_pratiques/TP_7_Interraction_avec_l_utilisateur.md)
-
-    - TP n°8 : [Boucles non bornées](./Notions_transversales_de_programmation/Travaux_pratiques/TP_8_Boucles_non_bornées.md)
-
-    - TP n°9 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_9_Pyrates.md)
+    - TP n°6 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Pyrates.md)
 
 #### Chapitre 4 : Internet
 
