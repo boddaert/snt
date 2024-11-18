@@ -53,12 +53,6 @@ En SNT, nous travaillerons avec le langage Python principalement. Il a été inv
 
 <img src="./img/python_logo.png" width="500">
 
-#### <ins>Exercice 1</ins>
-
-a) Dans votre répertoire `notions_transversales_programmation` préalablement créé, ajouter à l'intérieur de celui-ci un fichier `réponses_nom_prenom.txt`.
-
-b) Pour tous les exercices futurs de ce chapitre, vous répondrez aux questions dans le fichier `réponses_nom_prenom.txt`.
-
 ________
 
 [Sommaire](./../../README.md)
