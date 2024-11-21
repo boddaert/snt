@@ -22,13 +22,13 @@
 
 - Travaux pratiques :
 
-    - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/TP_1_modèle_client_serveur.md)
+    - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/Modèle_client_serveur.md)
+
+    - TP n°2 : [HTML](./Web/Travaux_pratiques/HTML.md)
+
+    - TP n°3 : [CSS](./Web/Travaux_pratiques/CSS.md)
 
     - Projet n°1 : [Coder son site web](./Web/Travaux_pratiques/Projet_coder_son_site_web.md)
-
-    - TP n°2 : [HTML](./Web/Travaux_pratiques/TP_2_HTML.md)
-
-    - TP n°3 : [CSS](./Web/Travaux_pratiques/TP_3_CSS.md)
 
 #### Chapitre 2 : Réseaux sociaux
 
@@ -50,19 +50,19 @@
 
 - Travaux pratiques :
 
-    - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Introduction.md)
+    - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/Introduction.md)
 
-    - TP n°2 : [Notions de base primaires](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base_primaires.md)
+    - TP n°2 : [Notions de base primaires](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_primaires.md)
 
-    - TP n°3 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Thonny.md)
+    - TP n°3 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/Thonny.md)
 
     - Projet n°2 : [Écrire son prénom avec Turtle](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
 
-    - TP n°4 : [Notions de base secondaires](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base_secondaires.md)
+    - TP n°4 : [Notions de base secondaires](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_secondaires.md)
 
-    - TP n°5 : [Notions de base tertiaires](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Notions_de_base_tertiaires.md)
+    - TP n°5 : [Notions de base tertiaires](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_tertiaires.md)
 
-    - TP n°6 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/TP_Pyrates.md)
+    - TP n°6 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/Pyrates.md)
 
 #### Chapitre 4 : Internet
 

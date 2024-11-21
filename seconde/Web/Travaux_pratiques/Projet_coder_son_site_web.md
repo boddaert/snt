@@ -64,9 +64,9 @@ Pendant la présentation, vous devrez :
 
 Pour rendre le projet :
 
-1. Dans un dossier nommé avec votre nom, prénom et classe : y déposer les fichiers de code HTML et CSS.
+1. Dans un dossier nommé avec votre nom, prénom et classe : y copier/coller les fichiers de code HTML et CSS.
 
-2. Cliquer droit sur votre dossier puis `envoyer vers` puis `Dossier compressé` pour compresser le dossier.
+2. Cliquer droit sur votre dossier puis sur `envoyer vers` puis `Dossier compressé` pour compresser le dossier.
 
 3. Via messagerie ENT ou via mail (theo.boddaert@ac-lille.fr), envoyer le dossier compressé en pièce jointe.
 
