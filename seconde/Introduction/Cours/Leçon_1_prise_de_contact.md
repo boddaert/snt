@@ -32,17 +32,17 @@ Après avoir écrit votre nom/prénom sur une feuille de papier, répondre aux q
 
 a) Expliquer en un paragraphe votre rapport à l'informatique. Par exemple, en indiquant :
 
-    + Si vous possédez un ordinateur à la maison ? 
+- Si vous possédez un ordinateur à la maison ? 
 
-    + S'agit-il d'un ordinateur personnel ou à usage familial ? 
+-  S'agit-il d'un ordinateur personnel ou à usage familial ? 
 
-    + Utilisez-vous souvent un ordinateur comme outil de travail ? Si oui, sur quel logiciel/quelle application ?
+- Utilisez-vous souvent un ordinateur comme outil de travail ? Si oui, sur quel logiciel/quelle application ?
 
-    + Avez-vous déjà assister à des cours en salle informatique au collège ? Dans quelle matière ? Pour faire quoi ?
+- Avez-vous déjà assister à des cours en salle informatique au collège ? Dans quelle matière ? Pour faire quoi ?
 
-    + Avez-vous déjà programmer dans un langage informatique ? Si oui, le(s)quel(s) ? Dans quel objectif ?
+- Avez-vous déjà programmer dans un langage informatique ? Si oui, le(s)quel(s) ? Dans quel objectif ?
 
-    + Qu'est-ce que vous aimeriez savoir faire sur l'ordinateur ?
+- Qu'est-ce que vous aimeriez savoir faire sur l'ordinateur ?
 
 b) Indiquer, dans un second paragraphe, votre projet d'orientation en donnant les spécialités que vous aimeriez exercer l'année prochaine, le métier, etc ...
 
