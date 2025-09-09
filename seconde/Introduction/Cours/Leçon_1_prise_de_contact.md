@@ -26,29 +26,27 @@ Il vous est demander d'apporter un porte-vue ou un trieur afin de classer les po
 
 Il est conseillé d'acheter une clé USB dans laquelle vous mettrez le travail que vous aurez effectué en salle informatique.
 
-### IV. Projet d'orientation
+# Activité 
 
-Sur une demi-feuille de papier, inscrivez :
+Après avoir écrit votre nom/prénom sur une feuille de papier, répondre aux questions suivantes :
 
-- Votre nom/prénom.
+a) Expliquer en un paragraphe votre rapport à l'informatique. Par exemple, en indiquant :
 
-- Votre rapport à l'informatique :
+    + Si vous possédez un ordinateur à la maison ? 
 
-    + Possédez-vous un ordinateur à la maison ? L'utilisez-vous souvent ? Si oui, en quoi ?
+    + S'agit-il d'un ordinateur personnel ou à usage familial ? 
 
-    + Avez-vous assister à des leçons nécessitant l'utilisation d'un ordinateur au collège ?
+    + Utilisez-vous souvent un ordinateur comme outil de travail ? Si oui, sur quel logiciel/quelle application ?
 
-    + Avez-vous déjà programmer dans un langage informatique ? Si oui, le(s)quel(s) ?
+    + Avez-vous déjà assister à des cours en salle informatique au collège ? Dans quelle matière ? Pour faire quoi ?
 
-- Votre projet d'orientation :
+    + Avez-vous déjà programmer dans un langage informatique ? Si oui, le(s)quel(s) ? Dans quel objectif ?
 
-    + Quelles sont les spécialités choisies pour l'année de Première ?
+    + Qu'est-ce que vous aimeriez savoir faire sur l'ordinateur ?
 
-    + Le métier que vous souhaitez exercer.
+b) Indiquer, dans un second paragraphe, votre projet d'orientation en donnant les spécialités que vous aimeriez exercer l'année prochaine, le métier, etc ...
 
-### V. Brainstorming
-
-Trouver et noter au bas de la page des mots/phrases en lien avec le terme "Informatique" ou "Numérique".
+c) Donner tous les mots/toutes les phrases auxquels vous pensez lorsqu'on vous énonce les termes "Informatique" ou "Numérique".
 
 ### VI. Quiz
 
