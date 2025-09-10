@@ -20,13 +20,17 @@ En Seconde, le volume horraire est d'une heure et demie par semaine découpée e
 
 La discipline SNT est un préambule de la discipline NSI (Numérique et Sciences Informatiques).
 
-### III. Matériel demandé
+### III. Présentation rapide de la NSI
+
+[https://github.com/boddaert/nsi](https://github.com/boddaert/nsi)
+
+### IV. Matériel demandé
 
 Il vous est demander d'apporter un porte-vue ou un trieur afin de classer les poly comme celui-ci.
 
 Il est conseillé d'acheter une clé USB dans laquelle vous mettrez le travail que vous aurez effectué en salle informatique.
 
-# Activité 
+# Activité 1
 
 Après avoir écrit votre nom/prénom sur une feuille de papier, répondre aux questions suivantes :
 
@@ -48,23 +52,14 @@ b) Indiquer, dans un second paragraphe, votre projet d'orientation en donnant le
 
 c) Donner tous les mots/toutes les phrases auxquels vous pensez lorsqu'on vous énonce les termes "Informatique" ou "Numérique".
 
-### VI. Quiz
+# Activité 2
 
 À l'aide de la vidéo [C'est quoi le code informatique ?](https://www.youtube.com/watch?v=2UqIJlVQE7o), répondre aux questions suivantes :
 
 a) Que pouvons-nous concevoir à l'aide du code informatique ?
 
-....................................................................................................................................................................................................................................................................................................................................................
-..........................................................................................................................................................................
-
 b) Qu'est que le code ? Ou programme informatique ?
 
-....................................................................................................................................................................................................................................................................................................................................................
-..........................................................................................................................................................................
-
 c) À quoi sert un langage de programmation ?
-
-....................................................................................................................................................................................................................................................................................................................................................
-..........................................................................................................................................................................
 
 [Histoire de l'informatique](https://www.youtube.com/watch?v=B1QD9FgCOrc)
