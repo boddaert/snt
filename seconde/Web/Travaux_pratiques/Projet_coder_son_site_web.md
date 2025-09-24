@@ -6,21 +6,23 @@ Seul, vous devrez écrire le code HTML et CSS permettant de construire et d'affi
 
 La page web devra se porter sur une présentation de vous, cela peut être sous forme de Curriculum Vitae décrivant vos compétences, vos loisirs, les sports que vous pratiquez, les passions que vous exercez, etc...
 
+Pour vous aider dans l'écriture de code en HTML et en CSS, des cours simplifiés de ces langages sont consultables respectivement sur les pages [HTML](./HTML.md) et [CSS](./CSS.md).
+
 ## II. Lancement du projet
 
-a) Lire les pages [HTML](./HTML.md) et [CSS](./CSS.md).
+a) Dans votre gestionnaire de fichiers, aller dans votre répertoire `web` et créer un nouveau répertoire `projet_page_web`.
 
-b) Dans votre gestionnaire de fichiers, aller dans votre répertoire `web` et créer un nouveau répertoire `projet_page_web`.
+b) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML (qui se trouve sur la page [HTML](./HTML.md)).
 
-c) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML (qui se trouve sur la page [HTML](./HTML.md)).
+c) Enregistrer sous le fichier dans votre répertoire `projet_page_web` sous la forme `projet_*votre-nom*.html`.
 
-d) Enregistrer sous le fichier dans votre répertoire `projet_page_web` sous la forme `projet_*votre-nom*.html`.
+## III.  Visualiser sa page sur Firefox
 
-e) Visualiser votre page dans le navigateur en cliquant sur l'onglet `Affichage` de Notepad puis cliquer sur `Afficher le fichier dans` et choisir `Firefox`.
+a) Cliquant sur l'onglet `Affichage` de Notepad++
 
-f) Faire le projet.
+b) Choisir `Afficher le fichier dans` puis `Firefox`.
 
-## III. Cahier des charges
+## III. Ce que votre page doit contenir
 
 1. La page web devra contenir (au moins) toutes les balises HTML vues dans [HTML](./HTML.md) :
 
@@ -44,6 +46,7 @@ f) Faire le projet.
  + Un changement de taille de la police
  + Un changement de couleur de texte
  + Un changement de couleur d'arrière-plan du texte
+ + Un sélecteur de classe ou d'ID
 
 ## III. Évaluation
 
