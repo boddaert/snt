@@ -4,9 +4,7 @@
 
 Seul, vous devrez écrire le code HTML et CSS permettant de construire et d'afficher une page web.
 
-La page web devra se porter sur le thème de votre choix en rapport avec l'informatique (informaticien.ne connu.e, un chapitre de SNT, un outil numérique, etc...).
-
-> Vous devrez valider votre choix de thème par votre professeur pour commencer la programmation.
+La page web devra se porter sur une présentation de vous, cela peut être sous forme de Curriculum Vitae décrivant vos compétences, vos loisirs, les sports que vous pratiquez, les passions que vous exercez, etc...
 
 ## II. Lancement du projet
 

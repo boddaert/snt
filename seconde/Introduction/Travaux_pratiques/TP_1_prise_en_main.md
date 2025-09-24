@@ -112,7 +112,7 @@ Dans cette arborescence, le répertoire `H:` est le *répertoire racine*, il est
 
 Répondre aux questions suivantes dans un fichier `arborescence.txt` situé dans le même répertoire :
 
-1. Le répertoire `Corbeille` est-il enfant du réperoire `H:` ?
+1. Le répertoire `Corbeille` est-il enfant du répertoire `H:` ?
 
 2. Le répertoire `H:` est-il parent du répertoire `Travail` ?
 

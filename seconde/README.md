@@ -24,10 +24,6 @@
 
     - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/Modèle_client_serveur.md)
 
-    - TP n°2 : [HTML](./Web/Travaux_pratiques/HTML.md)
-
-    - TP n°3 : [CSS](./Web/Travaux_pratiques/CSS.md)
-
     - Projet n°1 : [Coder son site web](./Web/Travaux_pratiques/Projet_coder_son_site_web.md)
 
 #### Chapitre 2 : Réseaux sociaux
