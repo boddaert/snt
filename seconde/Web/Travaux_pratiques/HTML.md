@@ -30,7 +30,7 @@ Par exemple, l'élément suivant présente du contenu de type paragraphe et gras
 
 Il faut cependant faire attention à imbriquer correctement les balises.
 
-## IV. Structure d'un document HTML
+## IV. Squelette d'un document HTML
 
 Un document HTML est organisé d'une façon précise. 
 
@@ -52,7 +52,7 @@ Voici ci-dessous, un exemple de squelette d'un document HTML :
     <title>Ma page de test</title>
   </head>
   <body>
-    ...
+    <p>test</p>
   </body>
 </html>
 ```

@@ -58,7 +58,7 @@ c) Entrer dans la barre d'adresse l'adresse suivante : [https://www1.ac-lille.fr
 
 d) En parcourant la requête HTTP et la réponse, trouver les informations suivantes et les noter dans un fichier `activite_modele_client_serveur.txt` que vous metterez dans votre répertoire `web` :
 
-1. Le code réponse.
+1. L'état de la réponse.
 
 2. Le type du document.
 

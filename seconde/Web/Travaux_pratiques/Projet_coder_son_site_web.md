@@ -8,13 +8,13 @@ La page web devra se porter sur une présentation de vous, cela peut être sous 
 
 ## II. Lancement du projet
 
-a) Lire les pages [TP_2_HTML](./TP_2_HTML.md) et [TP_3_CSS](./TP_3_CSS.md).
+a) Lire les pages [HTML](./HTML.md) et [CSS](./CSS.md).
 
 b) Dans votre gestionnaire de fichiers, aller dans votre répertoire `web` et créer un nouveau répertoire `projet_page_web`.
 
-c) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML (qui se trouve dans [TP_2_HTML](./TP_2_HTML.md)).
+c) Ouvrir le logiciel `notepad++` et copier sur l'éditeur de texte le squelette du document HTML (qui se trouve sur la page [HTML](./HTML.md)).
 
-d) Enregistrer sous le fichier dans votre répertoire `projet_page_web` sous la forme `*nom du projet*.html`.
+d) Enregistrer sous le fichier dans votre répertoire `projet_page_web` sous la forme `projet_*votre-nom*.html`.
 
 e) Visualiser votre page dans le navigateur en cliquant sur l'onglet `Affichage` de Notepad puis cliquer sur `Afficher le fichier dans` et choisir `Firefox`.
 
@@ -22,7 +22,7 @@ f) Faire le projet.
 
 ## III. Cahier des charges
 
-1. La page web devra contenir (au moins) toutes les balises HTML vues dans [TP_2_HTML](./TP_2_HTML.md) :
+1. La page web devra contenir (au moins) toutes les balises HTML vues dans [HTML](./HTML.md) :
 
  + Un titre
  + Un paragraphe
@@ -34,7 +34,7 @@ f) Faire le projet.
  + Une liste à puces non numérotée
  + Un tableau 
 
-2. La page web devra être stylisée en utilisant (au moins) toutes les règles CSS vu dans [TP_3_CSS](./TP_3_CSS.md) :
+2. La page web devra être stylisée en utilisant (au moins) toutes les règles CSS vu dans [CSS](./CSS.md) :
 
  + Un alignement de texte centré 
  + Un alignement de texte droit
