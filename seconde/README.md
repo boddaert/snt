@@ -22,7 +22,7 @@
 
 - Travaux pratiques :
 
-    - TP n°1: [Modèle client serveur](./Web/Travaux_pratiques/Modèle_client_serveur.md)
+    - TP n°1 : [Modèle client serveur](./Web/Travaux_pratiques/Modèle_client_serveur.md)
 
     - Projet n°1 : [Coder son site web](./Web/Travaux_pratiques/Projet_coder_son_site_web.md)
 
@@ -40,7 +40,7 @@
 
 - Travaux pratiques :
 
-    - PIX ?
+    - TP n°1 : [Présentation orale d'un réseau social au choix](./Réseaux_sociaux/Travaux_pratiques/Présentation_orale.md)
 
 #### Chapitre 3 : Notions transversales de programmation
 
