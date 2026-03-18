@@ -2,9 +2,15 @@
 
 ## I. Description
 
-En Python et à l'aide du module `turtle`, vous devrez dessiner votre prénom.
+En Python et à l'aide du module `turtle`, vous devrez dessiner un paysage.
 
-Le reste peut être personnalisé.
+Cela peut être un paysage de plage, de montagne, de ville ...
+
+Le projet est ouvert mais doit comporter au moins cinq éléments graphiques.
+
+Par exemple, les éléments graphiques qui composent le paysage suivant sont  : montagnes, soleil, arbre, nuage et arrière-plan (ciel et plaine).
+
+![](./img/projet_paysage.png)
 
 ## II. Module Turtle
 

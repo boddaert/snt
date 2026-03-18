@@ -48,17 +48,15 @@
 
     - TP n°1 : [Introduction](./Notions_transversales_de_programmation/Travaux_pratiques/Introduction.md)
 
-    - TP n°2 : [Notions de base primaires](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_primaires.md)
+    - TP n°2 : [Apprendre les bases avec Algoréa](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_primaires.md)
 
-    - TP n°3 : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/Thonny.md)
+    - Leçon : [Thonny](./Notions_transversales_de_programmation/Travaux_pratiques/Thonny.md)
 
     - Projet n°2 : [Écrire son prénom avec Turtle](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_prénom.md)
 
-    - TP n°4 : [Notions de base secondaires](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_secondaires.md)
+    - TP n°3 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/Pyrates.md)
 
-    - TP n°5 : [Notions de base tertiaires](./Notions_transversales_de_programmation/Travaux_pratiques/Notions_de_base_tertiaires.md)
-
-    - TP n°6 : [Pyrates](./Notions_transversales_de_programmation/Travaux_pratiques/Pyrates.md)
+    - Projet n°3 [Dessiner un paysage avec Turtle](./Notions_transversales_de_programmation/Travaux_pratiques/Projet_paysage.md)
 
 #### Chapitre 4 : Internet
 
