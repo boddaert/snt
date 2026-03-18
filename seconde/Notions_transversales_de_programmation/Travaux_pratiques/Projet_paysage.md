@@ -1,4 +1,4 @@
-# Projet : Écrire son prénom
+# Projet : Dessiner un paysage
 
 ## I. Description
 
