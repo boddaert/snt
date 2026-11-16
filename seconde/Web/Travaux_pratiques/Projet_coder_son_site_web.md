@@ -28,13 +28,14 @@ b) Choisir `Afficher le fichier dans` puis `Firefox`.
 
  + Un titre
  + Un paragraphe
- + Un lien hypertexte
+ + Un lien hypertexte (inclus dans un paragraphe)
  + Une image
- + Du texte gras
- + Du texte italique
+ + Du texte gras (inclus dans un paragraphe)
+ + Du texte italique (inclus dans un paragraphe)
  + Une liste à puces numérotée
  + Une liste à puces non numérotée
  + Un tableau 
+ + Un lien hypertexte menant vers une autre page HTML que vous aurez créée
 
 2. La page web devra être stylisée en utilisant (au moins) toutes les règles CSS vu dans [CSS](./CSS.md) :
 

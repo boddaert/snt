@@ -26,15 +26,13 @@ Afin d'évaluer votre niveau de sécurité sur le web, faites le test suivant en
 
 ## III. Bonnes pratiques
 
-Sur votre téléphone portable :
+Quelques bonne pratiques à adopter pour sécuriser votre navigation :
 
-a) Aller dans les paramètres de votre navigateur.
+1. Vider le cache et l'historique de navigation.
 
-b) Vider le cache et l'historique de navigation.
+2. Effacer les cookies.
 
-c) Effacer les cookies.
-
-d) Paramétrer la sécurité du navigateur afin de limiter l'exécution de scripts ou programmes non souhaités.
+3. Paramétrer la sécurité du navigateur afin de limiter l'exécution de scripts ou programmes non souhaités.
 
 ## IV. Droits d'auteur
 
@@ -51,16 +49,6 @@ Le contenu du web est donc soumis aux règles de protection de droits d'auteur.
 
 Pour trouver et utiliser les images libres de droit, il existe plusieurs solutions :
 
-1. Ajouter un filtre sur le moteur de recherche des images :
+1. Ajouter un filtre sur le moteur de recherche des images.
 
-a) Effectuer la recherche `nuit étoilée de van gogh` sur un moteur de recherche.
-
-b) Cliquer sur l'onglet `Images`.
-
-c) Trouver et activer le filtre `Licence Creative Commons`.
-
-2. Utiliser une banque d'images gratuites et libres de droit :
-
-a) Aller sur le site web `123ref`.
-
-b) Taper dans la barre de recherche du site `nuit étoilée de van gogh`.
+2. Utiliser une banque d'images gratuites et libres de droit comme 123ref.

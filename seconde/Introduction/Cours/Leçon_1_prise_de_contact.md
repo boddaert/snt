@@ -4,9 +4,7 @@
 
 Tout le cours de Seconde SNT est disponible à l'adresse : `https://github.com/boddaert/snt`.
 
-Veillez à le noter dans votre cahier ou votre agenda pour pouvoir le consulter à tout moment.
-
-Il est stocké sur un serveur et est donc accessible depuis n'importe quel appareil muni d'une connexion Internet.
+Il est stocké sur un serveur et est donc accessible depuis n'importe quel appareil numérique muni d'une connexion Internet.
 
 ### II. Les programmes
 
@@ -26,7 +24,7 @@ La discipline SNT est un préambule de la discipline NSI (Numérique et Sciences
 
 ### IV. Matériel demandé
 
-Il vous est demander d'apporter un porte-vue ou un trieur afin de classer les poly comme celui-ci.
+Il vous est demander d'apporter un porte-vue ou un trieur afin de classer les poly.
 
 Il est conseillé d'acheter une clé USB dans laquelle vous mettrez le travail que vous aurez effectué en salle informatique.
 
@@ -38,7 +36,7 @@ a) Expliquer en un paragraphe votre rapport à l'informatique. Par exemple, en i
 
 - Si vous possédez un ordinateur à la maison ? 
 
--  S'agit-il d'un ordinateur personnel ou à usage familial ? 
+- S'agit-il d'un ordinateur personnel ou à usage familial ? 
 
 - Utilisez-vous souvent un ordinateur comme outil de travail ? Si oui, sur quel logiciel/quelle application ?
 
@@ -54,12 +52,20 @@ c) Donner tous les mots/toutes les phrases auxquels vous pensez lorsqu'on vous �
 
 # Activité 2
 
-À l'aide de la vidéo [C'est quoi le code informatique ?](https://www.youtube.com/watch?v=2UqIJlVQE7o), répondre aux questions suivantes :
+À l'aide de la vidéo [C'est quoi le code informatique ?](https://www.youtube.com/watch?v=2UqIJlVQE7o), répondre aux questions suivantes directement sur le poly :
 
 a) Que pouvons-nous concevoir à l'aide du code informatique ?
 
-b) Qu'est que le code ? Ou programme informatique ?
+b) Qu'est que le code ? Ou programme informatique ? 
 
-c) À quoi sert un langage de programmation ?
+c) À quoi sert un langage de programmation ? 
 
-[Histoire de l'informatique](https://www.youtube.com/watch?v=B1QD9FgCOrc)
+À l'aide de la vidéo [Histoire de l'informatique](https://www.youtube.com/watch?v=B1QD9FgCOrc), répondre aux questions suivantes directement sur le poly :
+
+a) En quelle année Blaise Pascal invente la machine à calculer ?
+
+b) Quel est le nom du mathématicien qui créa l'algèbre permettant de faire des calculs booléens ?
+
+c) Expliquer brièvement en quoi consiste la machine de Turing.
+
+d) En quelle année les ordinateurs ont été commercialisés pour la première fois ?

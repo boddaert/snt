@@ -26,17 +26,17 @@ Compléter les définitions ci-dessous à l'aide des mots suivants :
 
 ## III. Repères historiques
 
-En cherchant les informations sur Internet (sur votre téléphone portable), relier ci-dessous les dates avec leur évènement.
+À l'aide de la vidéo [Repères historiques dans le web](https://www.youtube.com/watch?v=l0z2QLV8guk), donner l'évènement à la date associée :
 
-| --Date-- | ---------------Évènement----------------- |
-| :------ | ------: |
-| **1991 -** | **- Tim Berners Lee donne naissance au World Wide Web.** |
-| **1994 -** | **- Ted Nelson invente le système de documents reliés par un lien hypertexte.**|
-| **1993 -** | **- Naissance de Mosaic, l'un des premiers navigateurs web.**|
-| **1989 -** | **- Tim Berners Lee invente le premier langage informatique du web.** |
-| **1965 -** | **- Les langages PHP et JavaScript rendent les pages dynamiques.** |
-| **2001 -** | **- Première transaction en ligne sécurisée.** |
-| **1995 -** | **- Les pages web sont standardisées par le W3C.** |
+- 1965 : .....................................................................................................................................................
+
+- 1989 : .....................................................................................................................................................
+
+- 1993 : .....................................................................................................................................................
+
+- 1994 : .....................................................................................................................................................
+
+- 1995 : .....................................................................................................................................................
 
 ## IV. URLs
 
